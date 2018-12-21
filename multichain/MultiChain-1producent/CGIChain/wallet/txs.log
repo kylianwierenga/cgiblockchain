@@ -1,0 +1,1660 @@
+2018-10-17 11:11:49	Initialized. Chain height: -1, Txs: 0
+2018-10-17 11:11:49	Entity (00000101, 0000000000000000000000000000000000000000) added successfully
+2018-10-17 11:11:49	Entity (00000201, 0000000000000000000000000000000000000000) added successfully
+2018-10-17 11:11:49	Entity (00000102, 0000000000000000000000000000000000000000) added successfully
+2018-10-17 11:11:49	Entity (00000202, 0000000000000000000000000000000000000000) added successfully
+2018-10-17 11:11:49	Entity (00000103, 2ea6ccf3371cd47acc94ad16f1edc6df64603879) added successfully
+2018-10-17 11:11:49	Entity (00000203, 2ea6ccf3371cd47acc94ad16f1edc6df64603879) added successfully
+2018-10-17 11:11:49	Entity (00000105, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	Entity (00000205, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	Entity (00000106, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	Entity (00000206, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	Entity (00000107, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	Entity (00000207, 00000000b5dd4075d770004eeacfc554cc00ec98) added successfully
+2018-10-17 11:11:49	NewBlock 0, Txs: 0, Rows: 0
+2018-10-17 11:11:49	NewTx af57df8b42f781d99152fd7f8499261929f1c690e6ffbd51b6004c8283a20fd7, block 1, flags 00000006, import 0
+2018-10-17 11:11:49	NewBlock 1, Txs: 1, Rows: 6
+2018-10-17 11:11:49	NewBlock 2, Txs: 0, Rows: 0
+2018-10-17 11:11:49	Rolled back to block 1 successfully
+2018-10-17 11:11:49	Rolled back to block 0 successfully
+2018-10-17 11:11:49	Setting flag 00000001 to tx af57df8b42f781d99152fd7f8499261929f1c690e6ffbd51b6004c8283a20fd7
+2018-10-17 11:11:49	NewBlock 1, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 2, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 3, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 4, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 5, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 6, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 7, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 8, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 9, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 10, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 11, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 12, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 13, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 14, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 15, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 16, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 17, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 18, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 19, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 20, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 21, Txs: 0, Rows: 0
+2018-10-17 11:11:50	NewBlock 22, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 23, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 24, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 25, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 26, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 27, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 28, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 29, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 30, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 31, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 32, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 33, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 34, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewTx 7315daf5534a846892a49bdc2f0e01f76c5541d02668f8da9745d86b9ffc82d1, block 35, flags 00000004, import 0
+2018-10-17 11:11:51	NewBlock 35, Txs: 1, Rows: 6
+2018-10-17 11:11:51	NewBlock 36, Txs: 0, Rows: 0
+2018-10-17 11:11:51	NewBlock 37, Txs: 0, Rows: 0
+2018-10-17 11:12:07	NewBlock 38, Txs: 0, Rows: 0
+2018-10-17 11:12:24	NewBlock 39, Txs: 0, Rows: 0
+2018-10-17 11:12:34	NewBlock 40, Txs: 0, Rows: 0
+2018-10-17 11:12:47	NewBlock 41, Txs: 0, Rows: 0
+2018-10-17 11:13:10	NewBlock 42, Txs: 0, Rows: 0
+2018-10-17 11:13:23	NewBlock 43, Txs: 0, Rows: 0
+2018-10-17 11:13:42	NewBlock 44, Txs: 0, Rows: 0
+2018-10-17 11:13:57	NewBlock 45, Txs: 0, Rows: 0
+2018-10-17 11:14:07	NewBlock 46, Txs: 0, Rows: 0
+2018-10-17 11:14:17	NewBlock 47, Txs: 0, Rows: 0
+2018-10-17 11:14:36	NewBlock 48, Txs: 0, Rows: 0
+2018-10-17 11:14:48	NewBlock 49, Txs: 0, Rows: 0
+2018-10-17 11:15:13	NewBlock 50, Txs: 0, Rows: 0
+2018-10-17 11:15:18	NewBlock 51, Txs: 0, Rows: 0
+2018-10-17 11:15:41	NewBlock 52, Txs: 0, Rows: 0
+2018-10-17 11:15:58	NewBlock 53, Txs: 0, Rows: 0
+2018-10-17 11:16:17	NewBlock 54, Txs: 0, Rows: 0
+2018-10-17 11:16:32	NewBlock 55, Txs: 0, Rows: 0
+2018-10-17 11:16:42	NewBlock 56, Txs: 0, Rows: 0
+2018-10-17 11:16:53	NewBlock 57, Txs: 0, Rows: 0
+2018-10-17 11:17:07	NewBlock 58, Txs: 0, Rows: 0
+2018-10-17 11:17:22	NewBlock 59, Txs: 0, Rows: 0
+2018-10-17 11:17:45	NewBlock 60, Txs: 0, Rows: 0
+2018-10-17 11:17:48	NewBlock 61, Txs: 0, Rows: 0
+2018-10-17 11:18:10	NewBlock 62, Txs: 0, Rows: 0
+2018-10-17 11:18:19	NewBlock 63, Txs: 0, Rows: 0
+2018-10-17 11:18:44	NewBlock 64, Txs: 0, Rows: 0
+2018-10-17 11:18:49	NewBlock 65, Txs: 0, Rows: 0
+2018-10-17 11:19:03	NewBlock 66, Txs: 0, Rows: 0
+2018-10-17 11:19:30	NewBlock 67, Txs: 0, Rows: 0
+2018-10-17 11:19:36	NewBlock 68, Txs: 0, Rows: 0
+2018-10-17 11:19:50	NewBlock 69, Txs: 0, Rows: 0
+2018-10-17 11:20:10	NewBlock 70, Txs: 0, Rows: 0
+2018-10-17 11:20:27	NewBlock 71, Txs: 0, Rows: 0
+2018-10-17 11:20:44	NewBlock 72, Txs: 0, Rows: 0
+2018-10-17 11:20:57	NewBlock 73, Txs: 0, Rows: 0
+2018-10-17 11:21:11	NewBlock 74, Txs: 0, Rows: 0
+2018-10-17 11:21:21	NewBlock 75, Txs: 0, Rows: 0
+2018-10-17 11:21:39	NewBlock 76, Txs: 0, Rows: 0
+2018-10-17 11:21:57	NewBlock 77, Txs: 0, Rows: 0
+2018-10-17 11:22:03	NewTx eff6b23da7addd7e8eb151d4add570b6d82dbdf72262f0ef69f8fcc345399887, block -1, flags 00000004, import 0
+2018-10-17 11:22:09	NewTx 0938a54ffb6ee0f429743c18b5732cacbc8c2fd70776cd3663aa462382e08bc6, block -1, flags 00030004, import 0
+2018-10-17 11:22:10	UpdateTx eff6b23da7, block 78, flags 00000004, import 0
+2018-10-17 11:22:10	NewBlock 78, Txs: 5, Rows: 22
+2018-10-17 11:22:10	UpdateTx 0938a54ffb, block -1, flags 00030004, import 0
+2018-10-17 11:22:18	NewTx e9c8acb3b5c7c2953849b23c695dad3efbb5ffccf7d608ac6d7a07f8b693d906, block -1, flags 00000004, import 0
+2018-10-17 11:22:23	UpdateTx 0938a54ffb, block 79, flags 00030004, import 0
+2018-10-17 11:22:23	UpdateTx e9c8acb3b5, block 79, flags 00000004, import 0
+2018-10-17 11:22:23	NewBlock 79, Txs: 2, Rows: 20
+2018-10-17 11:22:25	NewTx 1dcf2935ba94f83191d9fdcd53b1605a7b78875124114a9a0e90c739b2f40ea6, block -1, flags 00000004, import 0
+2018-10-17 11:22:34	NewTx ee5ee394949324b326581f4c57e857f81967af6b1c31da496bc5c6ddc7774c85, block -1, flags 00000004, import 0
+2018-10-17 11:22:37	UpdateTx 1dcf2935ba, block 80, flags 00000004, import 0
+2018-10-17 11:22:37	UpdateTx ee5ee39494, block 80, flags 00000004, import 0
+2018-10-17 11:22:37	NewBlock 80, Txs: 4, Rows: 22
+2018-10-17 11:22:40	NewTx 04d4b5d6a6ffaddbd8dc334cb6cc75638a98ae6545e108f68ae293a47493eb97, block -1, flags 00000004, import 0
+2018-10-17 11:22:46	NewTx b485761036b47fbb81aa5c0c76316c3cf57344f79158d6b3fd70a225375e67f5, block -1, flags 00000004, import 0
+2018-10-17 11:22:52	UpdateTx 04d4b5d6a6, block 81, flags 00000004, import 0
+2018-10-17 11:22:52	UpdateTx b485761036, block 81, flags 00000004, import 0
+2018-10-17 11:22:52	NewBlock 81, Txs: 4, Rows: 22
+2018-10-17 11:23:06	NewBlock 82, Txs: 0, Rows: 0
+2018-10-17 11:23:21	NewBlock 83, Txs: 0, Rows: 0
+2018-10-17 11:23:39	NewBlock 84, Txs: 0, Rows: 0
+2018-10-17 11:23:58	NewBlock 85, Txs: 0, Rows: 0
+2018-10-17 11:24:09	NewBlock 86, Txs: 0, Rows: 0
+2018-10-17 11:24:21	NewBlock 87, Txs: 0, Rows: 0
+2018-10-17 11:24:38	NewBlock 88, Txs: 0, Rows: 0
+2018-10-17 11:24:56	NewBlock 89, Txs: 0, Rows: 0
+2018-10-17 11:25:12	NewBlock 90, Txs: 0, Rows: 0
+2018-10-17 11:25:27	NewBlock 91, Txs: 0, Rows: 0
+2018-10-17 11:25:45	NewBlock 92, Txs: 0, Rows: 0
+2018-10-17 11:25:56	NewBlock 93, Txs: 0, Rows: 0
+2018-10-17 11:26:09	NewBlock 94, Txs: 0, Rows: 0
+2018-10-17 11:26:20	Rolled back to block 93 successfully
+2018-10-17 11:26:20	Rolled back to block 92 successfully
+2018-10-17 11:26:20	NewBlock 93, Txs: 0, Rows: 0
+2018-10-17 11:26:20	NewBlock 94, Txs: 0, Rows: 0
+2018-10-17 11:26:20	NewBlock 95, Txs: 0, Rows: 0
+2018-10-17 11:29:04	NewBlock 96, Txs: 0, Rows: 0
+2018-10-17 11:29:09	NewBlock 97, Txs: 0, Rows: 0
+2018-10-17 11:29:17	NewBlock 98, Txs: 0, Rows: 0
+2018-10-17 11:29:29	NewBlock 99, Txs: 0, Rows: 0
+2018-10-17 11:29:35	NewBlock 100, Txs: 0, Rows: 0
+2018-10-17 11:29:43	NewBlock 101, Txs: 0, Rows: 0
+2018-10-17 11:29:54	NewBlock 102, Txs: 0, Rows: 0
+2018-10-17 11:30:04	NewBlock 103, Txs: 0, Rows: 0
+2018-10-17 11:30:19	NewBlock 104, Txs: 0, Rows: 0
+2018-10-17 11:30:22	NewBlock 105, Txs: 0, Rows: 0
+2018-10-17 11:30:47	NewBlock 106, Txs: 0, Rows: 0
+2018-10-17 11:33:56	NewTx f0c309727e8afd09ee10d77f00e8378f8b3e4f51758edef1e74a12b107a2f132, block -1, flags 00030004, import 0
+2018-10-17 11:34:13	UpdateTx f0c309727e, block 107, flags 00030004, import 0
+2018-10-17 11:34:13	NewBlock 107, Txs: 1, Rows: 6
+2018-10-17 11:34:17	NewTx 964715deb0c090e53fd52e9536fbf4b2c087e2e8f49fd8d8ac334db104a1b697, block -1, flags 00030004, import 0
+2018-10-17 11:34:25	UpdateTx 964715deb0, block 108, flags 00030004, import 0
+2018-10-17 11:34:25	NewBlock 108, Txs: 1, Rows: 6
+2018-10-17 11:34:29	NewBlock 109, Txs: 0, Rows: 0
+2018-10-17 11:34:35	NewBlock 110, Txs: 0, Rows: 0
+2018-10-17 11:34:44	NewBlock 111, Txs: 0, Rows: 0
+2018-10-17 11:34:47	NewBlock 112, Txs: 0, Rows: 0
+2018-10-17 11:34:52	NewBlock 113, Txs: 0, Rows: 0
+2018-10-17 11:34:56	NewBlock 114, Txs: 0, Rows: 0
+2018-10-17 11:35:25	Initialized. Chain height: 114, Txs: 19
+2018-10-17 11:35:37	NewBlock 115, Txs: 0, Rows: 0
+2018-10-17 11:35:55	NewBlock 116, Txs: 0, Rows: 0
+2018-10-17 11:36:09	NewBlock 117, Txs: 0, Rows: 0
+2018-10-17 11:36:31	NewBlock 118, Txs: 0, Rows: 0
+2018-10-17 11:36:50	NewBlock 119, Txs: 0, Rows: 0
+2018-10-17 11:37:08	NewBlock 120, Txs: 0, Rows: 0
+2018-10-17 11:37:24	NewBlock 121, Txs: 0, Rows: 0
+2018-10-18 14:03:02	Initialized. Chain height: 121, Txs: 19
+2018-10-18 14:03:24	NewTx c58e7fb846d6fc46f116a784c2a72476b957b58ae7ae6274f5ace0c7cf6ee8a2, block -1, flags 00030004, import 0
+2018-10-18 14:03:44	UpdateTx c58e7fb846, block 122, flags 00030004, import 0
+2018-10-18 14:03:44	NewBlock 122, Txs: 1, Rows: 6
+2018-10-18 14:03:57	NewBlock 123, Txs: 0, Rows: 0
+2018-10-18 14:04:02	NewTx e00170d3b6b70688fa975dabf67ed0f590a054a536bab0003ef80bd4681fb218, block -1, flags 00030004, import 0
+2018-10-18 14:04:19	NewTx 002110c3fc2f9d99352832808feb6a380b63a77c01eab8e46c956e03c6cdac55, block -1, flags 00030004, import 0
+2018-10-18 14:04:20	UpdateTx e00170d3b6, block 124, flags 00030004, import 0
+2018-10-18 14:04:20	UpdateTx 002110c3fc, block 124, flags 00030004, import 0
+2018-10-18 14:04:20	NewBlock 124, Txs: 2, Rows: 12
+2018-10-18 14:04:39	NewBlock 125, Txs: 0, Rows: 0
+2018-10-18 14:04:56	NewBlock 126, Txs: 0, Rows: 0
+2018-10-18 14:05:12	NewBlock 127, Txs: 0, Rows: 0
+2018-10-18 14:05:13	NewTx b1d688290e43b837b91549623dc4a359210b2eea1b5ba89fed16772a9b297532, block -1, flags 00030004, import 0
+2018-10-18 14:05:27	NewTx 21c5451aa75f7f6dfb6f595940c6c1b534c14e5e1afe9e8c86d524b81087ee5b, block -1, flags 00030004, import 0
+2018-10-18 14:05:36	UpdateTx b1d688290e, block 128, flags 00030004, import 0
+2018-10-18 14:05:36	UpdateTx 21c5451aa7, block 128, flags 00030004, import 0
+2018-10-18 14:05:36	NewBlock 128, Txs: 2, Rows: 12
+2018-10-18 14:05:56	NewBlock 129, Txs: 0, Rows: 0
+2018-10-18 14:06:15	NewBlock 130, Txs: 0, Rows: 0
+2018-10-18 14:06:26	NewBlock 131, Txs: 0, Rows: 0
+2018-10-18 14:06:47	NewBlock 132, Txs: 0, Rows: 0
+2018-10-18 14:07:06	NewBlock 133, Txs: 0, Rows: 0
+2018-10-18 14:07:14	NewBlock 134, Txs: 0, Rows: 0
+2018-10-18 14:07:19	NewBlock 135, Txs: 0, Rows: 0
+2018-10-18 14:07:29	NewBlock 136, Txs: 0, Rows: 0
+2018-10-18 14:07:46	NewBlock 137, Txs: 0, Rows: 0
+2018-10-18 14:07:59	NewTx 720c42d2e29ec57d97a28f738e8b91534658be1a9e09f92ac15ee676fcc5fd82, block -1, flags 00030004, import 0
+2018-10-18 14:08:07	UpdateTx 720c42d2e2, block 138, flags 00030004, import 0
+2018-10-18 14:08:07	NewBlock 138, Txs: 1, Rows: 6
+2018-10-18 14:08:25	Initialized. Chain height: 138, Txs: 25
+2018-10-18 14:08:29	NewTx dad708db4cd9f2c128d21659dcc24f247bfe5e9afceac028227222d2ac41f2ee, block -1, flags 00030004, import 0
+2018-10-18 14:08:34	UpdateTx dad708db4c, block 139, flags 00030004, import 0
+2018-10-18 14:08:34	NewBlock 139, Txs: 1, Rows: 6
+2018-10-18 14:08:42	NewBlock 140, Txs: 0, Rows: 0
+2018-10-18 14:08:52	NewTx ee6df1d20bf19adae5c871a4b2910866ce445b691ac81198adc3dcac75b02178, block -1, flags 00030004, import 0
+2018-10-18 14:08:55	UpdateTx ee6df1d20b, block 141, flags 00030004, import 0
+2018-10-18 14:08:55	NewBlock 141, Txs: 1, Rows: 6
+2018-10-18 14:09:11	NewBlock 142, Txs: 0, Rows: 0
+2018-10-18 14:09:28	NewBlock 143, Txs: 0, Rows: 0
+2018-10-18 14:09:44	NewBlock 144, Txs: 0, Rows: 0
+2018-10-18 14:10:02	NewBlock 145, Txs: 0, Rows: 0
+2018-10-18 14:10:13	NewBlock 146, Txs: 0, Rows: 0
+2018-10-18 14:10:31	NewBlock 147, Txs: 0, Rows: 0
+2018-10-18 14:10:45	NewBlock 148, Txs: 0, Rows: 0
+2018-10-18 14:10:58	NewBlock 149, Txs: 0, Rows: 0
+2018-10-18 14:11:07	NewBlock 150, Txs: 0, Rows: 0
+2018-10-18 14:11:30	NewBlock 151, Txs: 0, Rows: 0
+2018-10-18 14:11:48	NewBlock 152, Txs: 0, Rows: 0
+2018-10-18 15:39:17	NewTx 8cc089c6e03aa29e8439902af77408a7bded99f7b85f1d008d649e01f7ee80ad, block -1, flags 00030004, import 0
+2018-10-18 15:39:34	UpdateTx 8cc089c6e0, block 153, flags 00030004, import 0
+2018-10-18 15:39:34	NewBlock 153, Txs: 1, Rows: 6
+2018-10-18 15:39:40	NewBlock 154, Txs: 0, Rows: 0
+2018-10-18 15:39:53	NewBlock 155, Txs: 0, Rows: 0
+2018-10-18 15:40:04	NewBlock 156, Txs: 0, Rows: 0
+2018-10-18 15:40:14	Rolled back to block 155 successfully
+2018-10-18 15:40:14	NewBlock 156, Txs: 0, Rows: 0
+2018-10-18 15:40:14	NewBlock 157, Txs: 0, Rows: 0
+2018-10-18 15:40:19	NewBlock 158, Txs: 0, Rows: 0
+2018-10-18 15:40:25	NewBlock 159, Txs: 0, Rows: 0
+2018-10-18 15:40:30	NewBlock 160, Txs: 0, Rows: 0
+2018-10-18 15:40:37	NewBlock 161, Txs: 0, Rows: 0
+2018-10-18 15:40:43	NewBlock 162, Txs: 0, Rows: 0
+2018-10-18 15:40:47	NewBlock 163, Txs: 0, Rows: 0
+2018-10-18 16:32:03	Initialized. Chain height: 163, Txs: 28
+2018-10-18 20:01:10	Initialized. Chain height: 163, Txs: 28
+2018-10-18 20:01:52	NewTx 9eaa2b3d8676e9020f771d11f0da88adf545b467f701a125461505bcb4c83134, block -1, flags 00030004, import 0
+2018-10-18 20:02:13	UpdateTx 9eaa2b3d86, block 164, flags 00030004, import 0
+2018-10-18 20:02:13	NewBlock 164, Txs: 1, Rows: 6
+2018-10-18 20:02:26	Rolled back to block 163 successfully
+2018-10-18 20:02:26	UpdateTx 9eaa2b3d86, block -1, flags 00030004, import 0
+2018-10-18 20:02:26	UpdateTx 9eaa2b3d86, block 164, flags 00030004, import 0
+2018-10-18 20:02:27	NewBlock 164, Txs: 0, Rows: 3
+2018-10-18 20:02:27	NewBlock 165, Txs: 0, Rows: 0
+2018-10-18 20:03:35	Initialized. Chain height: 165, Txs: 29
+2018-10-18 20:03:51	Rolled back to block 164 successfully
+2018-10-18 20:03:51	Rolled back to block 163 successfully
+2018-10-18 20:03:51	UpdateTx 9eaa2b3d86, block -1, flags 00030004, import 0
+2018-10-18 20:03:52	UpdateTx 9eaa2b3d86, block 164, flags 00030004, import 0
+2018-10-18 20:03:52	NewBlock 164, Txs: 0, Rows: 3
+2018-10-18 20:03:52	NewBlock 165, Txs: 0, Rows: 0
+2018-10-18 20:03:52	NewBlock 166, Txs: 0, Rows: 0
+2018-10-18 20:04:10	NewBlock 167, Txs: 0, Rows: 0
+2018-10-18 20:04:37	Initialized. Chain height: 167, Txs: 29
+2018-10-18 20:04:40	NewBlock 168, Txs: 0, Rows: 0
+2018-10-18 20:04:52	Rolled back to block 167 successfully
+2018-10-18 20:04:53	Rolled back to block 166 successfully
+2018-10-18 20:04:53	Rolled back to block 165 successfully
+2018-10-18 20:04:53	Rolled back to block 164 successfully
+2018-10-18 20:04:53	Rolled back to block 163 successfully
+2018-10-18 20:04:53	UpdateTx 9eaa2b3d86, block -1, flags 00030004, import 0
+2018-10-18 20:04:53	UpdateTx 9eaa2b3d86, block 164, flags 00030004, import 0
+2018-10-18 20:04:53	NewBlock 164, Txs: 0, Rows: 3
+2018-10-18 20:04:54	NewBlock 165, Txs: 0, Rows: 0
+2018-10-18 20:04:54	NewBlock 166, Txs: 0, Rows: 0
+2018-10-18 20:04:54	NewBlock 167, Txs: 0, Rows: 0
+2018-10-18 20:04:55	NewBlock 168, Txs: 0, Rows: 0
+2018-10-18 20:04:55	NewBlock 169, Txs: 0, Rows: 0
+2018-10-18 20:06:33	Initialized. Chain height: 169, Txs: 29
+2018-10-18 20:07:34	Initialized. Chain height: 169, Txs: 29
+2018-10-18 20:07:50	NewBlock 170, Txs: 0, Rows: 0
+2018-10-18 20:10:03	Initialized. Chain height: 170, Txs: 29
+2018-10-18 20:11:37	Initialized. Chain height: 170, Txs: 29
+2018-10-18 20:11:48	Rolled back to block 169 successfully
+2018-10-18 20:11:49	Rolled back to block 168 successfully
+2018-10-18 20:11:49	Rolled back to block 167 successfully
+2018-10-18 20:11:49	Rolled back to block 166 successfully
+2018-10-18 20:11:50	Rolled back to block 165 successfully
+2018-10-18 20:11:50	Rolled back to block 164 successfully
+2018-10-18 20:11:50	Rolled back to block 163 successfully
+2018-10-18 20:11:50	UpdateTx 9eaa2b3d86, block -1, flags 00030004, import 0
+2018-10-18 20:11:51	UpdateTx 9eaa2b3d86, block 164, flags 00030004, import 0
+2018-10-18 20:11:51	NewBlock 164, Txs: 0, Rows: 3
+2018-10-18 20:11:51	NewBlock 165, Txs: 0, Rows: 0
+2018-10-18 20:11:52	NewBlock 166, Txs: 0, Rows: 0
+2018-10-18 20:11:52	NewBlock 167, Txs: 0, Rows: 0
+2018-10-18 20:11:53	NewBlock 168, Txs: 0, Rows: 0
+2018-10-18 20:11:53	NewBlock 169, Txs: 0, Rows: 0
+2018-10-18 20:11:54	NewBlock 170, Txs: 0, Rows: 0
+2018-10-18 20:11:54	NewBlock 171, Txs: 0, Rows: 0
+2018-10-18 20:12:05	NewBlock 172, Txs: 0, Rows: 0
+2018-10-18 20:12:15	NewTx 1cdb98ca1c101bb8a0458e9af6aa93fe262d09e14003eada3013cad0fc3aafbf, block -1, flags 00030004, import 0
+2018-10-18 20:12:16	UpdateTx 1cdb98ca1c, block 173, flags 00030004, import 0
+2018-10-18 20:12:16	NewBlock 173, Txs: 1, Rows: 6
+2018-10-18 20:12:36	NewBlock 174, Txs: 0, Rows: 0
+2018-10-18 20:12:55	Initialized. Chain height: 174, Txs: 30
+2018-10-18 20:19:20	Initialized. Chain height: 174, Txs: 30
+2018-10-18 20:19:22	NewBlock 175, Txs: 0, Rows: 0
+2018-10-18 20:19:32	NewTx e3557116b2713eeef73df77400b2f7f6999803494083f7c92800eabd8f1895bf, block -1, flags 00030004, import 0
+2018-10-18 20:19:34	NewBlock 176, Txs: 1, Rows: 3
+2018-10-18 20:19:34	UpdateTx e3557116b2, block -1, flags 00030004, import 0
+2018-10-18 20:19:50	UpdateTx e3557116b2, block 177, flags 00030004, import 0
+2018-10-18 20:19:51	NewBlock 177, Txs: 0, Rows: 3
+2018-10-18 20:30:30	Initialized. Chain height: 177, Txs: 31
+2018-10-18 20:30:59	NewBlock 178, Txs: 0, Rows: 0
+2018-10-18 20:31:15	NewBlock 179, Txs: 0, Rows: 0
+2018-10-18 20:31:27	NewBlock 180, Txs: 0, Rows: 0
+2018-10-18 20:31:47	NewBlock 181, Txs: 0, Rows: 0
+2018-10-18 20:32:03	NewBlock 182, Txs: 0, Rows: 0
+2018-10-18 20:32:19	NewBlock 183, Txs: 0, Rows: 0
+2018-10-18 20:32:32	NewBlock 184, Txs: 0, Rows: 0
+2018-10-18 20:32:53	NewBlock 185, Txs: 0, Rows: 0
+2018-10-18 20:33:13	NewBlock 186, Txs: 0, Rows: 0
+2018-10-18 20:33:33	NewBlock 187, Txs: 0, Rows: 0
+2018-10-18 21:15:02	NewTx 29213e3a0852f984b5656d5b47f2bea1413df090b46e8d2d9dc5bfacfb8c19d0, block -1, flags 00030004, import 0
+2018-10-18 21:15:24	UpdateTx 29213e3a08, block 188, flags 00030004, import 0
+2018-10-18 21:15:25	NewBlock 188, Txs: 1, Rows: 6
+2018-10-18 21:15:43	NewBlock 189, Txs: 0, Rows: 0
+2018-10-18 21:15:51	NewBlock 190, Txs: 0, Rows: 0
+2018-10-18 21:15:56	NewBlock 191, Txs: 0, Rows: 0
+2018-10-18 21:15:57	NewBlock 192, Txs: 0, Rows: 0
+2018-10-18 21:16:08	NewBlock 193, Txs: 0, Rows: 0
+2018-10-18 21:16:09	NewBlock 194, Txs: 0, Rows: 0
+2018-10-18 21:16:09	NewBlock 195, Txs: 0, Rows: 0
+2018-10-18 21:16:12	NewBlock 196, Txs: 0, Rows: 0
+2018-10-18 21:16:22	NewBlock 197, Txs: 0, Rows: 0
+2018-10-18 21:16:31	NewBlock 198, Txs: 0, Rows: 0
+2018-10-18 21:16:36	NewBlock 199, Txs: 0, Rows: 0
+2018-10-18 21:16:49	Rolled back to block 198 successfully
+2018-10-18 21:16:49	Rolled back to block 197 successfully
+2018-10-18 21:16:49	Rolled back to block 196 successfully
+2018-10-18 21:16:49	NewBlock 197, Txs: 0, Rows: 0
+2018-10-18 21:16:49	NewBlock 198, Txs: 0, Rows: 0
+2018-10-18 21:16:50	NewBlock 199, Txs: 0, Rows: 0
+2018-10-18 21:16:50	NewBlock 200, Txs: 0, Rows: 0
+2018-10-18 21:20:53	NewBlock 201, Txs: 0, Rows: 0
+2018-10-18 21:20:58	NewBlock 202, Txs: 0, Rows: 0
+2018-10-18 21:21:03	NewBlock 203, Txs: 0, Rows: 0
+2018-10-18 21:21:15	NewBlock 204, Txs: 0, Rows: 0
+2018-10-18 21:21:19	NewBlock 205, Txs: 0, Rows: 0
+2018-10-18 21:21:23	NewBlock 206, Txs: 0, Rows: 0
+2018-10-18 21:21:26	NewBlock 207, Txs: 0, Rows: 0
+2018-10-18 21:21:34	NewBlock 208, Txs: 0, Rows: 0
+2018-10-18 21:21:43	NewBlock 209, Txs: 0, Rows: 0
+2018-10-18 21:21:46	NewBlock 210, Txs: 0, Rows: 0
+2018-10-18 21:22:11	NewBlock 211, Txs: 0, Rows: 0
+2018-10-19 10:01:40	Initialized. Chain height: 211, Txs: 32
+2018-10-19 10:02:19	NewTx 782a814be3b952a3c9f0a42b4416ee414fb51bb0629d96dd7768cd3f3f859bc2, block -1, flags 00030004, import 0
+2018-10-19 10:02:41	UpdateTx 782a814be3, block 212, flags 00030004, import 0
+2018-10-19 10:02:41	NewBlock 212, Txs: 1, Rows: 6
+2018-10-20 12:07:36	Initialized. Chain height: 212, Txs: 33
+2018-10-20 12:07:55	NewBlock 213, Txs: 0, Rows: 0
+2018-10-20 12:08:14	NewBlock 214, Txs: 0, Rows: 0
+2018-10-20 12:08:28	NewBlock 215, Txs: 0, Rows: 0
+2018-10-20 12:08:50	NewBlock 216, Txs: 0, Rows: 0
+2018-10-20 12:09:33	NewBlock 217, Txs: 0, Rows: 0
+2018-10-20 12:09:34	NewBlock 218, Txs: 0, Rows: 0
+2018-10-20 12:09:44	NewBlock 219, Txs: 0, Rows: 0
+2018-10-20 12:10:07	NewBlock 220, Txs: 0, Rows: 0
+2018-10-20 12:10:27	NewBlock 221, Txs: 0, Rows: 0
+2018-10-20 12:10:46	NewBlock 222, Txs: 0, Rows: 0
+2018-10-20 12:17:16	NewTx 4c3628ac5f4302973a7682524be6c3aed983016c220a515eaab9c71097dbcfcb, block -1, flags 00030004, import 0
+2018-10-20 12:17:34	NewTx e07aa744a5b24118b41c881c644909e4b64f3bf454af7c7651396b10ac8e5de3, block -1, flags 00030004, import 0
+2018-10-20 12:17:39	UpdateTx 4c3628ac5f, block 223, flags 00030004, import 0
+2018-10-20 12:17:39	UpdateTx e07aa744a5, block 223, flags 00030004, import 0
+2018-10-20 12:17:39	NewBlock 223, Txs: 2, Rows: 12
+2018-10-20 12:17:58	NewBlock 224, Txs: 0, Rows: 0
+2018-10-20 12:18:06	NewBlock 225, Txs: 0, Rows: 0
+2018-10-20 12:18:18	NewBlock 226, Txs: 0, Rows: 0
+2018-10-20 12:18:26	NewBlock 227, Txs: 0, Rows: 0
+2018-10-20 12:18:29	NewBlock 228, Txs: 0, Rows: 0
+2018-10-20 12:18:34	NewBlock 229, Txs: 0, Rows: 0
+2018-10-20 12:18:37	NewBlock 230, Txs: 0, Rows: 0
+2018-10-20 12:18:40	NewBlock 231, Txs: 0, Rows: 0
+2018-10-20 12:18:52	NewBlock 232, Txs: 0, Rows: 0
+2018-10-20 12:19:01	NewBlock 233, Txs: 0, Rows: 0
+2018-10-20 12:19:20	NewBlock 234, Txs: 0, Rows: 0
+2018-10-20 12:19:40	Rolled back to block 233 successfully
+2018-10-20 12:19:40	Rolled back to block 232 successfully
+2018-10-20 12:19:40	Rolled back to block 231 successfully
+2018-10-20 12:19:40	NewBlock 232, Txs: 0, Rows: 0
+2018-10-20 12:19:40	NewBlock 233, Txs: 0, Rows: 0
+2018-10-20 12:19:40	NewBlock 234, Txs: 0, Rows: 0
+2018-10-20 12:19:41	NewBlock 235, Txs: 0, Rows: 0
+2018-10-24 22:09:42	Initialized. Chain height: 235, Txs: 35
+2018-10-24 22:10:45	NewBlock 236, Txs: 0, Rows: 0
+2018-10-24 22:11:06	Rolled back to block 235 successfully
+2018-10-24 22:11:06	NewBlock 236, Txs: 0, Rows: 0
+2018-10-24 22:11:07	NewBlock 237, Txs: 0, Rows: 0
+2018-10-24 22:11:18	NewBlock 238, Txs: 0, Rows: 0
+2018-10-24 22:11:35	NewBlock 239, Txs: 0, Rows: 0
+2018-10-24 22:11:53	NewBlock 240, Txs: 0, Rows: 0
+2018-10-24 22:12:08	NewBlock 241, Txs: 0, Rows: 0
+2018-10-24 22:12:31	NewBlock 242, Txs: 0, Rows: 0
+2018-10-24 22:12:44	NewBlock 243, Txs: 0, Rows: 0
+2018-10-24 22:13:07	NewBlock 244, Txs: 0, Rows: 0
+2018-10-24 22:13:08	NewBlock 245, Txs: 0, Rows: 0
+2018-10-24 22:13:29	NewBlock 246, Txs: 0, Rows: 0
+2018-10-24 22:34:42	NewTx 1a2bb4f55f0086bd9b43bc5855298a506dc81f6bde980daf86c2f5d3f04393e0, block -1, flags 00030004, import 0
+2018-10-24 22:34:58	UpdateTx 1a2bb4f55f, block 247, flags 00030004, import 0
+2018-10-24 22:34:59	NewBlock 247, Txs: 1, Rows: 6
+2018-10-24 22:35:02	NewBlock 248, Txs: 0, Rows: 0
+2018-10-24 22:35:06	NewBlock 249, Txs: 0, Rows: 0
+2018-10-24 22:35:07	NewBlock 250, Txs: 0, Rows: 0
+2018-10-24 22:35:16	NewBlock 251, Txs: 0, Rows: 0
+2018-10-24 22:35:21	NewBlock 252, Txs: 0, Rows: 0
+2018-10-24 22:35:27	NewBlock 253, Txs: 0, Rows: 0
+2018-10-24 22:35:38	NewBlock 254, Txs: 0, Rows: 0
+2018-10-24 22:35:47	NewBlock 255, Txs: 0, Rows: 0
+2018-10-24 22:35:56	NewBlock 256, Txs: 0, Rows: 0
+2018-10-24 22:36:01	Rolled back to block 255 successfully
+2018-10-24 22:36:02	NewBlock 256, Txs: 0, Rows: 0
+2018-10-24 22:36:02	NewBlock 257, Txs: 0, Rows: 0
+2018-10-26 00:16:53	Initialized. Chain height: 257, Txs: 36
+2018-10-26 00:17:11	NewTx cd6d316a66111053ef1f30eaef746cc8ca991da4b382d00a2a72425b8160d346, block -1, flags 00030004, import 0
+2018-10-26 00:17:30	UpdateTx cd6d316a66, block 258, flags 00030004, import 0
+2018-10-26 00:17:30	NewBlock 258, Txs: 1, Rows: 6
+2018-10-26 00:17:32	NewBlock 259, Txs: 0, Rows: 0
+2018-10-26 00:17:43	NewTx 001b277919a73b640b9a0f0c57552fe3fb5c7db3d9e4e4bacf271a411760ce68, block -1, flags 00030004, import 0
+2018-10-26 00:17:46	UpdateTx 001b277919, block 260, flags 00030004, import 0
+2018-10-26 00:17:46	NewBlock 260, Txs: 1, Rows: 6
+2018-10-26 00:18:32	NewBlock 261, Txs: 0, Rows: 0
+2018-10-26 00:18:33	NewTx 4952dafeb562d6d13b547f4344d3429ae5d45ecf66e126ac7ea85ea900666d5c, block -1, flags 00030004, import 0
+2018-10-26 00:18:50	UpdateTx 4952dafeb5, block 262, flags 00030004, import 0
+2018-10-26 00:18:50	NewBlock 262, Txs: 1, Rows: 6
+2018-10-26 00:19:06	NewBlock 263, Txs: 0, Rows: 0
+2018-10-26 00:19:08	NewBlock 264, Txs: 0, Rows: 0
+2018-10-26 00:19:20	NewTx bef3236e93ed21bab43771141f3834e0f8eeb5ad849d3813f55ce692fe00bc1b, block -1, flags 00030004, import 0
+2018-10-26 00:19:30	UpdateTx bef3236e93, block 265, flags 00030004, import 0
+2018-10-26 00:19:30	NewBlock 265, Txs: 1, Rows: 6
+2018-10-26 00:19:33	NewBlock 266, Txs: 0, Rows: 0
+2018-10-26 00:19:45	NewBlock 267, Txs: 0, Rows: 0
+2018-10-26 00:19:55	NewBlock 268, Txs: 0, Rows: 0
+2018-10-26 00:20:03	NewTx abcf594f362e4c2257b5d00ad1f4382d376e356f98306ebd3a7f9a8547a5616e, block -1, flags 00030004, import 0
+2018-10-26 00:20:16	UpdateTx abcf594f36, block 269, flags 00030004, import 0
+2018-10-26 00:20:17	NewBlock 269, Txs: 1, Rows: 6
+2018-10-26 00:20:17	NewBlock 270, Txs: 0, Rows: 0
+2018-10-26 00:20:43	NewBlock 271, Txs: 0, Rows: 0
+2018-10-26 00:21:02	NewBlock 272, Txs: 0, Rows: 0
+2018-10-26 00:21:14	NewBlock 273, Txs: 0, Rows: 0
+2018-10-26 00:21:31	NewBlock 274, Txs: 0, Rows: 0
+2018-10-26 00:21:44	NewBlock 275, Txs: 0, Rows: 0
+2018-10-26 00:21:58	NewBlock 276, Txs: 0, Rows: 0
+2018-10-26 00:22:14	NewBlock 277, Txs: 0, Rows: 0
+2018-10-26 00:22:24	NewBlock 278, Txs: 0, Rows: 0
+2018-10-26 00:22:41	Rolled back to block 277 successfully
+2018-10-26 00:22:41	NewBlock 278, Txs: 0, Rows: 0
+2018-10-26 00:22:42	NewBlock 279, Txs: 0, Rows: 0
+2018-10-26 00:22:53	NewBlock 280, Txs: 0, Rows: 0
+2018-10-26 00:23:07	NewBlock 281, Txs: 0, Rows: 0
+2018-10-29 12:57:50	Initialized. Chain height: 281, Txs: 41
+2018-10-29 13:00:48	NewTx 738a58703a25e6fa131dbf1633af9ae3d2ee5881ac8e0e0172864b5e239df5d8, block -1, flags 00030004, import 0
+2018-10-29 13:01:08	UpdateTx 738a58703a, block 282, flags 00030004, import 0
+2018-10-29 13:01:08	NewBlock 282, Txs: 1, Rows: 6
+2018-10-29 13:01:22	NewBlock 283, Txs: 0, Rows: 0
+2018-10-29 13:01:44	NewBlock 284, Txs: 0, Rows: 0
+2018-10-29 13:02:04	NewBlock 285, Txs: 0, Rows: 0
+2018-10-29 13:02:22	NewBlock 286, Txs: 0, Rows: 0
+2018-10-29 13:02:39	NewBlock 287, Txs: 0, Rows: 0
+2018-10-29 13:03:03	NewBlock 288, Txs: 0, Rows: 0
+2018-10-29 13:03:25	NewBlock 289, Txs: 0, Rows: 0
+2018-10-29 13:03:45	NewBlock 290, Txs: 0, Rows: 0
+2018-10-29 13:03:55	NewBlock 291, Txs: 0, Rows: 0
+2018-10-29 13:04:15	NewBlock 292, Txs: 0, Rows: 0
+2018-10-29 13:17:17	Initialized. Chain height: 292, Txs: 42
+2018-10-29 13:18:10	NewTx f23bb11c03806170accd6bd277677ae5acb6e37a94c503568d5ffa252889b323, block -1, flags 00030004, import 0
+2018-10-29 13:18:27	UpdateTx f23bb11c03, block 293, flags 00030004, import 0
+2018-10-29 13:18:27	NewBlock 293, Txs: 1, Rows: 6
+2018-10-29 13:18:39	NewBlock 294, Txs: 0, Rows: 0
+2018-10-29 13:18:59	NewBlock 295, Txs: 0, Rows: 0
+2018-10-30 10:53:37	Initialized. Chain height: 292, Txs: 42
+2018-10-30 10:53:41	NewTx f23bb11c03806170accd6bd277677ae5acb6e37a94c503568d5ffa252889b323, block 293, flags 00030004, import 0
+2018-10-30 10:53:41	NewBlock 293, Txs: 1, Rows: 6
+2018-10-30 10:53:41	NewBlock 294, Txs: 0, Rows: 0
+2018-10-30 10:53:42	NewBlock 295, Txs: 0, Rows: 0
+2018-10-30 10:54:08	Rolled back to block 294 successfully
+2018-10-30 10:54:08	Rolled back to block 293 successfully
+2018-10-30 10:54:08	Rolled back to block 292 successfully
+2018-10-30 10:54:08	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:08	Rolled back to block 291 successfully
+2018-10-30 10:54:08	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:08	Rolled back to block 290 successfully
+2018-10-30 10:54:08	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:08	Rolled back to block 289 successfully
+2018-10-30 10:54:08	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 288 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 287 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 286 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 285 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 284 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 283 successfully
+2018-10-30 10:54:09	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:09	Rolled back to block 282 successfully
+2018-10-30 10:54:10	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:10	Rolled back to block 281 successfully
+2018-10-30 10:54:10	UpdateTx 738a58703a, block -1, flags 00030004, import 0
+2018-10-30 10:54:10	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:10	NewBlock 282, Txs: 0, Rows: 0
+2018-10-30 10:54:10	NewBlock 283, Txs: 0, Rows: 0
+2018-10-30 10:54:10	NewBlock 284, Txs: 0, Rows: 0
+2018-10-30 10:54:10	NewBlock 285, Txs: 0, Rows: 0
+2018-10-30 10:54:11	NewBlock 286, Txs: 0, Rows: 0
+2018-10-30 10:54:11	NewBlock 287, Txs: 0, Rows: 0
+2018-10-30 10:54:11	NewBlock 288, Txs: 0, Rows: 0
+2018-10-30 10:54:11	NewBlock 289, Txs: 0, Rows: 0
+2018-10-30 10:54:11	NewBlock 290, Txs: 0, Rows: 0
+2018-10-30 10:54:12	NewBlock 291, Txs: 0, Rows: 0
+2018-10-30 10:54:12	NewBlock 292, Txs: 0, Rows: 0
+2018-10-30 10:54:12	NewBlock 293, Txs: 0, Rows: 0
+2018-10-30 10:54:12	NewBlock 294, Txs: 0, Rows: 0
+2018-10-30 10:54:13	NewBlock 295, Txs: 0, Rows: 0
+2018-10-30 10:54:13	NewBlock 296, Txs: 0, Rows: 0
+2018-10-30 10:54:13	UpdateTx 738a58703a, block -1, flags 00030004, import 0
+2018-10-30 10:54:13	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:13	NewBlock 297, Txs: 0, Rows: 0
+2018-10-30 10:54:13	UpdateTx 738a58703a, block -1, flags 00030004, import 0
+2018-10-30 10:54:13	UpdateTx f23bb11c03, block -1, flags 00030004, import 0
+2018-10-30 10:54:23	UpdateTx 738a58703a, block 298, flags 00030004, import 0
+2018-10-30 10:54:23	UpdateTx f23bb11c03, block 298, flags 00030004, import 0
+2018-10-30 10:54:23	NewBlock 298, Txs: 0, Rows: 6
+2018-10-30 10:54:34	NewBlock 299, Txs: 0, Rows: 0
+2018-10-30 10:54:54	NewBlock 300, Txs: 0, Rows: 0
+2018-10-30 10:55:10	NewBlock 301, Txs: 0, Rows: 0
+2018-10-30 10:55:26	NewBlock 302, Txs: 0, Rows: 0
+2018-10-30 10:55:40	NewBlock 303, Txs: 0, Rows: 0
+2018-10-30 10:55:43	NewTx 6930ecde83d378ab67050cf497739527b7a0df2c44af8a926f5bf38d8947c96a, block -1, flags 00030004, import 0
+2018-10-30 10:56:11	UpdateTx 6930ecde83, block 304, flags 00030004, import 0
+2018-10-30 10:56:11	NewBlock 304, Txs: 1, Rows: 6
+2018-10-30 10:56:21	NewBlock 305, Txs: 0, Rows: 0
+2018-10-30 10:56:40	NewBlock 306, Txs: 0, Rows: 0
+2018-10-30 10:56:50	NewBlock 307, Txs: 0, Rows: 0
+2018-10-30 10:56:58	NewTx af790687f5486b63fd6eae866d5e55e446746dc5ebb4731b941d6f6646bfd250, block -1, flags 00030004, import 0
+2018-10-30 10:57:02	UpdateTx af790687f5, block 308, flags 00030004, import 0
+2018-10-30 10:57:02	NewBlock 308, Txs: 1, Rows: 6
+2018-10-30 10:57:16	NewBlock 309, Txs: 0, Rows: 0
+2018-10-30 10:57:27	NewBlock 310, Txs: 0, Rows: 0
+2018-10-30 10:57:45	NewBlock 311, Txs: 0, Rows: 0
+2018-10-30 10:57:55	NewTx c427ea2a4c262064eae13702fc2bb0b7167aee32eb1c50e36846e8286fddc9f5, block -1, flags 00030004, import 0
+2018-10-30 10:57:56	UpdateTx c427ea2a4c, block 312, flags 00030004, import 0
+2018-10-30 10:57:56	NewBlock 312, Txs: 1, Rows: 6
+2018-10-30 10:58:12	NewBlock 313, Txs: 0, Rows: 0
+2018-10-30 10:58:31	NewBlock 314, Txs: 0, Rows: 0
+2018-10-30 10:58:44	NewBlock 315, Txs: 0, Rows: 0
+2018-10-30 10:58:59	NewBlock 316, Txs: 0, Rows: 0
+2018-10-30 10:59:13	NewBlock 317, Txs: 0, Rows: 0
+2018-10-30 10:59:27	NewBlock 318, Txs: 0, Rows: 0
+2018-10-30 10:59:41	NewBlock 319, Txs: 0, Rows: 0
+2018-10-30 10:59:55	NewBlock 320, Txs: 0, Rows: 0
+2018-10-30 11:00:08	NewBlock 321, Txs: 0, Rows: 0
+2018-10-30 11:00:23	NewTx b122dd074fe6c9eeadb609ca8cb34d1470d8d9357ba97a491a453b4d89a9a922, block -1, flags 00030004, import 0
+2018-10-30 11:00:29	UpdateTx b122dd074f, block 322, flags 00030004, import 0
+2018-10-30 11:00:29	NewBlock 322, Txs: 1, Rows: 6
+2018-10-30 11:00:30	NewBlock 323, Txs: 0, Rows: 0
+2018-10-30 11:00:57	NewBlock 324, Txs: 0, Rows: 0
+2018-10-30 11:01:16	NewBlock 325, Txs: 0, Rows: 0
+2018-10-30 11:01:47	NewBlock 326, Txs: 0, Rows: 0
+2018-10-30 11:02:01	Rolled back to block 325 successfully
+2018-10-30 11:02:01	NewBlock 326, Txs: 0, Rows: 0
+2018-10-30 11:02:01	NewBlock 327, Txs: 0, Rows: 0
+2018-10-30 11:02:10	NewBlock 328, Txs: 0, Rows: 0
+2018-10-30 11:02:16	NewBlock 329, Txs: 0, Rows: 0
+2018-10-30 11:02:27	NewBlock 330, Txs: 0, Rows: 0
+2018-10-30 11:02:41	NewBlock 331, Txs: 0, Rows: 0
+2018-10-30 11:03:04	NewBlock 332, Txs: 0, Rows: 0
+2018-10-30 11:03:18	NewBlock 333, Txs: 0, Rows: 0
+2018-10-30 11:03:31	NewBlock 334, Txs: 0, Rows: 0
+2018-10-30 11:03:50	NewBlock 335, Txs: 0, Rows: 0
+2018-10-30 11:04:02	NewBlock 336, Txs: 0, Rows: 0
+2018-10-30 11:04:26	NewBlock 337, Txs: 0, Rows: 0
+2018-10-30 11:04:40	NewBlock 338, Txs: 0, Rows: 0
+2018-10-30 11:04:52	NewBlock 339, Txs: 0, Rows: 0
+2018-10-30 11:05:13	NewBlock 340, Txs: 0, Rows: 0
+2018-10-30 11:05:16	NewBlock 341, Txs: 0, Rows: 0
+2018-10-30 11:05:32	NewBlock 342, Txs: 0, Rows: 0
+2018-10-30 11:05:52	NewBlock 343, Txs: 0, Rows: 0
+2018-10-30 11:06:05	NewBlock 344, Txs: 0, Rows: 0
+2018-10-30 11:06:26	NewBlock 345, Txs: 0, Rows: 0
+2018-10-30 11:07:40	NewTx f41700881bb57451cf65650f1167cdeadf7ec9ece94f1100dd394dbbed6ddf42, block -1, flags 00030004, import 0
+2018-10-30 11:07:57	UpdateTx f41700881b, block 346, flags 00030004, import 0
+2018-10-30 11:07:57	NewBlock 346, Txs: 1, Rows: 6
+2018-10-30 11:08:06	NewBlock 347, Txs: 0, Rows: 0
+2018-10-30 11:08:09	NewBlock 348, Txs: 0, Rows: 0
+2018-10-30 11:08:18	NewBlock 349, Txs: 0, Rows: 0
+2018-10-30 11:08:23	NewBlock 350, Txs: 0, Rows: 0
+2018-10-30 11:08:32	NewBlock 351, Txs: 0, Rows: 0
+2018-10-30 11:08:39	NewBlock 352, Txs: 0, Rows: 0
+2018-10-30 11:08:50	NewBlock 353, Txs: 0, Rows: 0
+2018-10-30 11:09:19	NewBlock 354, Txs: 0, Rows: 0
+2018-10-30 11:09:27	NewBlock 355, Txs: 0, Rows: 0
+2018-10-30 11:09:50	NewBlock 356, Txs: 0, Rows: 0
+2018-10-30 11:10:04	NewBlock 357, Txs: 0, Rows: 0
+2018-10-30 11:10:29	NewBlock 358, Txs: 0, Rows: 0
+2018-10-30 11:10:35	NewBlock 359, Txs: 0, Rows: 0
+2018-10-30 11:10:47	NewBlock 360, Txs: 0, Rows: 0
+2018-10-30 11:11:09	NewBlock 361, Txs: 0, Rows: 0
+2018-10-30 11:11:17	NewTx 8af48e98eff629565c4028307fb381588b95952d86d69f3deb3c73767be9eb48, block -1, flags 00030004, import 0
+2018-10-30 11:11:18	UpdateTx 8af48e98ef, block 362, flags 00030004, import 0
+2018-10-30 11:11:18	NewBlock 362, Txs: 1, Rows: 6
+2018-10-30 11:11:32	NewBlock 363, Txs: 0, Rows: 0
+2018-10-30 11:11:46	NewBlock 364, Txs: 0, Rows: 0
+2018-10-30 11:12:09	NewBlock 365, Txs: 0, Rows: 0
+2018-10-30 11:12:25	NewBlock 366, Txs: 0, Rows: 0
+2018-10-30 11:12:41	NewBlock 367, Txs: 0, Rows: 0
+2018-10-30 11:12:42	NewBlock 368, Txs: 0, Rows: 0
+2018-10-30 11:13:08	NewBlock 369, Txs: 0, Rows: 0
+2018-11-08 13:12:39	Initialized. Chain height: 369, Txs: 49
+2018-11-08 13:13:07	NewBlock 370, Txs: 0, Rows: 0
+2018-11-08 13:13:18	NewBlock 371, Txs: 0, Rows: 0
+2018-11-08 13:13:20	NewTx abc03f024298888b3d31363914ad43a3db2678b837e41bc22c10f6d8c5729b59, block -1, flags 00030004, import 0
+2018-11-08 13:13:37	UpdateTx abc03f0242, block 372, flags 00030004, import 0
+2018-11-08 13:13:37	NewBlock 372, Txs: 1, Rows: 6
+2018-11-08 13:13:51	NewBlock 373, Txs: 0, Rows: 0
+2018-11-08 13:14:13	NewBlock 374, Txs: 0, Rows: 0
+2018-11-08 13:14:33	NewBlock 375, Txs: 0, Rows: 0
+2018-11-08 13:15:07	NewBlock 376, Txs: 0, Rows: 0
+2018-11-08 13:15:15	NewBlock 377, Txs: 0, Rows: 0
+2018-11-08 13:15:38	NewBlock 378, Txs: 0, Rows: 0
+2018-11-08 13:16:01	NewBlock 379, Txs: 0, Rows: 0
+2018-11-08 13:16:20	NewBlock 380, Txs: 0, Rows: 0
+2018-11-08 13:16:30	NewBlock 381, Txs: 0, Rows: 0
+2018-11-08 13:16:52	NewBlock 382, Txs: 0, Rows: 0
+2018-12-15 15:21:26	Initialized. Chain height: 382, Txs: 50
+2018-12-15 15:21:38	Rolled back to block 381 successfully
+2018-12-15 15:21:38	Rolled back to block 380 successfully
+2018-12-15 15:21:38	Rolled back to block 379 successfully
+2018-12-15 15:21:38	Rolled back to block 378 successfully
+2018-12-15 15:21:39	Rolled back to block 377 successfully
+2018-12-15 15:21:39	Rolled back to block 376 successfully
+2018-12-15 15:21:39	Rolled back to block 375 successfully
+2018-12-15 15:21:39	Rolled back to block 374 successfully
+2018-12-15 15:21:39	Rolled back to block 373 successfully
+2018-12-15 15:21:39	Rolled back to block 372 successfully
+2018-12-15 15:21:39	Rolled back to block 371 successfully
+2018-12-15 15:21:39	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:39	Rolled back to block 370 successfully
+2018-12-15 15:21:39	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:40	Rolled back to block 369 successfully
+2018-12-15 15:21:40	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:40	NewBlock 370, Txs: 0, Rows: 0
+2018-12-15 15:21:40	NewBlock 371, Txs: 0, Rows: 0
+2018-12-15 15:21:40	NewBlock 372, Txs: 0, Rows: 0
+2018-12-15 15:21:40	NewBlock 373, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 374, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 375, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 376, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 377, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 378, Txs: 0, Rows: 0
+2018-12-15 15:21:41	NewBlock 379, Txs: 0, Rows: 0
+2018-12-15 15:21:42	NewBlock 380, Txs: 0, Rows: 0
+2018-12-15 15:21:42	NewBlock 381, Txs: 0, Rows: 0
+2018-12-15 15:21:42	NewBlock 382, Txs: 0, Rows: 0
+2018-12-15 15:21:42	NewBlock 383, Txs: 0, Rows: 0
+2018-12-15 15:21:42	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:42	NewBlock 384, Txs: 0, Rows: 0
+2018-12-15 15:21:42	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:43	NewBlock 385, Txs: 0, Rows: 0
+2018-12-15 15:21:43	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:43	NewBlock 386, Txs: 0, Rows: 0
+2018-12-15 15:21:43	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:51	NewBlock 387, Txs: 0, Rows: 0
+2018-12-15 15:21:51	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:51	NewBlock 388, Txs: 0, Rows: 0
+2018-12-15 15:21:51	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:52	NewBlock 389, Txs: 0, Rows: 0
+2018-12-15 15:21:52	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:52	NewBlock 390, Txs: 0, Rows: 0
+2018-12-15 15:21:52	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:52	NewBlock 391, Txs: 0, Rows: 0
+2018-12-15 15:21:52	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:21:52	NewBlock 392, Txs: 0, Rows: 0
+2018-12-15 15:21:52	UpdateTx abc03f0242, block -1, flags 00030004, import 0
+2018-12-15 15:22:45	UpdateTx abc03f0242, block 393, flags 00030004, import 0
+2018-12-15 15:22:45	NewBlock 393, Txs: 0, Rows: 3
+2018-12-15 15:22:56	NewBlock 394, Txs: 0, Rows: 0
+2018-12-15 15:23:17	NewBlock 395, Txs: 0, Rows: 0
+2018-12-15 15:23:33	NewBlock 396, Txs: 0, Rows: 0
+2018-12-15 15:23:49	NewBlock 397, Txs: 0, Rows: 0
+2018-12-15 15:24:03	NewBlock 398, Txs: 0, Rows: 0
+2018-12-15 15:24:24	NewBlock 399, Txs: 0, Rows: 0
+2018-12-15 15:24:45	NewBlock 400, Txs: 0, Rows: 0
+2018-12-15 15:25:04	NewBlock 401, Txs: 0, Rows: 0
+2018-12-15 15:25:14	NewBlock 402, Txs: 0, Rows: 0
+2018-12-15 15:25:35	NewBlock 403, Txs: 0, Rows: 0
+2018-12-15 15:26:32	NewTx 729b1905971d95c10d6f39eb532b2a168308a254648893b21363495681d71505, block -1, flags 00030004, import 0
+2018-12-15 15:26:46	NewTx 9b65a2ad13d4a07a6c8bcc530ba736bf9e82523fbe1058078080009ebe0a559e, block -1, flags 00030004, import 0
+2018-12-15 15:26:49	UpdateTx 729b190597, block 404, flags 00030004, import 0
+2018-12-15 15:26:49	UpdateTx 9b65a2ad13, block 404, flags 00030004, import 0
+2018-12-15 15:26:49	NewBlock 404, Txs: 2, Rows: 12
+2018-12-15 15:26:54	NewBlock 405, Txs: 0, Rows: 0
+2018-12-15 15:26:55	NewBlock 406, Txs: 0, Rows: 0
+2018-12-15 15:26:57	NewBlock 407, Txs: 0, Rows: 0
+2018-12-15 15:27:02	NewBlock 408, Txs: 0, Rows: 0
+2018-12-15 15:27:10	NewBlock 409, Txs: 0, Rows: 0
+2018-12-15 15:27:27	NewBlock 410, Txs: 0, Rows: 0
+2018-12-15 15:27:56	NewBlock 411, Txs: 0, Rows: 0
+2018-12-15 15:28:06	NewBlock 412, Txs: 0, Rows: 0
+2018-12-15 15:28:18	NewBlock 413, Txs: 0, Rows: 0
+2018-12-15 15:28:33	NewBlock 414, Txs: 0, Rows: 0
+2018-12-15 15:28:48	NewBlock 415, Txs: 0, Rows: 0
+2018-12-15 15:29:10	NewBlock 416, Txs: 0, Rows: 0
+2018-12-15 15:29:24	NewBlock 417, Txs: 0, Rows: 0
+2018-12-15 15:29:38	NewBlock 418, Txs: 0, Rows: 0
+2018-12-15 15:32:25	Initialized. Chain height: 418, Txs: 52
+2018-12-15 15:35:43	NewTx bde4fe3fa8f995068a6067847b586a57eab48491f080dacc288ded66af6afef1, block -1, flags 00030004, import 0
+2018-12-15 15:36:01	UpdateTx bde4fe3fa8, block 419, flags 00030004, import 0
+2018-12-15 15:36:01	NewBlock 419, Txs: 1, Rows: 6
+2018-12-15 15:36:12	NewBlock 420, Txs: 0, Rows: 0
+2018-12-15 15:36:32	NewBlock 421, Txs: 0, Rows: 0
+2018-12-15 15:36:49	NewBlock 422, Txs: 0, Rows: 0
+2018-12-15 15:37:05	NewBlock 423, Txs: 0, Rows: 0
+2018-12-15 15:37:18	NewBlock 424, Txs: 0, Rows: 0
+2018-12-15 15:37:40	NewBlock 425, Txs: 0, Rows: 0
+2018-12-15 15:38:00	NewBlock 426, Txs: 0, Rows: 0
+2018-12-15 15:38:19	NewBlock 427, Txs: 0, Rows: 0
+2018-12-15 15:38:29	NewBlock 428, Txs: 0, Rows: 0
+2018-12-15 15:38:51	NewBlock 429, Txs: 0, Rows: 0
+2018-12-15 15:54:20	NewTx 6b27230b83fb17e85abb3a30e96c7ec5c0a8cbac9e22b1a607b87bfbd2a175d7, block -1, flags 00030004, import 0
+2018-12-15 15:54:31	NewTx a12400f049bfb7293e2fb746778037fd960e301ed788b683584c01c58a0da766, block -1, flags 00030004, import 0
+2018-12-15 15:54:38	UpdateTx 6b27230b83, block 430, flags 00030004, import 0
+2018-12-15 15:54:38	UpdateTx a12400f049, block 430, flags 00030004, import 0
+2018-12-15 15:54:38	NewBlock 430, Txs: 2, Rows: 12
+2018-12-15 15:54:47	NewBlock 431, Txs: 0, Rows: 0
+2018-12-15 15:54:56	NewBlock 432, Txs: 0, Rows: 0
+2018-12-15 15:55:06	NewBlock 433, Txs: 0, Rows: 0
+2018-12-15 15:55:09	NewBlock 434, Txs: 0, Rows: 0
+2018-12-15 15:55:20	NewBlock 435, Txs: 0, Rows: 0
+2018-12-15 15:55:27	NewBlock 436, Txs: 0, Rows: 0
+2018-12-15 15:55:40	NewBlock 437, Txs: 0, Rows: 0
+2018-12-15 15:55:49	NewBlock 438, Txs: 0, Rows: 0
+2018-12-15 15:55:58	NewBlock 439, Txs: 0, Rows: 0
+2018-12-15 15:56:10	NewBlock 440, Txs: 0, Rows: 0
+2018-12-15 15:57:23	NewTx fe33b36d129933cc13542baaa95b25d8b0d77a695a2e3689ba6d79f6365bb033, block -1, flags 00030004, import 0
+2018-12-15 15:57:39	UpdateTx fe33b36d12, block 441, flags 00030004, import 0
+2018-12-15 15:57:39	NewBlock 441, Txs: 1, Rows: 6
+2018-12-15 15:57:44	NewBlock 442, Txs: 0, Rows: 0
+2018-12-15 15:57:58	NewBlock 443, Txs: 0, Rows: 0
+2018-12-15 15:58:09	NewBlock 444, Txs: 0, Rows: 0
+2018-12-15 15:58:24	NewBlock 445, Txs: 0, Rows: 0
+2018-12-15 15:58:39	NewBlock 446, Txs: 0, Rows: 0
+2018-12-15 15:58:48	NewBlock 447, Txs: 0, Rows: 0
+2018-12-15 15:58:50	NewBlock 448, Txs: 0, Rows: 0
+2018-12-15 15:58:53	NewTx 6a7d1abee814ca3b00e2786f6e73522dedac9f5a0e6a4b4b2c8d4750e0ccfdb4, block -1, flags 00030004, import 0
+2018-12-15 15:59:05	UpdateTx 6a7d1abee8, block 449, flags 00030004, import 0
+2018-12-15 15:59:05	NewBlock 449, Txs: 1, Rows: 6
+2018-12-15 15:59:30	NewBlock 450, Txs: 0, Rows: 0
+2018-12-15 15:59:38	NewTx bd6a6ae9bd3090d3e68d8ccfb40c558214c19c8b9845e46e197903eb19358a6b, block -1, flags 00030004, import 0
+2018-12-15 15:59:51	UpdateTx bd6a6ae9bd, block 451, flags 00030004, import 0
+2018-12-15 15:59:51	NewBlock 451, Txs: 1, Rows: 6
+2018-12-15 15:59:54	NewBlock 452, Txs: 0, Rows: 0
+2018-12-15 16:00:15	NewBlock 453, Txs: 0, Rows: 0
+2018-12-15 16:00:26	NewBlock 454, Txs: 0, Rows: 0
+2018-12-15 16:00:49	NewBlock 455, Txs: 0, Rows: 0
+2018-12-15 16:00:53	NewBlock 456, Txs: 0, Rows: 0
+2018-12-15 16:01:07	NewBlock 457, Txs: 0, Rows: 0
+2018-12-15 16:01:34	NewBlock 458, Txs: 0, Rows: 0
+2018-12-15 16:01:39	NewBlock 459, Txs: 0, Rows: 0
+2018-12-15 16:01:53	NewBlock 460, Txs: 0, Rows: 0
+2018-12-15 16:02:13	NewBlock 461, Txs: 0, Rows: 0
+2018-12-15 16:04:19	NewTx e35121c6a64a13d33d7c91983df96d934dc6f84dddababd5bc45c9be940d2c1b, block -1, flags 00030004, import 0
+2018-12-15 16:04:42	UpdateTx e35121c6a6, block 462, flags 00030004, import 0
+2018-12-15 16:04:42	NewBlock 462, Txs: 1, Rows: 6
+2018-12-15 16:04:51	NewTx abb91e11c38fa38a44069a32fc724b03d27e7d1333e62ca7f12845ffe6b454c9, block -1, flags 00030004, import 0
+2018-12-15 16:04:53	UpdateTx abb91e11c3, block 463, flags 00030004, import 0
+2018-12-15 16:04:53	NewBlock 463, Txs: 1, Rows: 6
+2018-12-15 16:05:01	NewBlock 464, Txs: 0, Rows: 0
+2018-12-15 16:05:05	NewBlock 465, Txs: 0, Rows: 0
+2018-12-15 16:05:16	NewBlock 466, Txs: 0, Rows: 0
+2018-12-15 16:05:24	NewBlock 467, Txs: 0, Rows: 0
+2018-12-15 16:05:26	NewTx 4c036944e106fd6c6c9d14991c775aac7ff52c345a829a0d803063a82cc6d136, block -1, flags 00030004, import 0
+2018-12-15 16:05:32	UpdateTx 4c036944e1, block 468, flags 00030004, import 0
+2018-12-15 16:05:32	NewBlock 468, Txs: 1, Rows: 6
+2018-12-15 16:05:46	NewTx 6c000599908e222af28ee9ddeef36856bd4e421546f6a20aed4862005b3da506, block -1, flags 00030004, import 0
+2018-12-15 16:05:47	NewBlock 469, Txs: 1, Rows: 3
+2018-12-15 16:05:47	UpdateTx 6c00059990, block -1, flags 00030004, import 0
+2018-12-15 16:05:58	UpdateTx 6c00059990, block 470, flags 00030004, import 0
+2018-12-15 16:05:58	NewBlock 470, Txs: 0, Rows: 3
+2018-12-15 16:06:00	NewBlock 471, Txs: 0, Rows: 0
+2018-12-15 16:06:25	NewBlock 472, Txs: 0, Rows: 0
+2018-12-15 16:06:46	NewBlock 473, Txs: 0, Rows: 0
+2018-12-15 16:07:13	NewBlock 474, Txs: 0, Rows: 0
+2018-12-15 16:07:27	NewBlock 475, Txs: 0, Rows: 0
+2018-12-15 16:07:38	NewBlock 476, Txs: 0, Rows: 0
+2018-12-15 16:07:48	NewBlock 477, Txs: 0, Rows: 0
+2018-12-15 16:07:59	NewBlock 478, Txs: 0, Rows: 0
+2018-12-15 16:08:13	NewBlock 479, Txs: 0, Rows: 0
+2018-12-15 16:08:31	NewBlock 480, Txs: 0, Rows: 0
+2018-12-15 16:08:52	NewBlock 481, Txs: 0, Rows: 0
+2018-12-15 16:09:03	NewBlock 482, Txs: 0, Rows: 0
+2018-12-15 16:28:01	NewTx 81e1aff163df40c2018cf01c5468f4bf0a3ef4986549c7298ec6f36f7f287385, block -1, flags 00030004, import 0
+2018-12-15 16:28:15	NewTx bc6f0e3a1812f647bbca63517e1452901c97834cd21baa6cde1792471079f843, block -1, flags 00030004, import 0
+2018-12-15 16:28:45	UpdateTx 81e1aff163, block 483, flags 00030004, import 0
+2018-12-15 16:28:45	UpdateTx bc6f0e3a18, block 483, flags 00030004, import 0
+2018-12-15 16:28:45	NewBlock 483, Txs: 2, Rows: 12
+2018-12-15 16:28:46	NewBlock 484, Txs: 0, Rows: 0
+2018-12-15 16:28:48	NewBlock 485, Txs: 0, Rows: 0
+2018-12-15 16:28:58	NewBlock 486, Txs: 0, Rows: 0
+2018-12-15 16:29:06	NewBlock 487, Txs: 0, Rows: 0
+2018-12-15 16:29:08	NewBlock 488, Txs: 0, Rows: 0
+2018-12-15 16:29:19	NewBlock 489, Txs: 0, Rows: 0
+2018-12-15 16:29:27	NewBlock 490, Txs: 0, Rows: 0
+2018-12-15 16:29:29	NewBlock 491, Txs: 0, Rows: 0
+2018-12-15 16:29:44	NewBlock 492, Txs: 0, Rows: 0
+2018-12-15 16:29:47	NewBlock 493, Txs: 0, Rows: 0
+2018-12-15 16:29:57	NewTx 28c473fcbb11462a23f8c372c924196c370117c6c0ec44290b1b6a974e499d12, block -1, flags 00030004, import 0
+2018-12-15 16:30:01	UpdateTx 28c473fcbb, block 494, flags 00030004, import 0
+2018-12-15 16:30:01	NewBlock 494, Txs: 1, Rows: 6
+2018-12-15 16:30:08	NewTx 001ef6aceb89a84a2e248f48c57c7e9eb4a35c84f71ff59a7c755bb26786850f, block -1, flags 00030004, import 0
+2018-12-15 16:30:25	NewTx 59cf5677b846b15c5f3320597a40dcbf5f9d336c3ddf1de99dac97d72cf38d5d, block -1, flags 00030004, import 0
+2018-12-15 16:30:35	UpdateTx 001ef6aceb, block 495, flags 00030004, import 0
+2018-12-15 16:30:35	UpdateTx 59cf5677b8, block 495, flags 00030004, import 0
+2018-12-15 16:30:35	NewBlock 495, Txs: 2, Rows: 12
+2018-12-15 16:30:46	NewTx 032b5cdac6388b8e4bba6a3c74e7533e844333356c289feda8d8800f2bbb416d, block -1, flags 00030004, import 0
+2018-12-15 16:31:03	UpdateTx 032b5cdac6, block 496, flags 00030004, import 0
+2018-12-15 16:31:03	NewBlock 496, Txs: 1, Rows: 6
+2018-12-15 16:31:14	NewBlock 497, Txs: 0, Rows: 0
+2018-12-15 16:31:21	NewBlock 498, Txs: 0, Rows: 0
+2018-12-15 16:31:25	NewTx 4b62282f87e17af4208c6c0fbf28efbd567bad34f60789a98269b4d58f5ed094, block -1, flags 00030004, import 0
+2018-12-15 16:31:34	UpdateTx 4b62282f87, block 499, flags 00030004, import 0
+2018-12-15 16:31:34	NewBlock 499, Txs: 1, Rows: 6
+2018-12-15 16:31:49	NewBlock 500, Txs: 0, Rows: 0
+2018-12-15 16:32:02	NewBlock 501, Txs: 0, Rows: 0
+2018-12-15 16:32:17	NewBlock 502, Txs: 0, Rows: 0
+2018-12-15 16:32:31	NewTx 61a2761fa7db6919d638b0c0b271536b4fabbafbdc5e033f85a3cdece27cc88f, block -1, flags 00030004, import 0
+2018-12-15 16:32:35	UpdateTx 61a2761fa7, block 503, flags 00030004, import 0
+2018-12-15 16:32:35	NewBlock 503, Txs: 1, Rows: 6
+2018-12-15 16:32:48	NewBlock 504, Txs: 0, Rows: 0
+2018-12-15 16:32:59	NewBlock 505, Txs: 0, Rows: 0
+2018-12-15 16:33:21	NewBlock 506, Txs: 0, Rows: 0
+2018-12-15 16:33:37	NewBlock 507, Txs: 0, Rows: 0
+2018-12-15 16:33:48	NewBlock 508, Txs: 0, Rows: 0
+2018-12-15 16:34:03	NewBlock 509, Txs: 0, Rows: 0
+2018-12-15 16:34:09	NewTx 41cf783fe9632ca2b406c73c30c3cb9e72d3a8aa19b348305e5ce7e6c9b750f4, block -1, flags 00030004, import 0
+2018-12-15 16:34:27	UpdateTx 41cf783fe9, block 510, flags 00030004, import 0
+2018-12-15 16:34:27	NewBlock 510, Txs: 1, Rows: 6
+2018-12-15 16:34:30	NewBlock 511, Txs: 0, Rows: 0
+2018-12-15 16:34:47	NewBlock 512, Txs: 0, Rows: 0
+2018-12-15 16:35:08	NewBlock 513, Txs: 0, Rows: 0
+2018-12-15 16:35:10	NewBlock 514, Txs: 0, Rows: 0
+2018-12-15 16:35:34	NewBlock 515, Txs: 0, Rows: 0
+2018-12-15 16:35:46	NewBlock 516, Txs: 0, Rows: 0
+2018-12-15 16:36:04	NewBlock 517, Txs: 0, Rows: 0
+2018-12-15 16:36:14	NewBlock 518, Txs: 0, Rows: 0
+2018-12-15 16:36:32	NewBlock 519, Txs: 0, Rows: 0
+2018-12-15 16:36:49	NewBlock 520, Txs: 0, Rows: 0
+2018-12-15 16:44:32	NewTx cc6cc018d3188aa0f07a022a9ac53b019c39df6175a60c008971bf2320c6f999, block -1, flags 00030004, import 0
+2018-12-15 16:44:46	UpdateTx cc6cc018d3, block 521, flags 00030004, import 0
+2018-12-15 16:44:46	NewBlock 521, Txs: 1, Rows: 6
+2018-12-15 16:44:50	NewBlock 522, Txs: 0, Rows: 0
+2018-12-15 16:44:59	NewBlock 523, Txs: 0, Rows: 0
+2018-12-15 16:45:09	NewBlock 524, Txs: 0, Rows: 0
+2018-12-15 16:45:16	NewBlock 525, Txs: 0, Rows: 0
+2018-12-15 16:45:22	NewBlock 526, Txs: 0, Rows: 0
+2018-12-15 16:45:30	NewBlock 527, Txs: 0, Rows: 0
+2018-12-15 16:45:45	NewBlock 528, Txs: 0, Rows: 0
+2018-12-15 16:45:49	NewBlock 529, Txs: 0, Rows: 0
+2018-12-15 16:46:06	NewBlock 530, Txs: 0, Rows: 0
+2018-12-15 16:46:12	Rolled back to block 529 successfully
+2018-12-15 16:46:13	NewBlock 530, Txs: 0, Rows: 0
+2018-12-15 16:46:13	NewBlock 531, Txs: 0, Rows: 0
+2018-12-15 16:46:21	NewBlock 532, Txs: 0, Rows: 0
+2018-12-15 16:46:49	NewBlock 533, Txs: 0, Rows: 0
+2018-12-15 16:48:28	NewTx 13c873745417eb18a1e08a7cce79503a69a8e34759bb57fea1eeb40db9a288e1, block -1, flags 00030004, import 0
+2018-12-15 16:48:43	UpdateTx 13c8737454, block 534, flags 00030004, import 0
+2018-12-15 16:48:43	NewBlock 534, Txs: 1, Rows: 6
+2018-12-15 16:48:54	NewBlock 535, Txs: 0, Rows: 0
+2018-12-15 16:48:59	NewBlock 536, Txs: 0, Rows: 0
+2018-12-15 16:49:09	NewBlock 537, Txs: 0, Rows: 0
+2018-12-15 16:49:17	NewBlock 538, Txs: 0, Rows: 0
+2018-12-15 16:49:22	NewBlock 539, Txs: 0, Rows: 0
+2018-12-15 16:49:32	NewBlock 540, Txs: 0, Rows: 0
+2018-12-15 16:49:33	NewBlock 541, Txs: 0, Rows: 0
+2018-12-15 16:49:51	NewBlock 542, Txs: 0, Rows: 0
+2018-12-15 16:50:16	NewBlock 543, Txs: 0, Rows: 0
+2018-12-15 16:50:33	NewBlock 544, Txs: 0, Rows: 0
+2018-12-15 16:53:12	NewTx cffbdb09d5b452cbd60cd01b143e83c25d96af22d458d6831537503156eeb06a, block -1, flags 00030004, import 0
+2018-12-15 16:53:25	NewTx 62718b35453f327ac55f5a87e703b456e130552e62abf6eda72e244818653d8c, block -1, flags 00030004, import 0
+2018-12-15 16:53:26	UpdateTx cffbdb09d5, block 545, flags 00030004, import 0
+2018-12-15 16:53:26	UpdateTx 62718b3545, block 545, flags 00030004, import 0
+2018-12-15 16:53:26	NewBlock 545, Txs: 2, Rows: 12
+2018-12-15 16:53:30	NewBlock 546, Txs: 0, Rows: 0
+2018-12-15 16:53:35	NewBlock 547, Txs: 0, Rows: 0
+2018-12-15 16:53:40	NewBlock 548, Txs: 0, Rows: 0
+2018-12-15 16:53:55	NewBlock 549, Txs: 0, Rows: 0
+2018-12-15 16:54:03	NewBlock 550, Txs: 0, Rows: 0
+2018-12-15 16:54:12	Rolled back to block 549 successfully
+2018-12-15 16:54:12	Rolled back to block 548 successfully
+2018-12-15 16:54:13	NewBlock 549, Txs: 0, Rows: 0
+2018-12-15 16:54:13	NewBlock 550, Txs: 0, Rows: 0
+2018-12-15 16:54:13	NewBlock 551, Txs: 0, Rows: 0
+2018-12-15 16:54:18	NewBlock 552, Txs: 0, Rows: 0
+2018-12-15 16:54:31	NewBlock 553, Txs: 0, Rows: 0
+2018-12-15 16:54:40	NewBlock 554, Txs: 0, Rows: 0
+2018-12-15 16:54:58	NewBlock 555, Txs: 0, Rows: 0
+2018-12-15 16:55:42	NewTx 37b35795830aa141e3091505900b24521d3e302ab3c5b58dfdd7693921c0d9ff, block -1, flags 00030004, import 0
+2018-12-15 16:56:00	UpdateTx 37b3579583, block 556, flags 00030004, import 0
+2018-12-15 16:56:00	NewBlock 556, Txs: 1, Rows: 6
+2018-12-15 16:56:01	NewTx c00b1b2028a524fc086d5b90ff3a75ce16d4d3a13afb0463201320e934ff0d86, block -1, flags 00030004, import 0
+2018-12-15 16:56:12	UpdateTx c00b1b2028, block 557, flags 00030004, import 0
+2018-12-15 16:56:12	NewBlock 557, Txs: 1, Rows: 6
+2018-12-15 16:56:19	NewBlock 558, Txs: 0, Rows: 0
+2018-12-15 16:56:24	NewBlock 559, Txs: 0, Rows: 0
+2018-12-15 16:56:28	NewBlock 560, Txs: 0, Rows: 0
+2018-12-15 16:56:43	NewBlock 561, Txs: 0, Rows: 0
+2018-12-15 16:56:46	NewTx 8a8c6a5a8ee410781ca85c4fc12c8e1f8c77a7d2eb84965f7bbb362cc1c1c22b, block -1, flags 00030004, import 0
+2018-12-15 16:57:04	UpdateTx 8a8c6a5a8e, block 562, flags 00030004, import 0
+2018-12-15 16:57:04	NewBlock 562, Txs: 1, Rows: 6
+2018-12-15 16:57:17	NewBlock 563, Txs: 0, Rows: 0
+2018-12-15 16:57:29	NewBlock 564, Txs: 0, Rows: 0
+2018-12-15 16:57:44	NewBlock 565, Txs: 0, Rows: 0
+2018-12-15 16:58:03	NewBlock 566, Txs: 0, Rows: 0
+2018-12-15 16:58:05	NewTx 3d9c9cd8a1172d4047294a90c0d7580857d9c65483d20e9c103eb428ba2d54cb, block -1, flags 00030004, import 0
+2018-12-15 16:58:17	UpdateTx 3d9c9cd8a1, block 567, flags 00030004, import 0
+2018-12-15 16:58:17	NewBlock 567, Txs: 1, Rows: 6
+2018-12-15 16:58:35	NewBlock 568, Txs: 0, Rows: 0
+2018-12-15 16:58:46	NewBlock 569, Txs: 0, Rows: 0
+2018-12-15 16:59:10	NewBlock 570, Txs: 0, Rows: 0
+2018-12-15 16:59:19	NewBlock 571, Txs: 0, Rows: 0
+2018-12-15 16:59:32	NewBlock 572, Txs: 0, Rows: 0
+2018-12-15 16:59:45	NewBlock 573, Txs: 0, Rows: 0
+2018-12-15 16:59:55	NewTx b3beaab005cf1af0eabc1fde83998a629d8db51f33858854bfe3987b7802acfd, block -1, flags 00030004, import 0
+2018-12-15 17:00:05	UpdateTx b3beaab005, block 574, flags 00030004, import 0
+2018-12-15 17:00:05	NewBlock 574, Txs: 1, Rows: 6
+2018-12-15 17:00:24	NewBlock 575, Txs: 0, Rows: 0
+2018-12-15 17:00:34	NewTx d68023a50af7f486a7a2f5de727311e63de03a4b551c2e160d486ec79ce9b88f, block -1, flags 00030004, import 0
+2018-12-15 17:00:38	UpdateTx d68023a50a, block 576, flags 00030004, import 0
+2018-12-15 17:00:38	NewBlock 576, Txs: 1, Rows: 6
+2018-12-15 17:00:49	NewBlock 577, Txs: 0, Rows: 0
+2018-12-15 17:01:07	NewBlock 578, Txs: 0, Rows: 0
+2018-12-15 17:01:18	NewBlock 579, Txs: 0, Rows: 0
+2018-12-15 17:01:38	NewBlock 580, Txs: 0, Rows: 0
+2018-12-15 17:01:53	NewBlock 581, Txs: 0, Rows: 0
+2018-12-15 17:02:04	NewBlock 582, Txs: 0, Rows: 0
+2018-12-15 17:02:17	NewBlock 583, Txs: 0, Rows: 0
+2018-12-15 17:02:34	NewBlock 584, Txs: 0, Rows: 0
+2018-12-15 17:02:52	NewBlock 585, Txs: 0, Rows: 0
+2018-12-15 17:03:11	NewBlock 586, Txs: 0, Rows: 0
+2018-12-15 17:03:27	NewBlock 587, Txs: 0, Rows: 0
+2018-12-15 17:17:12	NewTx 59109e3b3e001c5ecfc6fa3c3819dc765b1e03e3efc484ff9a910e14e52db0bc, block -1, flags 00030004, import 0
+2018-12-15 17:17:29	UpdateTx 59109e3b3e, block 588, flags 00030004, import 0
+2018-12-15 17:17:29	NewBlock 588, Txs: 1, Rows: 6
+2018-12-15 17:17:33	NewBlock 589, Txs: 0, Rows: 0
+2018-12-15 17:17:49	NewBlock 590, Txs: 0, Rows: 0
+2018-12-15 17:18:00	NewBlock 591, Txs: 0, Rows: 0
+2018-12-15 17:18:10	NewBlock 592, Txs: 0, Rows: 0
+2018-12-15 17:18:14	NewBlock 593, Txs: 0, Rows: 0
+2018-12-15 17:18:23	NewBlock 594, Txs: 0, Rows: 0
+2018-12-15 17:18:28	NewBlock 595, Txs: 0, Rows: 0
+2018-12-15 17:18:37	NewBlock 596, Txs: 0, Rows: 0
+2018-12-15 17:18:44	NewBlock 597, Txs: 0, Rows: 0
+2018-12-15 17:18:48	NewBlock 598, Txs: 0, Rows: 0
+2018-12-15 17:18:56	NewTx 6a4735d6c7f56ea89519879d1222b903199ed439439047c7baa9f30ab583aa45, block -1, flags 00030004, import 0
+2018-12-15 17:19:06	NewTx 60d66049420a2f72babd8dc5459eacd9182ed22e882955c691b9d51e6531ac4b, block -1, flags 00030004, import 0
+2018-12-15 17:19:11	UpdateTx 6a4735d6c7, block 599, flags 00030004, import 0
+2018-12-15 17:19:12	UpdateTx 60d6604942, block 599, flags 00030004, import 0
+2018-12-15 17:19:12	NewBlock 599, Txs: 2, Rows: 12
+2018-12-15 17:19:33	NewBlock 600, Txs: 0, Rows: 0
+2018-12-16 13:24:58	Initialized. Chain height: 600, Txs: 84
+2018-12-16 13:25:14	NewBlock 601, Txs: 0, Rows: 0
+2018-12-16 13:25:33	Rolled back to block 600 successfully
+2018-12-16 13:25:33	NewBlock 601, Txs: 0, Rows: 0
+2018-12-16 13:25:34	NewBlock 602, Txs: 0, Rows: 0
+2018-12-16 13:25:47	Rolled back to block 601 successfully
+2018-12-16 13:25:47	Rolled back to block 600 successfully
+2018-12-16 13:25:47	NewBlock 601, Txs: 0, Rows: 0
+2018-12-16 13:25:47	NewBlock 602, Txs: 0, Rows: 0
+2018-12-16 13:25:48	NewBlock 603, Txs: 0, Rows: 0
+2018-12-16 13:25:57	NewTx 0b02d541e893595da978778d582049b58eae4649ea487e283a07495769f85ba1, block -1, flags 00030004, import 0
+2018-12-16 13:26:10	Rolled back to block 602 successfully
+2018-12-16 13:26:10	UpdateTx 0b02d541e8, block -1, flags 00030004, import 0
+2018-12-16 13:26:10	Rolled back to block 601 successfully
+2018-12-16 13:26:10	UpdateTx 0b02d541e8, block -1, flags 00030004, import 0
+2018-12-16 13:26:10	Rolled back to block 600 successfully
+2018-12-16 13:26:10	UpdateTx 0b02d541e8, block -1, flags 00030004, import 0
+2018-12-16 13:26:10	NewBlock 601, Txs: 1, Rows: 3
+2018-12-16 13:26:19	NewBlock 602, Txs: 0, Rows: 0
+2018-12-16 13:26:35	NewBlock 603, Txs: 0, Rows: 0
+2018-12-16 13:26:35	UpdateTx 0b02d541e8, block 604, flags 00030004, import 0
+2018-12-16 13:26:35	NewBlock 604, Txs: 0, Rows: 3
+2018-12-16 13:26:44	NewBlock 605, Txs: 0, Rows: 0
+2018-12-16 13:26:47	NewBlock 606, Txs: 0, Rows: 0
+2018-12-16 13:27:03	NewBlock 607, Txs: 0, Rows: 0
+2018-12-16 13:27:24	NewBlock 608, Txs: 0, Rows: 0
+2018-12-16 13:27:44	NewBlock 609, Txs: 0, Rows: 0
+2018-12-16 13:28:03	NewBlock 610, Txs: 0, Rows: 0
+2018-12-16 13:28:14	NewBlock 611, Txs: 0, Rows: 0
+2018-12-16 13:28:35	NewBlock 612, Txs: 0, Rows: 0
+2018-12-16 13:28:46	NewBlock 613, Txs: 0, Rows: 0
+2018-12-16 13:28:54	NewBlock 614, Txs: 0, Rows: 0
+2018-12-16 13:33:49	NewTx d7c33c3e12d84ebe066852ee56860a547a5d764d7191d65653144d4c1c69f2bd, block -1, flags 00030004, import 0
+2018-12-16 13:33:59	UpdateTx d7c33c3e12, block 615, flags 00030004, import 0
+2018-12-16 13:33:59	NewBlock 615, Txs: 1, Rows: 6
+2018-12-16 13:34:01	NewBlock 616, Txs: 0, Rows: 0
+2018-12-16 13:34:02	NewTx 1b2eb7808c3024dbc760741017922599904fdef972776ccaf7558b62bf8a8444, block -1, flags 00030004, import 0
+2018-12-16 13:34:07	UpdateTx 1b2eb7808c, block 617, flags 00030004, import 0
+2018-12-16 13:34:07	NewBlock 617, Txs: 1, Rows: 6
+2018-12-16 13:34:10	NewBlock 618, Txs: 0, Rows: 0
+2018-12-16 13:34:13	NewBlock 619, Txs: 0, Rows: 0
+2018-12-16 13:34:16	NewTx 3dce145433b9e4f2b0e506c2e3c4f2099d8ba2c2b88e1e133df9a20a46b17e8c, block -1, flags 00030004, import 0
+2018-12-16 13:34:29	UpdateTx 3dce145433, block 620, flags 00030004, import 0
+2018-12-16 13:34:29	NewBlock 620, Txs: 1, Rows: 6
+2018-12-16 13:34:36	NewBlock 621, Txs: 0, Rows: 0
+2018-12-16 13:34:38	NewBlock 622, Txs: 0, Rows: 0
+2018-12-16 13:34:39	NewBlock 623, Txs: 0, Rows: 0
+2018-12-16 13:34:40	NewBlock 624, Txs: 0, Rows: 0
+2018-12-16 13:34:59	NewBlock 625, Txs: 0, Rows: 0
+2018-12-16 13:35:23	NewBlock 626, Txs: 0, Rows: 0
+2018-12-16 13:35:47	NewBlock 627, Txs: 0, Rows: 0
+2018-12-16 13:36:27	NewBlock 628, Txs: 0, Rows: 0
+2018-12-16 13:36:28	NewBlock 629, Txs: 0, Rows: 0
+2018-12-16 13:36:36	NewBlock 630, Txs: 0, Rows: 0
+2018-12-16 13:36:43	NewTx 472b95f0b5a81648fd7884dd83033432097957bb9f917352dea4b03d9834205c, block -1, flags 00030004, import 0
+2018-12-16 13:36:57	UpdateTx 472b95f0b5, block 631, flags 00030004, import 0
+2018-12-16 13:36:57	NewBlock 631, Txs: 1, Rows: 6
+2018-12-16 13:37:06	NewBlock 632, Txs: 0, Rows: 0
+2018-12-16 13:37:14	NewBlock 633, Txs: 0, Rows: 0
+2018-12-16 13:37:28	NewBlock 634, Txs: 0, Rows: 0
+2018-12-16 13:37:44	NewBlock 635, Txs: 0, Rows: 0
+2018-12-16 13:37:58	NewBlock 636, Txs: 0, Rows: 0
+2018-12-16 13:38:20	NewBlock 637, Txs: 0, Rows: 0
+2018-12-16 13:38:34	NewBlock 638, Txs: 0, Rows: 0
+2018-12-16 13:38:49	NewBlock 639, Txs: 0, Rows: 0
+2018-12-16 13:39:12	NewBlock 640, Txs: 0, Rows: 0
+2018-12-16 13:39:21	NewBlock 641, Txs: 0, Rows: 0
+2018-12-16 14:16:44	NewTx 931479fc3eab1bf612e8c7ea42f7b05ff1adb052d0ba8989897e1aacf1756bfa, block -1, flags 00030004, import 0
+2018-12-16 14:17:00	UpdateTx 931479fc3e, block 642, flags 00030004, import 0
+2018-12-16 14:17:00	NewBlock 642, Txs: 1, Rows: 6
+2018-12-16 14:17:05	NewBlock 643, Txs: 0, Rows: 0
+2018-12-16 14:17:06	NewBlock 644, Txs: 0, Rows: 0
+2018-12-16 14:17:13	NewBlock 645, Txs: 0, Rows: 0
+2018-12-16 14:17:24	NewBlock 646, Txs: 0, Rows: 0
+2018-12-16 14:17:30	NewBlock 647, Txs: 0, Rows: 0
+2018-12-16 14:17:36	NewBlock 648, Txs: 0, Rows: 0
+2018-12-16 14:17:52	NewBlock 649, Txs: 0, Rows: 0
+2018-12-16 14:17:52	NewBlock 650, Txs: 0, Rows: 0
+2018-12-16 14:18:03	NewBlock 651, Txs: 0, Rows: 0
+2018-12-16 14:18:07	NewBlock 652, Txs: 0, Rows: 0
+2018-12-16 14:25:12	NewTx 496bae2b2c0cf1b78467c7765d25996640fc9da506e23e7c159a1217504c6896, block -1, flags 00030004, import 0
+2018-12-16 14:25:33	UpdateTx 496bae2b2c, block 653, flags 00030004, import 0
+2018-12-16 14:25:33	NewBlock 653, Txs: 1, Rows: 6
+2018-12-16 14:25:36	NewBlock 654, Txs: 0, Rows: 0
+2018-12-16 14:25:52	NewBlock 655, Txs: 0, Rows: 0
+2018-12-16 14:25:55	NewBlock 656, Txs: 0, Rows: 0
+2018-12-16 14:26:04	NewBlock 657, Txs: 0, Rows: 0
+2018-12-16 14:26:05	NewBlock 658, Txs: 0, Rows: 0
+2018-12-16 14:26:09	NewBlock 659, Txs: 0, Rows: 0
+2018-12-16 14:26:14	NewBlock 660, Txs: 0, Rows: 0
+2018-12-16 14:26:17	NewBlock 661, Txs: 0, Rows: 0
+2018-12-16 14:26:27	NewBlock 662, Txs: 0, Rows: 0
+2018-12-16 14:26:34	NewBlock 663, Txs: 0, Rows: 0
+2018-12-16 14:26:35	NewBlock 664, Txs: 0, Rows: 0
+2018-12-16 14:27:02	NewTx 0bfc6bedf42c821fe0e1ff627905eb79e30185547ee431286f818002715f6e79, block -1, flags 00030004, import 0
+2018-12-16 14:27:14	NewTx d954da4e5da0a712694d47d79937899a696b727195ad2db7502b5d79e9ffae0c, block -1, flags 00030004, import 0
+2018-12-16 14:27:15	UpdateTx 0bfc6bedf4, block 665, flags 00030004, import 0
+2018-12-16 14:27:15	UpdateTx d954da4e5d, block 665, flags 00030004, import 0
+2018-12-16 14:27:15	NewBlock 665, Txs: 2, Rows: 12
+2018-12-16 14:27:37	NewBlock 666, Txs: 0, Rows: 0
+2018-12-16 14:27:37	NewTx 7518c7da54674dcbc5fbb8a05fcab8872a00c176cb15163a347f4d9720b80301, block -1, flags 00030004, import 0
+2018-12-16 14:27:58	UpdateTx 7518c7da54, block 667, flags 00030004, import 0
+2018-12-16 14:27:58	NewBlock 667, Txs: 1, Rows: 6
+2018-12-16 14:28:13	NewBlock 668, Txs: 0, Rows: 0
+2018-12-16 14:28:23	NewBlock 669, Txs: 0, Rows: 0
+2018-12-16 14:28:35	NewBlock 670, Txs: 0, Rows: 0
+2018-12-16 14:28:58	NewBlock 671, Txs: 0, Rows: 0
+2018-12-16 14:29:03	NewBlock 672, Txs: 0, Rows: 0
+2018-12-16 14:29:16	NewBlock 673, Txs: 0, Rows: 0
+2018-12-16 14:29:40	NewBlock 674, Txs: 0, Rows: 0
+2018-12-16 14:29:52	NewBlock 675, Txs: 0, Rows: 0
+2018-12-16 14:30:18	NewBlock 676, Txs: 0, Rows: 0
+2018-12-16 14:30:25	Rolled back to block 675 successfully
+2018-12-16 14:30:25	NewBlock 676, Txs: 0, Rows: 0
+2018-12-16 14:30:26	NewBlock 677, Txs: 0, Rows: 0
+2018-12-16 14:31:05	Initialized. Chain height: 677, Txs: 94
+2018-12-16 14:31:41	NewTx 59bdf1257adf4412d8378ef434bdbbf5c3bf23177c1ce3f4bc94d6d129d8cec5, block -1, flags 00030004, import 0
+2018-12-16 14:32:11	NewTx 5b9c7a9d4d127648eba97c9524133405df28b55cd1ab999e52856f4203c0f1c0, block -1, flags 00030004, import 0
+2018-12-16 14:32:20	UpdateTx 59bdf1257a, block 678, flags 00030004, import 0
+2018-12-16 14:32:20	NewBlock 678, Txs: 2, Rows: 9
+2018-12-16 14:32:21	UpdateTx 5b9c7a9d4d, block -1, flags 00030004, import 0
+2018-12-16 14:32:32	UpdateTx 5b9c7a9d4d, block 679, flags 00030004, import 0
+2018-12-16 14:32:32	NewBlock 679, Txs: 0, Rows: 3
+2018-12-16 14:32:51	NewBlock 680, Txs: 0, Rows: 0
+2018-12-16 14:33:12	NewBlock 681, Txs: 0, Rows: 0
+2018-12-16 14:33:13	NewTx 691b6d1e8142f99e19fe25ba8d4e2b2e60fac266dc9d41c843f5757a7f41ac35, block -1, flags 00030004, import 0
+2018-12-16 14:33:25	UpdateTx 691b6d1e81, block 682, flags 00030004, import 0
+2018-12-16 14:33:25	NewBlock 682, Txs: 1, Rows: 6
+2018-12-16 14:33:41	NewBlock 683, Txs: 0, Rows: 0
+2018-12-16 14:34:01	NewBlock 684, Txs: 0, Rows: 0
+2018-12-16 14:34:21	NewTx 27edb656ed095599fd15e9dfb32212a77ffa583cdf968f59aed53768551431b4, block -1, flags 00030004, import 0
+2018-12-16 14:34:48	UpdateTx 27edb656ed, block 685, flags 00030004, import 0
+2018-12-16 14:34:56	NewBlock 685, Txs: 1, Rows: 6
+2018-12-16 14:34:57	NewBlock 686, Txs: 0, Rows: 0
+2018-12-16 14:35:08	NewBlock 687, Txs: 0, Rows: 0
+2018-12-16 14:35:32	NewBlock 688, Txs: 0, Rows: 0
+2018-12-16 14:35:53	NewBlock 689, Txs: 0, Rows: 0
+2018-12-16 18:52:49	Initialized. Chain height: 689, Txs: 98
+2018-12-16 18:53:15	NewBlock 690, Txs: 0, Rows: 0
+2018-12-16 18:53:35	NewBlock 691, Txs: 0, Rows: 0
+2018-12-16 18:53:40	NewBlock 692, Txs: 0, Rows: 0
+2018-12-16 18:53:46	NewTx 87013aa4e6bbd4891d14a2350825001bf74d5fd6a798e73016839036bf45b372, block -1, flags 00030004, import 0
+2018-12-16 18:53:50	UpdateTx 87013aa4e6, block 693, flags 00030004, import 0
+2018-12-16 18:53:51	NewBlock 693, Txs: 1, Rows: 6
+2018-12-16 18:54:29	NewBlock 694, Txs: 0, Rows: 0
+2018-12-16 18:54:49	NewTx 12127a57485e2e0e1d4d2776b868a30192e2eafa705e1fbf2e15206bb76c9772, block -1, flags 00030004, import 0
+2018-12-16 18:54:58	Rolled back to block 693 successfully
+2018-12-16 18:54:59	UpdateTx 12127a5748, block -1, flags 00030004, import 0
+2018-12-16 18:54:59	NewBlock 694, Txs: 1, Rows: 3
+2018-12-16 18:55:00	NewBlock 695, Txs: 0, Rows: 0
+2018-12-16 18:55:00	UpdateTx 12127a5748, block -1, flags 00030004, import 0
+2018-12-16 18:55:02	Rolled back to block 694 successfully
+2018-12-16 18:55:02	UpdateTx 12127a5748, block -1, flags 00030004, import 0
+2018-12-16 18:55:03	Rolled back to block 693 successfully
+2018-12-16 18:55:03	UpdateTx 12127a5748, block -1, flags 00030004, import 0
+2018-12-16 18:55:04	NewBlock 694, Txs: 0, Rows: 0
+2018-12-16 18:55:04	NewBlock 695, Txs: 0, Rows: 0
+2018-12-16 18:55:05	UpdateTx 12127a5748, block 696, flags 00030004, import 0
+2018-12-16 18:55:05	NewBlock 696, Txs: 0, Rows: 3
+2018-12-16 18:55:06	NewTx 72fc84b0a0cf3c4b1080c7912b6d9b5fc2e5e503d14821502c29461d14154628, block -1, flags 00030004, import 0
+2018-12-16 18:55:26	UpdateTx 72fc84b0a0, block 697, flags 00030004, import 0
+2018-12-16 18:55:26	NewBlock 697, Txs: 1, Rows: 6
+2018-12-16 18:55:31	NewBlock 698, Txs: 0, Rows: 0
+2018-12-16 18:56:20	NewBlock 699, Txs: 0, Rows: 0
+2018-12-16 18:56:42	Rolled back to block 698 successfully
+2018-12-16 18:56:42	NewBlock 699, Txs: 0, Rows: 0
+2018-12-16 18:56:43	NewBlock 700, Txs: 0, Rows: 0
+2018-12-16 18:57:00	Rolled back to block 699 successfully
+2018-12-16 18:57:01	Rolled back to block 698 successfully
+2018-12-16 18:57:01	NewBlock 699, Txs: 0, Rows: 0
+2018-12-16 18:57:02	NewBlock 700, Txs: 0, Rows: 0
+2018-12-16 18:57:03	NewBlock 701, Txs: 0, Rows: 0
+2018-12-16 18:57:08	NewBlock 702, Txs: 0, Rows: 0
+2018-12-16 18:57:18	NewBlock 703, Txs: 0, Rows: 0
+2018-12-16 18:57:19	NewBlock 704, Txs: 0, Rows: 0
+2018-12-16 18:57:29	Rolled back to block 703 successfully
+2018-12-16 18:57:29	NewBlock 704, Txs: 0, Rows: 0
+2018-12-16 18:57:30	NewBlock 705, Txs: 0, Rows: 0
+2018-12-16 18:57:49	NewBlock 706, Txs: 0, Rows: 0
+2018-12-16 18:58:19	NewBlock 707, Txs: 0, Rows: 0
+2018-12-16 18:58:28	NewBlock 708, Txs: 0, Rows: 0
+2018-12-16 18:58:49	NewBlock 709, Txs: 0, Rows: 0
+2018-12-16 18:58:55	Rolled back to block 708 successfully
+2018-12-16 18:58:56	NewBlock 709, Txs: 0, Rows: 0
+2018-12-16 18:58:56	NewBlock 710, Txs: 0, Rows: 0
+2018-12-16 18:58:57	NewBlock 711, Txs: 0, Rows: 0
+2018-12-16 18:59:16	NewBlock 712, Txs: 0, Rows: 0
+2018-12-16 18:59:24	NewBlock 713, Txs: 0, Rows: 0
+2018-12-16 18:59:50	NewBlock 714, Txs: 0, Rows: 0
+2018-12-16 18:59:51	NewBlock 715, Txs: 0, Rows: 0
+2018-12-16 19:00:13	NewBlock 716, Txs: 0, Rows: 0
+2018-12-16 19:00:54	NewBlock 717, Txs: 0, Rows: 0
+2018-12-16 19:00:55	NewBlock 718, Txs: 0, Rows: 0
+2018-12-16 19:33:43	NewTx e441992ca226531850d5c0b8f7e70d19f730eab4f3c8653684bd74ef39a94938, block -1, flags 00030004, import 0
+2018-12-16 19:34:04	UpdateTx e441992ca2, block 719, flags 00030004, import 0
+2018-12-16 19:34:05	NewBlock 719, Txs: 1, Rows: 6
+2018-12-16 19:34:06	NewBlock 720, Txs: 0, Rows: 0
+2018-12-16 19:34:16	NewBlock 721, Txs: 0, Rows: 0
+2018-12-16 19:34:24	NewBlock 722, Txs: 0, Rows: 0
+2018-12-16 19:34:27	NewBlock 723, Txs: 0, Rows: 0
+2018-12-16 19:34:40	NewBlock 724, Txs: 0, Rows: 0
+2018-12-16 19:35:01	NewBlock 725, Txs: 0, Rows: 0
+2018-12-16 19:35:02	NewBlock 726, Txs: 0, Rows: 0
+2018-12-16 19:35:14	NewBlock 727, Txs: 0, Rows: 0
+2018-12-16 19:35:18	NewBlock 728, Txs: 0, Rows: 0
+2018-12-16 19:35:26	NewBlock 729, Txs: 0, Rows: 0
+2018-12-16 19:55:49	NewTx 7db1021531aeb0c79ae8c345cf637aef7d7a5c0461896b533470b6eded9389dd, block -1, flags 00030004, import 0
+2018-12-16 19:56:04	UpdateTx 7db1021531, block 730, flags 00030004, import 0
+2018-12-16 19:56:04	NewBlock 730, Txs: 1, Rows: 6
+2018-12-16 19:56:11	NewTx c8eabc6b4b607df51ac3446ef3d0baef7c13b3d06bcd0bdcffb81db95d3d5af0, block -1, flags 00030004, import 0
+2018-12-16 19:56:16	UpdateTx c8eabc6b4b, block 731, flags 00030004, import 0
+2018-12-16 19:56:17	NewBlock 731, Txs: 1, Rows: 6
+2018-12-16 19:56:24	NewBlock 732, Txs: 0, Rows: 0
+2018-12-16 19:56:42	NewBlock 733, Txs: 0, Rows: 0
+2018-12-16 19:56:43	Rolled back to block 732 successfully
+2018-12-16 19:56:43	NewBlock 733, Txs: 0, Rows: 0
+2018-12-16 19:56:44	NewBlock 734, Txs: 0, Rows: 0
+2018-12-16 19:56:52	NewBlock 735, Txs: 0, Rows: 0
+2018-12-16 19:56:58	Rolled back to block 734 successfully
+2018-12-16 19:56:59	NewBlock 735, Txs: 0, Rows: 0
+2018-12-16 19:57:00	NewBlock 736, Txs: 0, Rows: 0
+2018-12-16 19:57:10	NewBlock 737, Txs: 0, Rows: 0
+2018-12-16 19:57:16	NewBlock 738, Txs: 0, Rows: 0
+2018-12-16 19:57:22	NewBlock 739, Txs: 0, Rows: 0
+2018-12-16 19:57:33	NewBlock 740, Txs: 0, Rows: 0
+2018-12-16 19:57:34	NewTx 64c295ce398e3eb2948a17fe429a6f072390cea5b24adc94d452e13064b25be3, block -1, flags 00030004, import 0
+2018-12-16 19:57:45	UpdateTx 64c295ce39, block 741, flags 00030004, import 0
+2018-12-16 19:57:46	NewBlock 741, Txs: 1, Rows: 6
+2018-12-16 19:57:46	NewTx 1d8ca06be955fe420164b9438ac6618b33bd5c50af45f17070428b0db067f608, block -1, flags 00030004, import 0
+2018-12-16 19:58:17	NewTx 1908d9b896c7e4a0ce3755f7e57cf869985c4881bc5f1da01f65819dc4c707ca, block -1, flags 00030004, import 0
+2018-12-16 19:58:18	UpdateTx 1d8ca06be9, block 742, flags 00030004, import 0
+2018-12-16 19:58:18	NewBlock 742, Txs: 2, Rows: 9
+2018-12-16 19:58:18	UpdateTx 1908d9b896, block -1, flags 00030004, import 0
+2018-12-16 19:58:44	NewTx 43ba7494e7163df23d615611b7265da24a94ed629ec1874ccbff9bf7f98c27dd, block -1, flags 00030004, import 0
+2018-12-16 19:58:45	UpdateTx 1908d9b896, block 743, flags 00030004, import 0
+2018-12-16 19:58:45	NewBlock 743, Txs: 1, Rows: 6
+2018-12-16 19:58:45	UpdateTx 43ba7494e7, block -1, flags 00030004, import 0
+2018-12-16 19:58:47	UpdateTx 43ba7494e7, block 744, flags 00030004, import 0
+2018-12-16 19:58:47	NewBlock 744, Txs: 0, Rows: 3
+2018-12-16 19:59:30	NewBlock 745, Txs: 0, Rows: 0
+2018-12-16 19:59:37	NewBlock 746, Txs: 0, Rows: 0
+2018-12-16 19:59:45	NewBlock 747, Txs: 0, Rows: 0
+2018-12-16 20:00:01	NewBlock 748, Txs: 0, Rows: 0
+2018-12-16 20:00:01	NewBlock 749, Txs: 0, Rows: 0
+2018-12-16 20:00:20	NewBlock 750, Txs: 0, Rows: 0
+2018-12-16 20:00:32	NewBlock 751, Txs: 0, Rows: 0
+2018-12-16 20:00:56	NewBlock 752, Txs: 0, Rows: 0
+2018-12-16 20:01:04	NewBlock 753, Txs: 0, Rows: 0
+2018-12-16 20:01:20	NewBlock 754, Txs: 0, Rows: 0
+2018-12-16 20:01:54	NewBlock 755, Txs: 0, Rows: 0
+2018-12-16 20:01:55	NewBlock 756, Txs: 0, Rows: 0
+2018-12-16 20:32:54	NewTx 532e85f7ae728806d6a9d53f3488037e6f47dba251c20fc80c21c52ff837b72b, block -1, flags 00030004, import 0
+2018-12-16 20:33:11	UpdateTx 532e85f7ae, block 757, flags 00030004, import 0
+2018-12-16 20:33:11	NewBlock 757, Txs: 1, Rows: 6
+2018-12-16 20:45:02	Initialized. Chain height: 757, Txs: 109
+2018-12-16 20:45:18	NewBlock 758, Txs: 0, Rows: 0
+2018-12-16 20:45:22	NewTx ccc815e9f1f69e821bd4dba670e293685f77c5e01aa05f3e94ccc62e7a98f209, block -1, flags 00030004, import 0
+2018-12-16 20:45:37	UpdateTx ccc815e9f1, block 759, flags 00030004, import 0
+2018-12-16 20:45:37	NewBlock 759, Txs: 1, Rows: 6
+2018-12-16 20:45:39	NewTx 39aaa93070b16f7684b5ff48ae78dd83e0f862baf5e7b151ab4b9976d99d642d, block -1, flags 00030004, import 0
+2018-12-16 20:45:51	UpdateTx 39aaa93070, block 760, flags 00030004, import 0
+2018-12-16 20:45:51	NewBlock 760, Txs: 1, Rows: 6
+2018-12-16 20:46:13	NewBlock 761, Txs: 0, Rows: 0
+2018-12-16 20:46:49	NewBlock 762, Txs: 0, Rows: 0
+2018-12-16 20:47:07	NewBlock 763, Txs: 0, Rows: 0
+2018-12-16 20:47:23	NewBlock 764, Txs: 0, Rows: 0
+2018-12-16 20:47:48	NewBlock 765, Txs: 0, Rows: 0
+2018-12-16 20:48:06	Rolled back to block 764 successfully
+2018-12-16 20:48:15	Rolled back to block 763 successfully
+2018-12-16 20:48:15	Rolled back to block 762 successfully
+2018-12-16 20:48:15	Rolled back to block 761 successfully
+2018-12-16 20:48:16	Rolled back to block 760 successfully
+2018-12-16 20:48:16	Rolled back to block 759 successfully
+2018-12-16 20:48:16	UpdateTx 39aaa93070, block -1, flags 00030004, import 0
+2018-12-16 20:48:17	Rolled back to block 758 successfully
+2018-12-16 20:48:17	UpdateTx ccc815e9f1, block -1, flags 00030004, import 0
+2018-12-16 20:48:17	UpdateTx 39aaa93070, block -1, flags 00030004, import 0
+2018-12-16 20:48:17	Rolled back to block 757 successfully
+2018-12-16 20:48:17	UpdateTx ccc815e9f1, block -1, flags 00030004, import 0
+2018-12-16 20:48:17	UpdateTx 39aaa93070, block -1, flags 00030004, import 0
+2018-12-16 20:48:18	NewBlock 758, Txs: 0, Rows: 0
+2018-12-16 20:48:18	UpdateTx ccc815e9f1, block 759, flags 00030004, import 0
+2018-12-16 20:48:18	NewBlock 759, Txs: 0, Rows: 3
+2018-12-16 20:48:19	UpdateTx 39aaa93070, block 760, flags 00030004, import 0
+2018-12-16 20:48:19	NewBlock 760, Txs: 0, Rows: 3
+2018-12-16 20:48:19	NewBlock 761, Txs: 0, Rows: 0
+2018-12-16 20:48:20	NewBlock 762, Txs: 0, Rows: 0
+2018-12-16 20:48:20	NewBlock 763, Txs: 0, Rows: 0
+2018-12-16 20:48:21	NewBlock 764, Txs: 0, Rows: 0
+2018-12-16 20:48:21	NewBlock 765, Txs: 0, Rows: 0
+2018-12-16 20:48:22	NewBlock 766, Txs: 0, Rows: 0
+2018-12-16 20:48:22	NewBlock 767, Txs: 0, Rows: 0
+2018-12-16 20:48:29	NewBlock 768, Txs: 0, Rows: 0
+2018-12-16 20:48:43	NewBlock 769, Txs: 0, Rows: 0
+2018-12-16 20:48:44	NewBlock 770, Txs: 0, Rows: 0
+2018-12-20 10:45:00	Initialized. Chain height: 770, Txs: 111
+2018-12-20 10:46:54	NewTx 34ddba328a48d0175d5abfc37ad525b579caa6a7f5d9b40b6468d9d1187e1bac, block -1, flags 00030004, import 0
+2018-12-20 10:47:08	NewTx 01ff2220ab7d19360f40852e2f31835ede7e97b1fbab1901ccecab13b3fc0458, block -1, flags 00030004, import 0
+2018-12-20 10:47:21	UpdateTx 34ddba328a, block 771, flags 00030004, import 0
+2018-12-20 10:47:21	UpdateTx 01ff2220ab, block 771, flags 00030004, import 0
+2018-12-20 10:47:21	NewBlock 771, Txs: 2, Rows: 12
+2018-12-20 10:47:47	NewBlock 772, Txs: 0, Rows: 0
+2018-12-20 10:47:54	NewBlock 773, Txs: 0, Rows: 0
+2018-12-20 10:48:04	NewBlock 774, Txs: 0, Rows: 0
+2018-12-20 10:48:07	NewBlock 775, Txs: 0, Rows: 0
+2018-12-20 10:48:19	NewBlock 776, Txs: 0, Rows: 0
+2018-12-20 10:48:33	NewBlock 777, Txs: 0, Rows: 0
+2018-12-20 10:48:46	NewBlock 778, Txs: 0, Rows: 0
+2018-12-20 10:48:59	NewBlock 779, Txs: 0, Rows: 0
+2018-12-20 10:49:16	NewBlock 780, Txs: 0, Rows: 0
+2018-12-20 10:49:37	NewBlock 781, Txs: 0, Rows: 0
+2018-12-20 10:49:46	NewBlock 782, Txs: 0, Rows: 0
+2018-12-20 10:49:57	NewBlock 783, Txs: 0, Rows: 0
+2018-12-20 11:04:42	NewTx 768eb2b25fc276f1da1db15454c9f7b0266f72b29917138381f6659f1009e9ae, block -1, flags 00030004, import 0
+2018-12-20 11:05:00	UpdateTx 768eb2b25f, block 784, flags 00030004, import 0
+2018-12-20 11:05:00	NewBlock 784, Txs: 1, Rows: 6
+2018-12-20 11:05:02	NewTx 11f1b7d14ac8f2cbfd1f24d4eb18884026a1954daefe20b56ad644f379c8f523, block -1, flags 00030004, import 0
+2018-12-20 11:05:11	UpdateTx 11f1b7d14a, block 785, flags 00030004, import 0
+2018-12-20 11:05:11	NewBlock 785, Txs: 1, Rows: 6
+2018-12-20 11:05:13	NewBlock 786, Txs: 0, Rows: 0
+2018-12-20 11:05:22	NewBlock 787, Txs: 0, Rows: 0
+2018-12-20 11:05:39	NewBlock 788, Txs: 0, Rows: 0
+2018-12-20 11:05:46	NewBlock 789, Txs: 0, Rows: 0
+2018-12-20 11:05:59	NewBlock 790, Txs: 0, Rows: 0
+2018-12-20 11:06:06	NewBlock 791, Txs: 0, Rows: 0
+2018-12-20 11:06:12	NewBlock 792, Txs: 0, Rows: 0
+2018-12-20 11:06:16	NewBlock 793, Txs: 0, Rows: 0
+2018-12-20 11:06:28	NewBlock 794, Txs: 0, Rows: 0
+2018-12-20 11:06:32	NewBlock 795, Txs: 0, Rows: 0
+2018-12-20 11:06:51	NewBlock 796, Txs: 0, Rows: 0
+2018-12-20 11:07:15	NewBlock 797, Txs: 0, Rows: 0
+2018-12-20 11:58:11	NewTx 9cbdb40b249ea8763df895175ca2287350f8f4e097d0c8f9fba3406893605e2b, block -1, flags 00030004, import 0
+2018-12-20 11:58:40	UpdateTx 9cbdb40b24, block 798, flags 00030004, import 0
+2018-12-20 11:58:40	NewBlock 798, Txs: 1, Rows: 6
+2018-12-20 11:58:41	NewBlock 799, Txs: 0, Rows: 0
+2018-12-20 11:58:55	NewBlock 800, Txs: 0, Rows: 0
+2018-12-20 11:58:57	NewBlock 801, Txs: 0, Rows: 0
+2018-12-20 11:59:08	NewBlock 802, Txs: 0, Rows: 0
+2018-12-20 11:59:24	NewBlock 803, Txs: 0, Rows: 0
+2018-12-20 11:59:33	NewBlock 804, Txs: 0, Rows: 0
+2018-12-20 11:59:43	NewBlock 805, Txs: 0, Rows: 0
+2018-12-20 11:59:50	NewBlock 806, Txs: 0, Rows: 0
+2018-12-20 11:59:53	NewBlock 807, Txs: 0, Rows: 0
+2018-12-20 11:59:56	NewBlock 808, Txs: 0, Rows: 0
+2018-12-20 12:00:10	NewBlock 809, Txs: 0, Rows: 0
+2018-12-20 12:00:34	NewBlock 810, Txs: 0, Rows: 0
+2018-12-21 09:05:21	Initialized. Chain height: 810, Txs: 116
+2018-12-21 09:07:52	NewTx 24b49da849b971b45a88709ad456bb57d09a6a340d9fcdace46231449e3c0533, block -1, flags 00030004, import 0
+2018-12-21 09:08:12	UpdateTx 24b49da849, block 811, flags 00030004, import 0
+2018-12-21 09:08:12	NewBlock 811, Txs: 1, Rows: 6
+2018-12-21 09:08:26	Rolled back to block 810 successfully
+2018-12-21 09:08:26	UpdateTx 24b49da849, block -1, flags 00030004, import 0
+2018-12-21 09:08:26	UpdateTx 24b49da849, block 811, flags 00030004, import 0
+2018-12-21 09:08:26	NewBlock 811, Txs: 0, Rows: 3
+2018-12-21 09:08:27	NewBlock 812, Txs: 0, Rows: 0
+2018-12-21 09:08:27	NewBlock 813, Txs: 0, Rows: 0
+2018-12-21 09:08:47	NewBlock 814, Txs: 0, Rows: 0
+2018-12-21 09:09:05	NewBlock 815, Txs: 0, Rows: 0
+2018-12-21 09:09:21	NewBlock 816, Txs: 0, Rows: 0
+2018-12-21 09:09:36	NewBlock 817, Txs: 0, Rows: 0
+2018-12-21 09:10:01	NewBlock 818, Txs: 0, Rows: 0
+2018-12-21 09:10:01	NewBlock 819, Txs: 0, Rows: 0
+2018-12-21 09:10:15	NewBlock 820, Txs: 0, Rows: 0
+2018-12-21 09:10:36	NewBlock 821, Txs: 0, Rows: 0
+2018-12-21 09:10:38	NewBlock 822, Txs: 0, Rows: 0
+2018-12-21 09:17:32	NewTx c250e9b7720e3dd0631e4c5cc0265b81c0fca9648c565eac5a9255ac1e8be6d8, block -1, flags 00030004, import 0
+2018-12-21 09:17:53	UpdateTx c250e9b772, block 823, flags 00030004, import 0
+2018-12-21 09:17:53	NewBlock 823, Txs: 1, Rows: 6
+2018-12-21 09:18:01	NewBlock 824, Txs: 0, Rows: 0
+2018-12-21 09:18:04	NewBlock 825, Txs: 0, Rows: 0
+2018-12-21 09:18:05	NewTx 9be35850bd6ba3a35522e9a4e98aa3a3f190a3935d259806805688c973442caa, block -1, flags 00030004, import 0
+2018-12-21 09:18:07	UpdateTx 9be35850bd, block 826, flags 00030004, import 0
+2018-12-21 09:18:07	NewBlock 826, Txs: 1, Rows: 6
+2018-12-21 09:18:12	NewBlock 827, Txs: 0, Rows: 0
+2018-12-21 09:18:18	NewBlock 828, Txs: 0, Rows: 0
+2018-12-21 09:18:23	NewBlock 829, Txs: 0, Rows: 0
+2018-12-21 09:19:07	NewBlock 830, Txs: 0, Rows: 0
+2018-12-21 09:19:24	NewTx c06bdcb3e4462368ec20d92f0a8907516cbee1a221ced4087523f7011b333190, block -1, flags 00030004, import 0
+2018-12-21 09:19:26	Rolled back to block 829 successfully
+2018-12-21 09:19:26	UpdateTx c06bdcb3e4, block -1, flags 00030004, import 0
+2018-12-21 09:19:26	Rolled back to block 828 successfully
+2018-12-21 09:19:26	UpdateTx c06bdcb3e4, block -1, flags 00030004, import 0
+2018-12-21 09:19:26	NewBlock 829, Txs: 1, Rows: 3
+2018-12-21 09:19:27	NewBlock 830, Txs: 0, Rows: 0
+2018-12-21 09:19:27	UpdateTx c06bdcb3e4, block 831, flags 00030004, import 0
+2018-12-21 09:19:27	NewBlock 831, Txs: 0, Rows: 3
+2018-12-21 09:19:28	NewBlock 832, Txs: 0, Rows: 0
+2018-12-21 09:19:32	NewBlock 833, Txs: 0, Rows: 0
+2018-12-21 09:19:36	Rolled back to block 832 successfully
+2018-12-21 09:19:36	NewBlock 833, Txs: 0, Rows: 0
+2018-12-21 09:19:36	NewBlock 834, Txs: 0, Rows: 0
+2018-12-21 09:19:59	NewBlock 835, Txs: 0, Rows: 0
+2018-12-21 09:20:25	NewBlock 836, Txs: 0, Rows: 0
+2018-12-21 09:20:26	NewTx 2c4cd0a2ba502170a8e329048064cb5e34866ce6994f6bbc35ebe4f98b8f4ff2, block -1, flags 00030004, import 0
+2018-12-21 09:20:43	UpdateTx 2c4cd0a2ba, block 837, flags 00030004, import 0
+2018-12-21 09:20:43	NewBlock 837, Txs: 1, Rows: 6
+2018-12-21 09:20:44	NewTx 174818abd8c354a975cf721e4f660f5f4030ad4bdf6f61df949bb7e81e5b9ee2, block -1, flags 00030004, import 0
+2018-12-21 09:20:56	UpdateTx 174818abd8, block 838, flags 00030004, import 0
+2018-12-21 09:20:56	NewBlock 838, Txs: 1, Rows: 6
+2018-12-21 09:21:06	NewBlock 839, Txs: 0, Rows: 0
+2018-12-21 09:21:18	NewBlock 840, Txs: 0, Rows: 0
+2018-12-21 09:21:39	NewBlock 841, Txs: 0, Rows: 0
+2018-12-21 09:21:41	NewBlock 842, Txs: 0, Rows: 0
+2018-12-21 09:21:57	NewTx ddb555422b7b42bacc9a12fd61e68c3c779037872c4bf75398e7446b86415e52, block -1, flags 00030004, import 0
+2018-12-21 09:21:59	UpdateTx ddb555422b, block 843, flags 00030004, import 0
+2018-12-21 09:21:59	NewBlock 843, Txs: 1, Rows: 6
+2018-12-21 09:22:09	NewTx 1a50af2206aedc13129af9ad2e679c558a19fe757ae98611e4551b2416918fcb, block -1, flags 00030004, import 0
+2018-12-21 09:22:21	UpdateTx 1a50af2206, block 844, flags 00030004, import 0
+2018-12-21 09:22:21	NewBlock 844, Txs: 1, Rows: 6
+2018-12-21 09:22:31	NewBlock 845, Txs: 0, Rows: 0
+2018-12-21 09:22:53	NewBlock 846, Txs: 0, Rows: 0
+2018-12-21 09:23:08	NewBlock 847, Txs: 0, Rows: 0
+2018-12-21 09:23:21	NewBlock 848, Txs: 0, Rows: 0
+2018-12-21 09:23:40	NewBlock 849, Txs: 0, Rows: 0
+2018-12-21 09:23:51	NewBlock 850, Txs: 0, Rows: 0
+2018-12-21 09:24:09	NewBlock 851, Txs: 0, Rows: 0
+2018-12-21 09:24:26	NewBlock 852, Txs: 0, Rows: 0
+2018-12-21 09:24:47	NewBlock 853, Txs: 0, Rows: 0
+2018-12-21 09:24:54	NewBlock 854, Txs: 0, Rows: 0
+2018-12-21 09:25:11	NewBlock 855, Txs: 0, Rows: 0
+2018-12-21 09:35:43	NewTx f9e9fdcd0cb127e523a277e451275aa39b2819c1849a998791eb24497a41e69b, block -1, flags 00030004, import 0
+2018-12-21 09:36:03	UpdateTx f9e9fdcd0c, block 856, flags 00030004, import 0
+2018-12-21 09:36:03	NewBlock 856, Txs: 1, Rows: 6
+2018-12-21 09:36:05	NewBlock 857, Txs: 0, Rows: 0
+2018-12-21 09:36:09	NewBlock 858, Txs: 0, Rows: 0
+2018-12-21 09:36:10	NewTx 980efd3d08553314c4d6ddde90ebda62eb6df438f5abde4821b16d413f7c0933, block -1, flags 00030004, import 0
+2018-12-21 09:36:15	UpdateTx 980efd3d08, block 859, flags 00030004, import 0
+2018-12-21 09:36:15	NewBlock 859, Txs: 1, Rows: 6
+2018-12-21 09:36:40	NewBlock 860, Txs: 0, Rows: 0
+2018-12-21 09:37:04	NewBlock 861, Txs: 0, Rows: 0
+2018-12-21 09:37:07	NewBlock 862, Txs: 0, Rows: 0
+2018-12-21 09:37:18	NewBlock 863, Txs: 0, Rows: 0
+2018-12-21 09:37:27	NewBlock 864, Txs: 0, Rows: 0
+2018-12-21 09:37:34	NewBlock 865, Txs: 0, Rows: 0
+2018-12-21 09:37:42	NewBlock 866, Txs: 0, Rows: 0
+2018-12-21 09:37:50	NewBlock 867, Txs: 0, Rows: 0
+2018-12-21 09:38:09	NewBlock 868, Txs: 0, Rows: 0
+2018-12-21 09:38:23	NewTx 02c31de43b9d9070cf6e577dcd358c5e3f014f37e8b5e9f622727ee8fcb6ef3f, block -1, flags 00030004, import 0
+2018-12-21 09:38:56	UpdateTx 02c31de43b, block 869, flags 00030004, import 0
+2018-12-21 09:38:56	NewBlock 869, Txs: 1, Rows: 6
+2018-12-21 09:39:02	Rolled back to block 868 successfully
+2018-12-21 09:39:02	UpdateTx 02c31de43b, block -1, flags 00030004, import 0
+2018-12-21 09:39:02	UpdateTx 02c31de43b, block 869, flags 00030004, import 0
+2018-12-21 09:39:03	NewBlock 869, Txs: 0, Rows: 3
+2018-12-21 09:39:03	NewBlock 870, Txs: 0, Rows: 0
+2018-12-21 09:39:09	NewBlock 871, Txs: 0, Rows: 0
+2018-12-21 09:39:23	NewBlock 872, Txs: 0, Rows: 0
+2018-12-21 09:39:24	NewBlock 873, Txs: 0, Rows: 0
+2018-12-21 09:39:38	NewTx 48a5d09df9652142783a1d2e7b5f06436fe0cce94abe32502924758dd76116b7, block -1, flags 00030004, import 0
+2018-12-21 09:39:54	UpdateTx 48a5d09df9, block 874, flags 00030004, import 0
+2018-12-21 09:39:54	NewBlock 874, Txs: 1, Rows: 6
+2018-12-21 09:40:06	NewBlock 875, Txs: 0, Rows: 0
+2018-12-21 09:40:17	NewBlock 876, Txs: 0, Rows: 0
+2018-12-21 09:40:17	NewTx 981561056c84a0dc7383923e92e82712ce19a7317701ccc36aa9949084cff8d7, block -1, flags 00030004, import 0
+2018-12-21 09:40:39	UpdateTx 981561056c, block 877, flags 00030004, import 0
+2018-12-21 09:40:40	NewBlock 877, Txs: 1, Rows: 6
+2018-12-21 09:40:41	NewBlock 878, Txs: 0, Rows: 0
+2018-12-21 09:41:08	NewBlock 879, Txs: 0, Rows: 0
+2018-12-21 09:41:28	NewBlock 880, Txs: 0, Rows: 0
+2018-12-21 09:41:41	NewBlock 881, Txs: 0, Rows: 0
+2018-12-21 09:41:50	NewBlock 882, Txs: 0, Rows: 0
+2018-12-21 09:42:06	NewBlock 883, Txs: 0, Rows: 0
+2018-12-21 09:42:22	NewBlock 884, Txs: 0, Rows: 0
+2018-12-21 09:42:38	NewBlock 885, Txs: 0, Rows: 0
+2018-12-21 09:42:39	NewBlock 886, Txs: 0, Rows: 0
+2018-12-21 09:42:58	NewBlock 887, Txs: 0, Rows: 0
+2018-12-21 09:43:12	NewTx ac57e698e62fceed7d666dd58d74441e6ef5c0013153f5866110a8b5cd6c1c07, block -1, flags 00030004, import 0
+2018-12-21 09:43:25	UpdateTx ac57e698e6, block 888, flags 00030004, import 0
+2018-12-21 09:43:25	NewBlock 888, Txs: 1, Rows: 6
+2018-12-21 09:43:29	NewTx f9dc9ff4a08717042337dfb2c342c6a31b1bb20eda9eef3e5eccee70f774257f, block -1, flags 00030004, import 0
+2018-12-21 09:43:34	UpdateTx f9dc9ff4a0, block 889, flags 00030004, import 0
+2018-12-21 09:43:34	NewBlock 889, Txs: 1, Rows: 6
+2018-12-21 09:43:49	NewBlock 890, Txs: 0, Rows: 0
+2018-12-21 09:44:05	NewBlock 891, Txs: 0, Rows: 0
+2018-12-21 09:44:06	NewBlock 892, Txs: 0, Rows: 0
+2018-12-21 09:44:25	NewBlock 893, Txs: 0, Rows: 0
+2018-12-21 09:44:52	NewBlock 894, Txs: 0, Rows: 0
+2018-12-21 09:45:02	NewBlock 895, Txs: 0, Rows: 0
+2018-12-21 09:45:03	NewBlock 896, Txs: 0, Rows: 0
+2018-12-21 09:45:23	NewBlock 897, Txs: 0, Rows: 0
+2018-12-21 09:45:48	NewBlock 898, Txs: 0, Rows: 0
+2018-12-21 09:46:07	NewBlock 899, Txs: 0, Rows: 0
+2018-12-21 09:46:17	NewBlock 900, Txs: 0, Rows: 0
+2018-12-21 09:50:14	NewTx 0537447e2ae84eb1ac40eea7b4dcbc7d6ffe926631a5417dfef6e771057237f5, block -1, flags 00030004, import 0
+2018-12-21 09:50:36	UpdateTx 0537447e2a, block 901, flags 00030004, import 0
+2018-12-21 09:50:36	NewBlock 901, Txs: 1, Rows: 6
+2018-12-21 09:50:37	NewTx 27a43bd67b691dd2faccad6807b0edec6bfe773b1b02664947105742f2273409, block -1, flags 00030004, import 0
+2018-12-21 09:50:44	UpdateTx 27a43bd67b, block 902, flags 00030004, import 0
+2018-12-21 09:50:44	NewBlock 902, Txs: 1, Rows: 6
+2018-12-21 09:51:04	Rolled back to block 901 successfully
+2018-12-21 09:51:04	UpdateTx 27a43bd67b, block -1, flags 00030004, import 0
+2018-12-21 09:51:05	UpdateTx 27a43bd67b, block 902, flags 00030004, import 0
+2018-12-21 09:51:05	NewBlock 902, Txs: 0, Rows: 3
+2018-12-21 09:51:06	NewBlock 903, Txs: 0, Rows: 0
+2018-12-21 09:51:07	NewBlock 904, Txs: 0, Rows: 0
+2018-12-21 09:51:07	NewBlock 905, Txs: 0, Rows: 0
+2018-12-21 09:51:12	NewBlock 906, Txs: 0, Rows: 0
+2018-12-21 09:51:17	NewBlock 907, Txs: 0, Rows: 0
+2018-12-21 09:51:23	NewBlock 908, Txs: 0, Rows: 0
+2018-12-21 09:51:26	NewBlock 909, Txs: 0, Rows: 0
+2018-12-21 09:51:33	NewBlock 910, Txs: 0, Rows: 0
+2018-12-21 09:51:49	NewTx 5ae3c359e56a807b8a3de9559cef0f7003d3c05d5c7edfbde1b7d25b92a27926, block -1, flags 00030004, import 0
+2018-12-21 09:51:56	UpdateTx 5ae3c359e5, block 911, flags 00030004, import 0
+2018-12-21 09:51:56	NewBlock 911, Txs: 1, Rows: 6
+2018-12-21 09:52:20	NewBlock 912, Txs: 0, Rows: 0
+2018-12-21 09:53:04	NewBlock 913, Txs: 0, Rows: 0
+2018-12-21 09:53:05	NewBlock 914, Txs: 0, Rows: 0
+2018-12-21 09:53:13	Rolled back to block 913 successfully
+2018-12-21 09:53:14	NewBlock 914, Txs: 0, Rows: 0
+2018-12-21 09:53:14	NewBlock 915, Txs: 0, Rows: 0
+2018-12-21 09:53:34	NewBlock 916, Txs: 0, Rows: 0
+2018-12-21 09:53:41	NewBlock 917, Txs: 0, Rows: 0
+2018-12-21 09:53:42	NewBlock 918, Txs: 0, Rows: 0
+2018-12-21 09:54:13	NewBlock 919, Txs: 0, Rows: 0
+2018-12-21 09:54:19	NewBlock 920, Txs: 0, Rows: 0
+2018-12-21 09:54:34	NewTx 645b1c947004297a4d1fdc230543d851b0b0e05b94508eb4c405ec8a12cfef3a, block -1, flags 00030004, import 0
+2018-12-21 09:54:35	UpdateTx 645b1c9470, block 921, flags 00030004, import 0
+2018-12-21 09:54:35	NewBlock 921, Txs: 1, Rows: 6
+2018-12-21 09:54:51	NewBlock 922, Txs: 0, Rows: 0
+2018-12-21 09:55:05	NewTx 6bdf7163830d97574ab2339f32c95acd40d4ccb8bd98865a53a17f87b227457e, block -1, flags 00030004, import 0
+2018-12-21 09:55:08	UpdateTx 6bdf716383, block 923, flags 00030004, import 0
+2018-12-21 09:55:08	NewBlock 923, Txs: 1, Rows: 6
+2018-12-21 09:55:25	NewBlock 924, Txs: 0, Rows: 0
+2018-12-21 09:55:45	NewBlock 925, Txs: 0, Rows: 0
+2018-12-21 09:55:55	NewBlock 926, Txs: 0, Rows: 0
+2018-12-21 09:56:07	NewBlock 927, Txs: 0, Rows: 0
+2018-12-21 09:56:22	NewBlock 928, Txs: 0, Rows: 0
+2018-12-21 09:56:37	NewBlock 929, Txs: 0, Rows: 0
+2018-12-21 09:56:42	NewTx ff8be7c97dfd46f7a5c10b7fc91787b7c401d06481dc287ddd89dff537526654, block -1, flags 00030004, import 0
+2018-12-21 09:56:54	UpdateTx ff8be7c97d, block 930, flags 00030004, import 0
+2018-12-21 09:56:54	NewBlock 930, Txs: 1, Rows: 6
+2018-12-21 09:57:09	Rolled back to block 929 successfully
+2018-12-21 09:57:09	UpdateTx ff8be7c97d, block -1, flags 00030004, import 0
+2018-12-21 09:57:10	UpdateTx ff8be7c97d, block 930, flags 00030004, import 0
+2018-12-21 09:57:10	NewBlock 930, Txs: 0, Rows: 3
+2018-12-21 09:57:11	NewBlock 931, Txs: 0, Rows: 0
+2018-12-21 09:57:27	NewBlock 932, Txs: 0, Rows: 0
+2018-12-21 09:57:43	NewBlock 933, Txs: 0, Rows: 0
+2018-12-21 09:57:50	NewTx e8445ed964bb0afd592883ae22042caf84bb01aa47cd4ee24e5df881a89aae1d, block -1, flags 00030004, import 0
+2018-12-21 09:57:57	UpdateTx e8445ed964, block 934, flags 00030004, import 0
+2018-12-21 09:57:57	NewBlock 934, Txs: 1, Rows: 6
+2018-12-21 09:58:09	NewBlock 935, Txs: 0, Rows: 0
+2018-12-21 09:58:27	NewBlock 936, Txs: 0, Rows: 0
+2018-12-21 09:58:40	NewBlock 937, Txs: 0, Rows: 0
+2018-12-21 09:58:53	NewBlock 938, Txs: 0, Rows: 0
+2018-12-21 09:59:14	NewBlock 939, Txs: 0, Rows: 0
+2018-12-21 09:59:21	NewBlock 940, Txs: 0, Rows: 0
+2018-12-21 09:59:38	NewBlock 941, Txs: 0, Rows: 0
+2018-12-21 09:59:53	NewBlock 942, Txs: 0, Rows: 0
+2018-12-21 10:00:12	NewBlock 943, Txs: 0, Rows: 0
+2018-12-21 10:00:21	NewBlock 944, Txs: 0, Rows: 0
+2018-12-21 10:02:38	NewTx b0d70d3af0189dc5e468e820cc60bc31bee49c814ca13a3a234988ed47ad9412, block -1, flags 00030004, import 0
+2018-12-21 10:02:53	NewTx 329b904af464514c37e3bb7aef53bba48aac9a60b6c1ca912cf3d2c6273eb833, block -1, flags 00030004, import 0
+2018-12-21 10:02:58	UpdateTx b0d70d3af0, block 945, flags 00030004, import 0
+2018-12-21 10:02:58	UpdateTx 329b904af4, block 945, flags 00030004, import 0
+2018-12-21 10:02:58	NewBlock 945, Txs: 2, Rows: 12
+2018-12-21 10:03:04	NewBlock 946, Txs: 0, Rows: 0
+2018-12-21 10:03:05	NewBlock 947, Txs: 0, Rows: 0
+2018-12-21 10:03:09	NewBlock 948, Txs: 0, Rows: 0
+2018-12-21 10:03:15	NewBlock 949, Txs: 0, Rows: 0
+2018-12-21 10:03:33	NewBlock 950, Txs: 0, Rows: 0
+2018-12-21 10:03:35	NewTx e8b0423175ec9fb6f446389e48c4b0fef437a203348d28e3b1a895c134ed4c1b, block -1, flags 00030004, import 0
+2018-12-21 10:04:03	Rolled back to block 949 successfully
+2018-12-21 10:04:03	UpdateTx e8b0423175, block -1, flags 00030004, import 0
+2018-12-21 10:04:03	NewBlock 950, Txs: 1, Rows: 3
+2018-12-21 10:04:04	UpdateTx e8b0423175, block 951, flags 00030004, import 0
+2018-12-21 10:04:04	NewBlock 951, Txs: 0, Rows: 3
+2018-12-21 10:04:04	Rolled back to block 950 successfully
+2018-12-21 10:04:04	UpdateTx e8b0423175, block -1, flags 00030004, import 0
+2018-12-21 10:04:05	Rolled back to block 949 successfully
+2018-12-21 10:04:05	UpdateTx e8b0423175, block -1, flags 00030004, import 0
+2018-12-21 10:04:05	NewBlock 950, Txs: 0, Rows: 0
+2018-12-21 10:04:06	UpdateTx e8b0423175, block 951, flags 00030004, import 0
+2018-12-21 10:04:06	NewBlock 951, Txs: 0, Rows: 3
+2018-12-21 10:04:06	NewBlock 952, Txs: 0, Rows: 0
+2018-12-21 10:04:14	NewBlock 953, Txs: 0, Rows: 0
+2018-12-21 10:04:18	NewBlock 954, Txs: 0, Rows: 0
+2018-12-21 10:04:41	NewTx 46a1c5557be01d636c21dd189021c35e07a9445c6fc5d64d8eff47016021325b, block -1, flags 00030004, import 0
+2018-12-21 10:04:46	UpdateTx 46a1c5557b, block 955, flags 00030004, import 0
+2018-12-21 10:04:46	NewBlock 955, Txs: 1, Rows: 6
+2018-12-21 10:04:47	NewBlock 956, Txs: 0, Rows: 0
+2018-12-21 10:05:18	NewBlock 957, Txs: 0, Rows: 0
+2018-12-21 10:05:44	NewBlock 958, Txs: 0, Rows: 0
+2018-12-21 10:05:45	NewBlock 959, Txs: 0, Rows: 0
+2018-12-21 10:05:51	NewTx 09c6a8690d96a27d0d85bcd4778d0fa79e3e2a394a4a44014a282025b5040f88, block -1, flags 00030004, import 0
+2018-12-21 10:05:57	UpdateTx 09c6a8690d, block 960, flags 00030004, import 0
+2018-12-21 10:05:57	NewBlock 960, Txs: 1, Rows: 6
+2018-12-21 10:06:10	NewTx b58adaadb2d95086bcc1cc3d95537ae5fade76a679a734017282b24f8cd96cdb, block -1, flags 00030004, import 0
+2018-12-21 10:06:11	UpdateTx b58adaadb2, block 961, flags 00030004, import 0
+2018-12-21 10:06:12	NewBlock 961, Txs: 1, Rows: 6
+2018-12-21 10:06:22	NewTx 17880ea14b7b1aa2cf25127638b23bbde3c4d68f2923410d3c7412396e4a32d3, block -1, flags 00030004, import 0
+2018-12-21 10:06:32	NewTx a8c2e983d38b2ae4bd8d724c00af6e0eb54864c6e9b295697f6558a030c7917e, block -1, flags 00030004, import 0
+2018-12-21 10:06:34	UpdateTx 17880ea14b, block 962, flags 00030004, import 0
+2018-12-21 10:06:34	UpdateTx a8c2e983d3, block 962, flags 00030004, import 0
+2018-12-21 10:06:35	NewBlock 962, Txs: 2, Rows: 12
+2018-12-21 10:06:47	NewBlock 963, Txs: 0, Rows: 0
+2018-12-21 10:07:05	NewBlock 964, Txs: 0, Rows: 0
+2018-12-21 10:07:07	NewBlock 965, Txs: 0, Rows: 0
+2018-12-21 10:07:24	NewBlock 966, Txs: 0, Rows: 0
+2018-12-21 10:07:49	NewBlock 967, Txs: 0, Rows: 0
+2018-12-21 10:07:56	NewBlock 968, Txs: 0, Rows: 0
+2018-12-21 10:08:12	NewBlock 969, Txs: 0, Rows: 0
+2018-12-21 10:08:14	NewTx a4cffd424b1a052ea48d413538db2abce5ba16a45a8d1b8849bd81652f5cbcea, block -1, flags 00030004, import 0
+2018-12-21 10:08:30	UpdateTx a4cffd424b, block 970, flags 00030004, import 0
+2018-12-21 10:08:30	NewBlock 970, Txs: 1, Rows: 6
+2018-12-21 10:08:49	NewBlock 971, Txs: 0, Rows: 0
+2018-12-21 10:08:56	NewBlock 972, Txs: 0, Rows: 0
+2018-12-21 10:09:19	NewBlock 973, Txs: 0, Rows: 0
+2018-12-21 10:09:29	NewBlock 974, Txs: 0, Rows: 0
+2018-12-21 10:09:41	NewBlock 975, Txs: 0, Rows: 0
+2018-12-21 10:10:00	NewBlock 976, Txs: 0, Rows: 0
+2018-12-21 10:10:24	NewBlock 977, Txs: 0, Rows: 0
+2018-12-21 10:10:25	NewBlock 978, Txs: 0, Rows: 0
+2018-12-21 10:10:53	NewBlock 979, Txs: 0, Rows: 0
+2018-12-21 10:10:54	NewBlock 980, Txs: 0, Rows: 0
+2018-12-21 10:17:46	NewTx 8d9ff2ca337c50f9cfd14176183a25977d7d7d8d1113de8d0a86338aaa80115a, block -1, flags 00030004, import 0
+2018-12-21 10:18:05	UpdateTx 8d9ff2ca33, block 981, flags 00030004, import 0
+2018-12-21 10:18:05	NewBlock 981, Txs: 1, Rows: 6
+2018-12-21 10:18:06	NewBlock 982, Txs: 0, Rows: 0
+2018-12-21 10:18:19	NewBlock 983, Txs: 0, Rows: 0
+2018-12-21 10:18:33	NewBlock 984, Txs: 0, Rows: 0
+2018-12-21 10:18:34	NewBlock 985, Txs: 0, Rows: 0
+2018-12-21 10:18:51	NewBlock 986, Txs: 0, Rows: 0
+2018-12-21 10:19:05	NewBlock 987, Txs: 0, Rows: 0
+2018-12-21 10:19:09	NewBlock 988, Txs: 0, Rows: 0
+2018-12-21 10:19:19	NewBlock 989, Txs: 0, Rows: 0
+2018-12-21 10:19:24	NewBlock 990, Txs: 0, Rows: 0
+2018-12-21 10:19:29	NewBlock 991, Txs: 0, Rows: 0
+2018-12-21 10:19:37	NewTx 0a2b254140d48f68c97ea0f270f29455719fd52813743efa87998afa7828f960, block -1, flags 00030004, import 0
+2018-12-21 10:19:45	UpdateTx 0a2b254140, block 992, flags 00030004, import 0
+2018-12-21 10:19:45	NewBlock 992, Txs: 1, Rows: 6
+2018-12-21 10:20:06	NewBlock 993, Txs: 0, Rows: 0
+2018-12-21 10:20:53	NewBlock 994, Txs: 0, Rows: 0
+2018-12-21 10:21:07	Rolled back to block 993 successfully
+2018-12-21 10:21:07	NewBlock 994, Txs: 0, Rows: 0
+2018-12-21 10:21:07	NewBlock 995, Txs: 0, Rows: 0
+2018-12-21 10:21:15	NewBlock 996, Txs: 0, Rows: 0
+2018-12-21 10:21:21	NewBlock 997, Txs: 0, Rows: 0
+2018-12-21 10:21:35	NewBlock 998, Txs: 0, Rows: 0
+2018-12-21 10:21:49	NewBlock 999, Txs: 0, Rows: 0
+2018-12-21 10:22:07	NewBlock 1000, Txs: 0, Rows: 0
+2018-12-21 10:22:18	NewBlock 1001, Txs: 0, Rows: 0
+2018-12-21 10:22:30	NewBlock 1002, Txs: 0, Rows: 0
+2018-12-21 10:22:45	NewBlock 1003, Txs: 0, Rows: 0
+2018-12-21 10:27:28	NewTx 99f7a4191b70702afc6029441275d91171f3d071bdc94ef514135e7800cb8000, block -1, flags 00030004, import 0
+2018-12-21 10:27:47	UpdateTx 99f7a4191b, block 1004, flags 00030004, import 0
+2018-12-21 10:27:47	NewBlock 1004, Txs: 1, Rows: 6
+2018-12-21 10:27:51	NewBlock 1005, Txs: 0, Rows: 0
+2018-12-21 10:27:52	NewBlock 1006, Txs: 0, Rows: 0
+2018-12-21 10:28:03	NewBlock 1007, Txs: 0, Rows: 0
+2018-12-21 10:28:13	NewBlock 1008, Txs: 0, Rows: 0
+2018-12-21 10:28:22	NewBlock 1009, Txs: 0, Rows: 0
+2018-12-21 10:28:25	NewBlock 1010, Txs: 0, Rows: 0
+2018-12-21 10:28:37	NewBlock 1011, Txs: 0, Rows: 0
+2018-12-21 10:28:45	Rolled back to block 1010 successfully
+2018-12-21 10:28:45	NewBlock 1011, Txs: 0, Rows: 0
+2018-12-21 10:28:46	NewBlock 1012, Txs: 0, Rows: 0
+2018-12-21 10:28:52	NewBlock 1013, Txs: 0, Rows: 0
+2018-12-21 10:29:15	NewBlock 1014, Txs: 0, Rows: 0
+2018-12-21 10:29:17	NewBlock 1015, Txs: 0, Rows: 0
+2018-12-21 10:30:53	NewBlock 1016, Txs: 0, Rows: 0
+2018-12-21 10:30:58	NewBlock 1017, Txs: 0, Rows: 0
+2018-12-21 10:31:16	NewBlock 1018, Txs: 0, Rows: 0
+2018-12-21 10:31:18	NewBlock 1019, Txs: 0, Rows: 0
+2018-12-21 10:31:27	NewBlock 1020, Txs: 0, Rows: 0
+2018-12-21 10:31:35	NewBlock 1021, Txs: 0, Rows: 0
+2018-12-21 10:31:40	NewBlock 1022, Txs: 0, Rows: 0
+2018-12-21 10:31:54	NewBlock 1023, Txs: 0, Rows: 0
+2018-12-21 10:32:06	NewTx e96b49c2a1d0f3264bb819b0f920d9a803f14d169da0acc66238a394b2a83827, block -1, flags 00030004, import 0
+2018-12-21 10:32:10	UpdateTx e96b49c2a1, block 1024, flags 00030004, import 0
+2018-12-21 10:32:11	NewBlock 1024, Txs: 1, Rows: 6
+2018-12-21 10:32:28	NewBlock 1025, Txs: 0, Rows: 0
+2018-12-21 10:32:52	NewBlock 1026, Txs: 0, Rows: 0
+2018-12-21 10:33:10	NewBlock 1027, Txs: 0, Rows: 0
+2018-12-21 10:33:28	NewBlock 1028, Txs: 0, Rows: 0
+2018-12-21 10:33:38	NewBlock 1029, Txs: 0, Rows: 0
+2018-12-21 10:33:48	NewBlock 1030, Txs: 0, Rows: 0
+2018-12-21 10:34:04	NewBlock 1031, Txs: 0, Rows: 0
+2018-12-21 10:34:06	NewBlock 1032, Txs: 0, Rows: 0
+2018-12-21 10:34:46	NewBlock 1033, Txs: 0, Rows: 0
+2018-12-21 10:34:47	NewBlock 1034, Txs: 0, Rows: 0
+2018-12-21 10:35:01	Rolled back to block 1033 successfully
+2018-12-21 10:35:01	NewBlock 1034, Txs: 0, Rows: 0
+2018-12-21 10:35:02	NewBlock 1035, Txs: 0, Rows: 0
+2018-12-21 10:35:19	NewBlock 1036, Txs: 0, Rows: 0
+2018-12-21 10:35:32	NewBlock 1037, Txs: 0, Rows: 0
+2018-12-21 10:35:56	NewBlock 1038, Txs: 0, Rows: 0
+2018-12-21 10:36:14	NewBlock 1039, Txs: 0, Rows: 0
+2018-12-21 10:36:15	NewBlock 1040, Txs: 0, Rows: 0
+2018-12-21 10:36:35	NewBlock 1041, Txs: 0, Rows: 0
+2018-12-21 11:05:24	NewTx 13fbbe8b918de59c742596d5fd2f118789377548e5c68473fec127a5d30dd5b2, block -1, flags 00030004, import 0
+2018-12-21 11:05:37	UpdateTx 13fbbe8b91, block 1042, flags 00030004, import 0
+2018-12-21 11:05:37	NewBlock 1042, Txs: 1, Rows: 6
+2018-12-21 11:05:41	NewBlock 1043, Txs: 0, Rows: 0
+2018-12-21 11:05:45	NewBlock 1044, Txs: 0, Rows: 0
+2018-12-21 11:05:46	NewBlock 1045, Txs: 0, Rows: 0
+2018-12-21 11:05:55	NewBlock 1046, Txs: 0, Rows: 0
+2018-12-21 11:06:06	NewBlock 1047, Txs: 0, Rows: 0
+2018-12-21 11:06:18	NewBlock 1048, Txs: 0, Rows: 0
+2018-12-21 11:06:24	NewBlock 1049, Txs: 0, Rows: 0
+2018-12-21 11:06:30	NewBlock 1050, Txs: 0, Rows: 0
+2018-12-21 11:06:43	NewBlock 1051, Txs: 0, Rows: 0
+2018-12-21 11:06:44	NewBlock 1052, Txs: 0, Rows: 0

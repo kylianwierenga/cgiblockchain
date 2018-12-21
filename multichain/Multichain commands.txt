@@ -1,0 +1,132 @@
+Chain maken:
+multichain-util -datadir=.\Multichain-0admin create CGIChain
+
+anyone-can-mine = true
+
+anyone-can-send = true
+
+
+Chain verbinden:
+
+multichaind -datadir=C:\multichain\multichain-test -port=4333 -rpcport=4332 CGIChain@127.0.0.1:4333
+
+Opstarten:
+multichaind -datadir=C:\multichain\multichain-test -port=4333 -rpcport=4332 CGIChain -daemon
+
+of:
+
+multichaind -datadir=C:\multichain\Multichain-0admin CGIChain -daemon
+
+als het volgende aan multichain.config toegevoegd is:
+C:\multichain\multichain-test\chain1
+
+port=4765
+rpcport=4764
+
+Dan aan het toevoegen van het password in multichain.conf naar de webdemo config.txt.
+
+Rechten toevoegen:
+multichain-cli -datadir=.\MultiChain-0admin CGIChain grant 1VUnnop5pnvazj394zpg4LQbv8JLDVZMVSi6aK connect,send,receive,mine
+
+multichain-cli -datadir=.\MultiChain-0admin CGIChain grant connect,send,receive,mine
+
+multichain-cli -datadir=.\MultiChain-0admin CGIChain grant 15WbNAvSKGSQjGYfsqFa188A7b1qY1ziuDGjJP CGIStream.write
+
+	Nodes:
+	Multichain-0admin
+ID:
+1TYyC6y2pGxDqShvnXXaGnEkRerDjB1kHvWmC1
+
+port=6289
+rpcport=6288
+
+Pass:
+D4TLP2qvSh3C2YYdkY9nkXJm9U2EsaiXLaezmzhwCunf
+
+multichaind -datadir=.\MultiChain-0admin CGIChain -daemon
+
+	MultiChain-1producent
+ID:
+1HPF4Mg8XrXRckVYp8EtbhjTT9Rq4BKpuVae6y
+
+multichaind -datadir=.\MultiChain-1producent -port=4433 -rpcport=4432 CGIChain@127.0.0.1:6289
+
+port=4433
+rpcport=4432
+
+Pass:
+4wtdzXM9s1K4uttB6JAtVqQjSW67soHgFzrghM7XrdXf
+
+multichaind -datadir=.\MultiChain-1producent CGIChain -daemon
+
+
+	MultiChain-2transportChina
+ID:
+1VUnnop5pnvazj394zpg4LQbv8JLDVZMVSi6aK
+
+multichaind -datadir=.\MultiChain-2transportChina -port=4533 -rpcport=4532 CGIChain@127.0.0.1:6289
+
+port=4533
+rpcport=4532
+
+Pass:
+BCidwcwfnrpd82aDKgHu4vLSMvNEqzGdW8HT3WiibBD8
+
+multichaind -datadir=.\MultiChain-2transportChina CGIChain -daemon
+
+
+	MultiChain-3douaneChina
+ID:
+1Nnyi1k9BNsD3cxduLQJKfuqGFpUrXbvHphSsg
+
+multichaind -datadir=.\MultiChain-3douaneChina -port=4633 -rpcport=4632 CGIChain@127.0.0.1:6289
+
+port=4633
+rpcport=4632
+
+Pass:
+4ZS9PFGZdJkxxX5AJj8vwxEXPaG2ofcnPTuJNAh88n3G
+
+multichaind -datadir=.\MultiChain-3douaneChina CGIChain -daemon
+
+	MultiChain-4rederij
+ID:
+1VMpR6T8a6RJa65rnwMTDxzuuUB3q6ky5H4ngn
+
+multichaind -datadir=.\MultiChain-4rederij -port=5032 -rpcport=5033 CGIChain@127.0.0.1:6289
+
+port=5032
+rpcport=5033
+
+Pass:
+DGPvbfFFMnLzzv8ho73gSA3hAubcWcHFfwSVLXqC9vtz
+
+multichaind -datadir=.\MultiChain-4rederij CGIChain -daemon
+
+	MultiChain-5douaneNL
+ID:
+1UrE97pwtzrnW4gQsznwy9MZYPtSMCmiFUPhp
+
+multichaind -datadir=.\MultiChain-5douaneNL -port=4833 -rpcport=4832 CGIChain@127.0.0.1:6289
+
+port=4833
+rpcport=4832
+
+Pass:
+Aux9xx3uxwFWaYmpLqPLMKgyVMXrxGYeKZuZ6wjQvttX
+
+multichaind -datadir=.\MultiChain-5douaneNL CGIChain -daemon
+
+	MultiChain-6transportNL
+ID:
+1SxsHbNAprcGGBny4RYmB84jVjDp7DGUU3s7HF
+
+multichaind -datadir=.\MultiChain-6transportNL -port=4932 -rpcport=4933 CGIChain@127.0.0.1:6289
+
+port=4932
+rpcport=4933
+
+Pass:
+8ETC9Bqgpne8VwGNvFezaAuWMHzvxGNnpNnX2BabdRo9
+
+multichaind -datadir=.\MultiChain-6transportNL CGIChain -daemon

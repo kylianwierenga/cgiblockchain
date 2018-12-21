@@ -1,0 +1,1297 @@
+2018-10-17 11:19:03	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2018-10-17 11:20:07	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2018-10-17 11:20:08	Initialized: Admin count: 0, Miner count: 0, ledger rows: 1
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000001-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000002-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000004-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000020-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000010-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00002000-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 0
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00000100-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 0, Miner count: 1
+2018-10-17 11:20:08	Grant: (00000000-1c4473c4-00001000-1c4473c4) (0--1, 1539766985), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:08	Grant: (48770d93-00000000-00000001-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:08	Grant: (48770d93-1c4473c4-00000008-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:08	Grant: (48770d93-1c4473c4-00002000-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:08	Grant: (48770d93-1c4473c4-00001000-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:08	Block commit:         0 (Hash: 33a816eb, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 15
+2018-10-17 11:20:08	Block commit:         1 (Hash: 83b79621, Miner: 859719c0), Admin count: 1, Miner count: 1, Ledger Rows: 17
+2018-10-17 11:20:08	Block commit:         2 (Hash: ab30918b, Miner: 859719c0), Admin count: 1, Miner count: 1, Ledger Rows: 19
+2018-10-17 11:20:09	Block rollback:         1, Admin count: 1, Miner count: 1, Ledger Rows: 17
+2018-10-17 11:20:09	Block rollback:         0, Admin count: 1, Miner count: 1, Ledger Rows: 15
+2018-10-17 11:20:09	Block commit:         1 (Hash: cee9fd01, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 17
+2018-10-17 11:20:09	Block commit:         2 (Hash: 590e6c1d, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 19
+2018-10-17 11:20:09	Block commit:         3 (Hash: 5a37e135, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 21
+2018-10-17 11:20:09	Block commit:         4 (Hash: 94bcb4c8, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 23
+2018-10-17 11:20:09	Block commit:         5 (Hash: e56964dd, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 25
+2018-10-17 11:20:09	Block commit:         6 (Hash: b8cc5518, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 27
+2018-10-17 11:20:09	Block commit:         7 (Hash: aee9d4b6, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 29
+2018-10-17 11:20:09	Block commit:         8 (Hash: 1cadec4f, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 31
+2018-10-17 11:20:09	Block commit:         9 (Hash: bd533c4e, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 33
+2018-10-17 11:20:09	Block commit:        10 (Hash: 1c5df095, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 35
+2018-10-17 11:20:09	Block commit:        11 (Hash: 87ce5b36, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 37
+2018-10-17 11:20:09	Block commit:        12 (Hash: b042b323, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 39
+2018-10-17 11:20:09	Block commit:        13 (Hash: 64b98bd1, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 41
+2018-10-17 11:20:09	Block commit:        14 (Hash: 8379ef45, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 43
+2018-10-17 11:20:09	Block commit:        15 (Hash: 4796bb8d, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 45
+2018-10-17 11:20:09	Block commit:        16 (Hash: ce9edbfc, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 47
+2018-10-17 11:20:09	Block commit:        17 (Hash: f0124bdb, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 49
+2018-10-17 11:20:09	Block commit:        18 (Hash: 2eda38fe, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 51
+2018-10-17 11:20:10	Block commit:        19 (Hash: 4f1e1aae, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 53
+2018-10-17 11:20:10	Block commit:        20 (Hash: f99040d8, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 55
+2018-10-17 11:20:10	Block commit:        21 (Hash: 5602804b, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 57
+2018-10-17 11:20:10	Block commit:        22 (Hash: 99f08d4c, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 59
+2018-10-17 11:20:10	Block commit:        23 (Hash: 29d8c920, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 61
+2018-10-17 11:20:10	Block commit:        24 (Hash: 2cb721c3, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 63
+2018-10-17 11:20:10	Block commit:        25 (Hash: 7c020098, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 65
+2018-10-17 11:20:10	Block commit:        26 (Hash: ec2c6cc2, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 67
+2018-10-17 11:20:10	Block commit:        27 (Hash: 1b288069, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 69
+2018-10-17 11:20:10	Block commit:        28 (Hash: 4a613294, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 71
+2018-10-17 11:20:10	Block commit:        29 (Hash: f0060b1a, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 73
+2018-10-17 11:20:10	Block commit:        30 (Hash: 0b3e0027, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 75
+2018-10-17 11:20:10	Block commit:        31 (Hash: 82a5ca6d, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 77
+2018-10-17 11:20:10	Block commit:        32 (Hash: 113308d1, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 79
+2018-10-17 11:20:10	Block commit:        33 (Hash: c628ae61, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 81
+2018-10-17 11:20:10	Block commit:        34 (Hash: 76eb1018, Miner: 1c4473c4), Admin count: 1, Miner count: 1, Ledger Rows: 83
+2018-10-17 11:20:10	Grant: (00000000-64603879-00000001-1c4473c4) (0--1, 1539767472), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:10	Grant: (00000000-64603879-00000002-1c4473c4) (0--1, 1539767472), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:10	Grant: (00000000-64603879-00000004-1c4473c4) (0--1, 1539767472), In consensus: 1, Admin count: 1, Miner count: 1
+2018-10-17 11:20:10	Grant: (00000000-64603879-00000100-1c4473c4) (0--1, 1539767472), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:10	Block commit:        35 (Hash: 39bf5416, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 89
+2018-10-17 11:20:10	Block commit:        36 (Hash: f676019c, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 91
+2018-10-17 11:20:11	Block commit:        37 (Hash: 2b6b4b17, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 93
+2018-10-17 11:20:11	Block commit:        38 (Hash: b26532cf, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 95
+2018-10-17 11:20:11	Block commit:        39 (Hash: e33c7240, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 97
+2018-10-17 11:20:11	Block commit:        40 (Hash: 5ca97f2b, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 99
+2018-10-17 11:20:11	Block commit:        41 (Hash: be659d88, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 101
+2018-10-17 11:20:11	Grant: (4393ade0-00000000-00000001-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (4393ade0-1c4473c4-00000008-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (4393ade0-1c4473c4-00002000-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (4393ade0-1c4473c4-00001000-1c4473c4) (0--1, 0), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Block commit:        42 (Hash: 1ce524bd, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 107
+2018-10-17 11:20:11	Block commit:        43 (Hash: e92d31ce, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 109
+2018-10-17 11:20:11	Block commit:        44 (Hash: 20f0e231, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 111
+2018-10-17 11:20:11	Block commit:        45 (Hash: df319998, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 113
+2018-10-17 11:20:11	Block commit:        46 (Hash: 3c5632e4, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 115
+2018-10-17 11:20:11	Block commit:        47 (Hash: 8d156d4d, Miner: 1c4473c4), Admin count: 1, Miner count: 2, Ledger Rows: 117
+2018-10-17 11:20:11	Grant: (00000000-af07b7d2-00000001-1c4473c4) (0--1, 1539767672), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (00000000-af07b7d2-00000002-1c4473c4) (0--1, 1539767672), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (00000000-af07b7d2-00000004-1c4473c4) (0--1, 1539767672), In consensus: 1, Admin count: 1, Miner count: 2
+2018-10-17 11:20:11	Grant: (00000000-af07b7d2-00000100-1c4473c4) (0--1, 1539767672), In consensus: 1, Admin count: 1, Miner count: 3
+2018-10-17 11:20:11	Block commit:        48 (Hash: 8eda176b, Miner: 1c4473c4), Admin count: 1, Miner count: 3, Ledger Rows: 123
+2018-10-17 11:20:11	Block commit:        49 (Hash: 936d9cc8, Miner: 1c4473c4), Admin count: 1, Miner count: 3, Ledger Rows: 125
+2018-10-17 11:20:11	Block commit:        50 (Hash: b91a0486, Miner: 1c4473c4), Admin count: 1, Miner count: 3, Ledger Rows: 127
+2018-10-17 11:20:11	Block commit:        51 (Hash: beac763d, Miner: 1c4473c4), Admin count: 1, Miner count: 3, Ledger Rows: 129
+2018-10-17 11:20:11	Block commit:        52 (Hash: 213c0bc9, Miner: 1c4473c4), Admin count: 1, Miner count: 3, Ledger Rows: 131
+2018-10-17 11:20:11	Grant: (00000000-4f223ea1-00000001-1c4473c4) (0--1, 1539767752), In consensus: 1, Admin count: 1, Miner count: 3
+2018-10-17 11:20:11	Grant: (00000000-4f223ea1-00000002-1c4473c4) (0--1, 1539767752), In consensus: 1, Admin count: 1, Miner count: 3
+2018-10-17 11:20:11	Grant: (00000000-4f223ea1-00000004-1c4473c4) (0--1, 1539767752), In consensus: 1, Admin count: 1, Miner count: 3
+2018-10-17 11:20:11	Grant: (00000000-4f223ea1-00000100-1c4473c4) (0--1, 1539767752), In consensus: 1, Admin count: 1, Miner count: 4
+2018-10-17 11:20:11	Block commit:        53 (Hash: 51f0f0f5, Miner: 1c4473c4), Admin count: 1, Miner count: 4, Ledger Rows: 137
+2018-10-17 11:20:11	Block commit:        54 (Hash: 0559b6fa, Miner: 1c4473c4), Admin count: 1, Miner count: 4, Ledger Rows: 139
+2018-10-17 11:20:11	Block commit:        55 (Hash: 9683a48e, Miner: 1c4473c4), Admin count: 1, Miner count: 4, Ledger Rows: 141
+2018-10-17 11:20:11	Block commit:        56 (Hash: feb0fb12, Miner: 1c4473c4), Admin count: 1, Miner count: 4, Ledger Rows: 143
+2018-10-17 11:20:12	Block commit:        57 (Hash: d56a69b9, Miner: 1c4473c4), Admin count: 1, Miner count: 4, Ledger Rows: 145
+2018-10-17 11:20:12	Grant: (00000000-1358d3d1-00000001-1c4473c4) (0--1, 1539767826), In consensus: 1, Admin count: 1, Miner count: 4
+2018-10-17 11:20:12	Grant: (00000000-1358d3d1-00000002-1c4473c4) (0--1, 1539767826), In consensus: 1, Admin count: 1, Miner count: 4
+2018-10-17 11:20:12	Grant: (00000000-1358d3d1-00000004-1c4473c4) (0--1, 1539767826), In consensus: 1, Admin count: 1, Miner count: 4
+2018-10-17 11:20:12	Grant: (00000000-1358d3d1-00000100-1c4473c4) (0--1, 1539767826), In consensus: 1, Admin count: 1, Miner count: 5
+2018-10-17 11:20:12	Block commit:        58 (Hash: 7f76ffe8, Miner: 1c4473c4), Admin count: 1, Miner count: 5, Ledger Rows: 151
+2018-10-17 11:20:12	Block commit:        59 (Hash: a3feb667, Miner: 1c4473c4), Admin count: 1, Miner count: 5, Ledger Rows: 153
+2018-10-17 11:20:12	Block commit:        60 (Hash: 89024bc6, Miner: 1c4473c4), Admin count: 1, Miner count: 5, Ledger Rows: 155
+2018-10-17 11:20:12	Block commit:        61 (Hash: 681435b9, Miner: 1c4473c4), Admin count: 1, Miner count: 5, Ledger Rows: 157
+2018-10-17 11:20:12	Grant: (00000000-18778d03-00000001-1c4473c4) (0--1, 1539767875), In consensus: 1, Admin count: 1, Miner count: 5
+2018-10-17 11:20:12	Grant: (00000000-18778d03-00000002-1c4473c4) (0--1, 1539767875), In consensus: 1, Admin count: 1, Miner count: 5
+2018-10-17 11:20:12	Grant: (00000000-18778d03-00000004-1c4473c4) (0--1, 1539767875), In consensus: 1, Admin count: 1, Miner count: 5
+2018-10-17 11:20:12	Grant: (00000000-18778d03-00000100-1c4473c4) (0--1, 1539767875), In consensus: 1, Admin count: 1, Miner count: 6
+2018-10-17 11:20:12	Block commit:        62 (Hash: b928e751, Miner: 1c4473c4), Admin count: 1, Miner count: 6, Ledger Rows: 163
+2018-10-17 11:20:12	Block commit:        63 (Hash: 2dad0ce9, Miner: 1c4473c4), Admin count: 1, Miner count: 6, Ledger Rows: 165
+2018-10-17 11:20:12	Block commit:        64 (Hash: e7e2ea2e, Miner: 1c4473c4), Admin count: 1, Miner count: 6, Ledger Rows: 167
+2018-10-17 11:20:12	Block commit:        65 (Hash: 9509bc6b, Miner: 1c4473c4), Admin count: 1, Miner count: 6, Ledger Rows: 169
+2018-10-17 11:20:12	Block commit:        66 (Hash: 5785e344, Miner: 1c4473c4), Admin count: 1, Miner count: 6, Ledger Rows: 171
+2018-10-17 11:20:12	Grant: (00000000-859719c0-00000001-1c4473c4) (0--1, 1539767955), In consensus: 1, Admin count: 1, Miner count: 6
+2018-10-17 11:20:12	Grant: (00000000-859719c0-00000002-1c4473c4) (0--1, 1539767955), In consensus: 1, Admin count: 1, Miner count: 6
+2018-10-17 11:20:12	Grant: (00000000-859719c0-00000004-1c4473c4) (0--1, 1539767955), In consensus: 1, Admin count: 1, Miner count: 6
+2018-10-17 11:20:12	Grant: (00000000-859719c0-00000100-1c4473c4) (0--1, 1539767955), In consensus: 1, Admin count: 1, Miner count: 7
+2018-10-17 11:20:12	Block commit:        67 (Hash: e83fb2a3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 177
+2018-10-17 11:20:12	Block commit:        68 (Hash: 319cdab3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 179
+2018-10-17 11:20:12	Block commit:        69 (Hash: c515ed93, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 181
+2018-10-17 11:20:12	Block commit:        70 (Hash: bb823162, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 183
+2018-10-17 11:20:27	Block commit:        71 (Hash: 9e11b811, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 185
+2018-10-17 11:20:44	Block commit:        72 (Hash: 90eeda2a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 187
+2018-10-17 11:20:57	Block commit:        73 (Hash: 47985edf, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 189
+2018-10-17 11:21:11	Block commit:        74 (Hash: 41558f44, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 191
+2018-10-17 11:21:21	Block commit:        75 (Hash: 5e0b10e2, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 193
+2018-10-17 11:21:39	Block commit:        76 (Hash: df59d31c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 195
+2018-10-17 11:21:57	Block commit:        77 (Hash: 1e2e3b87, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 197
+2018-10-17 11:22:10	Block commit:        78 (Hash: b14b7543, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 199
+2018-10-17 11:22:23	Block commit:        79 (Hash: 7df33462, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 201
+2018-10-17 11:22:37	Block commit:        80 (Hash: 396284f5, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 203
+2018-10-17 11:22:52	Block commit:        81 (Hash: 5b1f9d39, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 205
+2018-10-17 11:23:06	Block commit:        82 (Hash: 02599454, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 207
+2018-10-17 11:23:21	Block commit:        83 (Hash: b4a4daf7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 209
+2018-10-17 11:23:39	Block commit:        84 (Hash: cfd8607a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 211
+2018-10-17 11:23:58	Block commit:        85 (Hash: 5c5f9cd1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 213
+2018-10-17 11:24:09	Block commit:        86 (Hash: 21f5d086, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 215
+2018-10-17 11:24:21	Block commit:        87 (Hash: 8c96cc02, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 217
+2018-10-17 11:24:38	Block commit:        88 (Hash: af461a62, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 219
+2018-10-17 11:24:56	Block commit:        89 (Hash: 2e5b92f1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 221
+2018-10-17 11:25:12	Block commit:        90 (Hash: 831b42a5, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 223
+2018-10-17 11:25:27	Block commit:        91 (Hash: 94707bf3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 225
+2018-10-17 11:25:45	Block commit:        92 (Hash: 60c62012, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 227
+2018-10-17 11:25:56	Block commit:        93 (Hash: 509aac6b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 229
+2018-10-17 11:26:09	Block commit:        94 (Hash: 5396a6d1, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 231
+2018-10-17 11:26:20	Block commit:        95 (Hash: 9c806c5b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 233
+2018-10-17 11:29:04	Block commit:        96 (Hash: ca3163ab, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 235
+2018-10-17 11:29:09	Block commit:        97 (Hash: 83161561, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 237
+2018-10-17 11:29:16	Block commit:        98 (Hash: f6b66fe5, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 239
+2018-10-17 11:29:29	Block commit:        99 (Hash: 1e2aa264, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 241
+2018-10-17 11:29:35	Block commit:       100 (Hash: 7db88e1f, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 243
+2018-10-17 11:29:43	Block commit:       101 (Hash: 59cddab1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 245
+2018-10-17 11:29:54	Block commit:       102 (Hash: 7e7732d9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 247
+2018-10-17 11:30:04	Block commit:       103 (Hash: ae1f58ff, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 249
+2018-10-17 11:30:19	Block commit:       104 (Hash: e820543e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 251
+2018-10-17 11:30:22	Block commit:       105 (Hash: dd251510, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 253
+2018-10-17 11:30:47	Block commit:       106 (Hash: 200f752e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 255
+2018-10-17 11:34:13	Block commit:       107 (Hash: fb16350d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 257
+2018-10-17 11:34:25	Block commit:       108 (Hash: 81975243, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 259
+2018-10-17 11:34:29	Block commit:       109 (Hash: 48d1d05e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 261
+2018-10-17 11:34:35	Block commit:       110 (Hash: 637065bc, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 263
+2018-10-17 11:34:44	Block commit:       111 (Hash: 2352571c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 265
+2018-10-17 11:34:47	Block commit:       112 (Hash: 769e28a3, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 267
+2018-10-17 11:34:52	Block commit:       113 (Hash: 8b216c48, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 269
+2018-10-17 11:34:56	Block commit:       114 (Hash: 4dbd106c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 271
+2018-10-17 11:35:25	Initialized: Admin count: 1, Miner count: 7, ledger rows: 271
+2018-10-17 11:35:25	Block rollback:       114, Admin count: 1, Miner count: 7, Ledger Rows: 271
+2018-10-17 11:35:36	Block commit:       115 (Hash: 6d94b58a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 273
+2018-10-17 11:35:55	Block commit:       116 (Hash: 11a7fdf0, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 275
+2018-10-17 11:36:09	Block commit:       117 (Hash: 43ea0f40, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 277
+2018-10-17 11:36:31	Block commit:       118 (Hash: 9960c56f, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 279
+2018-10-17 11:36:51	Block commit:       119 (Hash: 39be2c59, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 281
+2018-10-17 11:37:08	Block commit:       120 (Hash: aad64641, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 283
+2018-10-17 11:37:24	Block commit:       121 (Hash: bafa64c4, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 285
+2018-10-18 14:03:02	Initialized: Admin count: 1, Miner count: 7, ledger rows: 285
+2018-10-18 14:03:02	Block rollback:       121, Admin count: 1, Miner count: 7, Ledger Rows: 285
+2018-10-18 14:03:48	Block commit:       122 (Hash: a4f4357c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 287
+2018-10-18 14:04:01	Block commit:       123 (Hash: 2ab78020, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 289
+2018-10-18 14:04:24	Block commit:       124 (Hash: 9f248290, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 291
+2018-10-18 14:04:43	Block commit:       125 (Hash: ad6cdfae, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 293
+2018-10-18 14:05:01	Block commit:       126 (Hash: 1caff440, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 295
+2018-10-18 14:05:16	Block commit:       127 (Hash: eeab1b7e, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 297
+2018-10-18 14:05:40	Block commit:       128 (Hash: 9e73f1f1, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 299
+2018-10-18 14:06:04	Block commit:       129 (Hash: 51d87f79, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 301
+2018-10-18 14:06:26	Block commit:       130 (Hash: f7a744d0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 303
+2018-10-18 14:06:39	Block commit:       131 (Hash: 7a1b2439, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 305
+2018-10-18 14:07:00	Block commit:       132 (Hash: 61b059c8, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 307
+2018-10-18 14:07:19	Block commit:       133 (Hash: c063b742, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 309
+2018-10-18 14:07:27	Block commit:       134 (Hash: f8416c3e, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 311
+2018-10-18 14:07:32	Block commit:       135 (Hash: 2c96da87, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 313
+2018-10-18 14:07:39	Block commit:       136 (Hash: 7d570d3b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 315
+2018-10-18 14:07:55	Block commit:       137 (Hash: ba2579e5, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 317
+2018-10-18 14:08:25	Initialized: Admin count: 1, Miner count: 7, ledger rows: 317
+2018-10-18 14:08:26	Block rollback:       137, Admin count: 1, Miner count: 7, Ledger Rows: 317
+2018-10-18 14:08:28	Block rollback:       136, Admin count: 1, Miner count: 7, Ledger Rows: 315
+2018-10-18 14:08:28	Block rollback:       135, Admin count: 1, Miner count: 7, Ledger Rows: 313
+2018-10-18 14:08:29	Block rollback:       134, Admin count: 1, Miner count: 7, Ledger Rows: 311
+2018-10-18 14:08:29	Block rollback:       133, Admin count: 1, Miner count: 7, Ledger Rows: 309
+2018-10-18 14:08:29	Block rollback:       132, Admin count: 1, Miner count: 7, Ledger Rows: 307
+2018-10-18 14:08:29	Block rollback:       131, Admin count: 1, Miner count: 7, Ledger Rows: 305
+2018-10-18 14:08:29	Block rollback:       130, Admin count: 1, Miner count: 7, Ledger Rows: 303
+2018-10-18 14:08:29	Block rollback:       129, Admin count: 1, Miner count: 7, Ledger Rows: 301
+2018-10-18 14:08:29	Block rollback:       128, Admin count: 1, Miner count: 7, Ledger Rows: 299
+2018-10-18 14:08:29	Block rollback:       127, Admin count: 1, Miner count: 7, Ledger Rows: 297
+2018-10-18 14:08:29	Block rollback:       126, Admin count: 1, Miner count: 7, Ledger Rows: 295
+2018-10-18 14:08:29	Block rollback:       125, Admin count: 1, Miner count: 7, Ledger Rows: 293
+2018-10-18 14:08:29	Block rollback:       124, Admin count: 1, Miner count: 7, Ledger Rows: 291
+2018-10-18 14:08:29	Block rollback:       123, Admin count: 1, Miner count: 7, Ledger Rows: 289
+2018-10-18 14:08:29	Block rollback:       122, Admin count: 1, Miner count: 7, Ledger Rows: 287
+2018-10-18 14:08:29	Block rollback:       121, Admin count: 1, Miner count: 7, Ledger Rows: 285
+2018-10-18 14:08:29	Block commit:       122 (Hash: fc5dbeef, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 287
+2018-10-18 14:08:30	Block commit:       123 (Hash: 504f883f, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 289
+2018-10-18 14:08:30	Block commit:       124 (Hash: 72658ef1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 291
+2018-10-18 14:08:30	Block commit:       125 (Hash: b3d383ab, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 293
+2018-10-18 14:08:30	Block commit:       126 (Hash: 3ba20eb8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 295
+2018-10-18 14:08:30	Block commit:       127 (Hash: 5ed572e2, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 297
+2018-10-18 14:08:30	Block commit:       128 (Hash: c2bed8c3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 299
+2018-10-18 14:08:30	Block commit:       129 (Hash: 8870a5c7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 301
+2018-10-18 14:08:30	Block commit:       130 (Hash: 50bcc63b, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 303
+2018-10-18 14:08:30	Block commit:       131 (Hash: 96f6a66a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 305
+2018-10-18 14:08:30	Block commit:       132 (Hash: a5b55ad7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 307
+2018-10-18 14:08:30	Block commit:       133 (Hash: 64f3c72d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 309
+2018-10-18 14:08:30	Block commit:       134 (Hash: 256d9953, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 311
+2018-10-18 14:08:30	Block commit:       135 (Hash: 0cf528d7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 313
+2018-10-18 14:08:30	Block commit:       136 (Hash: 5e578f21, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 315
+2018-10-18 14:08:30	Block commit:       137 (Hash: f0849589, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 317
+2018-10-18 14:08:30	Block commit:       138 (Hash: 126e9f66, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 319
+2018-10-18 14:08:34	Block commit:       139 (Hash: 43fede6d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 321
+2018-10-18 14:08:42	Block commit:       140 (Hash: 00a88842, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 323
+2018-10-18 14:08:55	Block commit:       141 (Hash: 59df9e2a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 325
+2018-10-18 14:09:11	Block commit:       142 (Hash: ccd6ea44, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 327
+2018-10-18 14:09:28	Block commit:       143 (Hash: 6fe10862, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 329
+2018-10-18 14:09:44	Block commit:       144 (Hash: bd831da8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 331
+2018-10-18 14:10:02	Block commit:       145 (Hash: 646c69fb, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 333
+2018-10-18 14:10:13	Block commit:       146 (Hash: 87afe359, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 335
+2018-10-18 14:10:31	Block commit:       147 (Hash: 54859d1d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 337
+2018-10-18 14:10:45	Block commit:       148 (Hash: 61eb6b03, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 339
+2018-10-18 14:10:58	Block commit:       149 (Hash: bb4f6899, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 341
+2018-10-18 14:11:07	Block commit:       150 (Hash: ba40a296, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 343
+2018-10-18 14:11:30	Block commit:       151 (Hash: 23965432, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 345
+2018-10-18 14:11:48	Block commit:       152 (Hash: c11f62b1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 347
+2018-10-18 15:39:34	Block commit:       153 (Hash: 90359faa, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 349
+2018-10-18 15:39:40	Block commit:       154 (Hash: 4493f187, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 351
+2018-10-18 15:39:53	Block commit:       155 (Hash: 7d7e45e3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 353
+2018-10-18 15:40:04	Block commit:       156 (Hash: 18868a29, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 355
+2018-10-18 15:40:14	Block rollback:       155, Admin count: 1, Miner count: 7, Ledger Rows: 353
+2018-10-18 15:40:14	Block commit:       156 (Hash: e6f12fcf, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 355
+2018-10-18 15:40:14	Block commit:       157 (Hash: 12799247, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 357
+2018-10-18 15:40:19	Block commit:       158 (Hash: b7691be3, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 359
+2018-10-18 15:40:25	Block commit:       159 (Hash: 827c317c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 361
+2018-10-18 15:40:30	Block commit:       160 (Hash: 9b321791, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 363
+2018-10-18 15:40:37	Block commit:       161 (Hash: 2527c641, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 365
+2018-10-18 15:40:43	Block commit:       162 (Hash: 48630a5c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 367
+2018-10-18 15:40:47	Block commit:       163 (Hash: d6cb7e29, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 16:32:03	Initialized: Admin count: 1, Miner count: 7, ledger rows: 369
+2018-10-18 16:32:03	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:00:52	Initialized: Admin count: 1, Miner count: 7, ledger rows: 369
+2018-10-18 20:01:19	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:02:12	Block commit:       164 (Hash: fda0f61a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:02:26	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:02:27	Block commit:       164 (Hash: a4560bdc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:02:27	Block commit:       165 (Hash: ff24e3f0, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:03:35	Initialized: Admin count: 1, Miner count: 7, ledger rows: 373
+2018-10-18 20:03:37	Block rollback:       165, Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:03:51	Block rollback:       164, Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:03:51	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:03:52	Block commit:       164 (Hash: fda0f61a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:03:53	Block commit:       165 (Hash: ce9da9c6, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:03:53	Block commit:       166 (Hash: 47fa0f88, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 375
+2018-10-18 20:04:10	Block commit:       167 (Hash: 6fa67812, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 377
+2018-10-18 20:04:23	Block rollback:       166, Admin count: 1, Miner count: 7, Ledger Rows: 375
+2018-10-18 20:04:24	Block rollback:       165, Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:04:24	Block rollback:       164, Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:04:24	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:04:24	Block commit:       164 (Hash: a4560bdc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:04:26	Block commit:       165 (Hash: ff24e3f0, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:04:26	Block commit:       166 (Hash: b645d321, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 375
+2018-10-18 20:04:26	Block commit:       167 (Hash: a05e779f, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 377
+2018-10-18 20:04:26	Block commit:       168 (Hash: 81d77cc8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 379
+2018-10-18 20:04:36	Initialized: Admin count: 1, Miner count: 7, ledger rows: 379
+2018-10-18 20:04:39	Block rollback:       168, Admin count: 1, Miner count: 7, Ledger Rows: 379
+2018-10-18 20:04:52	Block commit:       169 (Hash: 7e1f0b66, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 381
+2018-10-18 20:06:32	Initialized: Admin count: 1, Miner count: 7, ledger rows: 381
+2018-10-18 20:06:35	Block rollback:       169, Admin count: 1, Miner count: 7, Ledger Rows: 381
+2018-10-18 20:07:33	Initialized: Admin count: 1, Miner count: 7, ledger rows: 381
+2018-10-18 20:07:36	Block rollback:       169, Admin count: 1, Miner count: 7, Ledger Rows: 381
+2018-10-18 20:07:49	Block commit:       170 (Hash: 3be6eec9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 383
+2018-10-18 20:10:02	Initialized: Admin count: 1, Miner count: 7, ledger rows: 383
+2018-10-18 20:10:06	Block rollback:       170, Admin count: 1, Miner count: 7, Ledger Rows: 383
+2018-10-18 20:11:35	Initialized: Admin count: 1, Miner count: 7, ledger rows: 383
+2018-10-18 20:11:38	Block rollback:       170, Admin count: 1, Miner count: 7, Ledger Rows: 383
+2018-10-18 20:11:48	Block rollback:       169, Admin count: 1, Miner count: 7, Ledger Rows: 381
+2018-10-18 20:11:48	Block rollback:       168, Admin count: 1, Miner count: 7, Ledger Rows: 379
+2018-10-18 20:11:49	Block rollback:       167, Admin count: 1, Miner count: 7, Ledger Rows: 377
+2018-10-18 20:11:49	Block rollback:       166, Admin count: 1, Miner count: 7, Ledger Rows: 375
+2018-10-18 20:11:49	Block rollback:       165, Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:11:50	Block rollback:       164, Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:11:50	Block rollback:       163, Admin count: 1, Miner count: 7, Ledger Rows: 369
+2018-10-18 20:11:51	Block commit:       164 (Hash: fda0f61a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 371
+2018-10-18 20:11:52	Block commit:       165 (Hash: ce9da9c6, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 373
+2018-10-18 20:11:52	Block commit:       166 (Hash: 47fa0f88, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 375
+2018-10-18 20:11:53	Block commit:       167 (Hash: 6fa67812, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 377
+2018-10-18 20:11:53	Block commit:       168 (Hash: c2d6cc15, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 379
+2018-10-18 20:11:54	Block commit:       169 (Hash: 8bc4eb18, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 381
+2018-10-18 20:11:54	Block commit:       170 (Hash: 2a1fb6d1, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 383
+2018-10-18 20:11:55	Block commit:       171 (Hash: 07614223, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 385
+2018-10-18 20:12:05	Block commit:       172 (Hash: 51edcf3b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 387
+2018-10-18 20:12:16	Block commit:       173 (Hash: 2bc1bd66, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 389
+2018-10-18 20:12:36	Block commit:       174 (Hash: a83a09d8, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 391
+2018-10-18 20:12:54	Initialized: Admin count: 1, Miner count: 7, ledger rows: 391
+2018-10-18 20:12:57	Block rollback:       174, Admin count: 1, Miner count: 7, Ledger Rows: 391
+2018-10-18 20:13:07	Block commit:       175 (Hash: 5715d585, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 393
+2018-10-18 20:19:19	Initialized: Admin count: 1, Miner count: 7, ledger rows: 393
+2018-10-18 20:19:23	Block rollback:       174, Admin count: 1, Miner count: 7, Ledger Rows: 391
+2018-10-18 20:19:23	Block commit:       175 (Hash: 5715d585, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 393
+2018-10-18 20:19:23	Block rollback:       175, Admin count: 1, Miner count: 7, Ledger Rows: 393
+2018-10-18 20:19:33	Block commit:       176 (Hash: 295fab22, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 395
+2018-10-18 20:19:50	Block commit:       177 (Hash: 0ea1219a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 397
+2018-10-18 20:30:21	Initialized: Admin count: 1, Miner count: 7, ledger rows: 397
+2018-10-18 20:30:48	Block rollback:       177, Admin count: 1, Miner count: 7, Ledger Rows: 397
+2018-10-18 20:30:59	Block commit:       178 (Hash: 008454e7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 399
+2018-10-18 20:31:15	Block commit:       179 (Hash: 95c83fcb, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 401
+2018-10-18 20:31:26	Block commit:       180 (Hash: 8385d8ff, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 403
+2018-10-18 20:31:46	Block commit:       181 (Hash: dcb121b7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 405
+2018-10-18 20:32:03	Block commit:       182 (Hash: b45703ec, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 407
+2018-10-18 20:32:19	Block commit:       183 (Hash: 9db06d86, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 409
+2018-10-18 20:32:32	Block commit:       184 (Hash: 650c0fc0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 411
+2018-10-18 20:32:53	Block commit:       185 (Hash: d201526d, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 413
+2018-10-18 20:33:13	Block commit:       186 (Hash: b37ed721, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 415
+2018-10-18 20:33:32	Block commit:       187 (Hash: 7f1af07e, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 417
+2018-10-18 21:15:24	Block commit:       188 (Hash: 3fbf2d93, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 419
+2018-10-18 21:15:43	Block commit:       189 (Hash: bdd20aa9, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 421
+2018-10-18 21:15:51	Block commit:       190 (Hash: 0a23b4fe, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 423
+2018-10-18 21:15:56	Block commit:       191 (Hash: c5f9a156, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 425
+2018-10-18 21:15:57	Block commit:       192 (Hash: 1927cfb7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 427
+2018-10-18 21:16:07	Block commit:       193 (Hash: 9d59ac33, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 429
+2018-10-18 21:16:08	Block commit:       194 (Hash: 6bd5ff53, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 431
+2018-10-18 21:16:09	Block commit:       195 (Hash: 874ca92e, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 433
+2018-10-18 21:16:12	Block commit:       196 (Hash: 5be16121, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 435
+2018-10-18 21:16:23	Block commit:       197 (Hash: 328d48a6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 437
+2018-10-18 21:16:32	Block commit:       198 (Hash: e1138161, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 439
+2018-10-18 21:16:36	Block commit:       199 (Hash: 366b2543, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 441
+2018-10-18 21:16:48	Block commit:       200 (Hash: 11b005bc, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 443
+2018-10-18 21:20:52	Block commit:       201 (Hash: 2af5a01f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 445
+2018-10-18 21:20:58	Block commit:       202 (Hash: c43a054f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 447
+2018-10-18 21:21:02	Block commit:       203 (Hash: f91419b4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 449
+2018-10-18 21:21:15	Block commit:       204 (Hash: 737d53b4, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 451
+2018-10-18 21:21:19	Block commit:       205 (Hash: 4b52ec93, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 453
+2018-10-18 21:21:23	Block commit:       206 (Hash: 2877da11, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 455
+2018-10-18 21:21:26	Block commit:       207 (Hash: 98eafe33, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 457
+2018-10-18 21:21:34	Block commit:       208 (Hash: de443a32, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 459
+2018-10-18 21:21:43	Block commit:       209 (Hash: 467db5b0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 461
+2018-10-18 21:21:46	Block commit:       210 (Hash: f5dd69b2, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 463
+2018-10-18 21:22:11	Block commit:       211 (Hash: 8a30670e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 465
+2018-10-19 10:01:28	Initialized: Admin count: 1, Miner count: 7, ledger rows: 465
+2018-10-19 10:01:58	Block rollback:       211, Admin count: 1, Miner count: 7, Ledger Rows: 465
+2018-10-19 10:02:40	Block commit:       212 (Hash: 6a6d005b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 467
+2018-10-20 12:07:32	Initialized: Admin count: 1, Miner count: 7, ledger rows: 467
+2018-10-20 12:07:38	Block rollback:       212, Admin count: 1, Miner count: 7, Ledger Rows: 467
+2018-10-20 12:07:54	Block commit:       213 (Hash: b6148d6c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 469
+2018-10-20 12:08:13	Block commit:       214 (Hash: c0b3c30a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 471
+2018-10-20 12:08:27	Block commit:       215 (Hash: bd2f950b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 473
+2018-10-20 12:08:50	Block commit:       216 (Hash: 3189a056, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 475
+2018-10-20 12:09:25	Block commit:       217 (Hash: 51eb06eb, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 477
+2018-10-20 12:09:34	Block commit:       218 (Hash: b76e023c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 479
+2018-10-20 12:09:43	Block commit:       219 (Hash: a26346cd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 481
+2018-10-20 12:10:07	Block commit:       220 (Hash: ad610f2d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 483
+2018-10-20 12:10:27	Block commit:       221 (Hash: e67c17c1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 485
+2018-10-20 12:10:46	Block commit:       222 (Hash: 84846667, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 487
+2018-10-20 12:17:39	Block commit:       223 (Hash: 319737ed, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 489
+2018-10-20 12:17:58	Block commit:       224 (Hash: 539e726b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 491
+2018-10-20 12:18:06	Block commit:       225 (Hash: 98b7f807, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 493
+2018-10-20 12:18:18	Block commit:       226 (Hash: d5f2676d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 495
+2018-10-20 12:18:26	Block commit:       227 (Hash: c8969b6c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 497
+2018-10-20 12:18:28	Block commit:       228 (Hash: d373fcf2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 499
+2018-10-20 12:18:34	Block commit:       229 (Hash: 0f331ab5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 501
+2018-10-20 12:18:37	Block commit:       230 (Hash: d7cf14c7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 503
+2018-10-20 12:18:40	Block commit:       231 (Hash: 1a3a90b1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 505
+2018-10-20 12:18:52	Block commit:       232 (Hash: 0d5d4473, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 507
+2018-10-20 12:19:01	Block commit:       233 (Hash: 0ac3dbc4, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 509
+2018-10-20 12:19:20	Block commit:       234 (Hash: 069fc393, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 511
+2018-10-20 12:19:40	Block commit:       235 (Hash: 03c08d58, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 513
+2018-10-24 22:09:31	Initialized: Admin count: 1, Miner count: 7, ledger rows: 513
+2018-10-24 22:09:52	Block rollback:       235, Admin count: 1, Miner count: 7, Ledger Rows: 513
+2018-10-24 22:10:42	Block commit:       236 (Hash: 2ac559f3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 515
+2018-10-24 22:10:55	Block commit:       237 (Hash: 5fe50060, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 517
+2018-10-24 22:11:17	Block commit:       238 (Hash: 15afd3f6, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 519
+2018-10-24 22:11:34	Block commit:       239 (Hash: eec497d0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 521
+2018-10-24 22:11:52	Block commit:       240 (Hash: db747e09, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 523
+2018-10-24 22:12:07	Block commit:       241 (Hash: b3452e01, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 525
+2018-10-24 22:12:30	Block commit:       242 (Hash: 27963527, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 527
+2018-10-24 22:12:44	Block commit:       243 (Hash: c2cc1f83, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 529
+2018-10-24 22:13:06	Block commit:       244 (Hash: 3b6c4efc, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 531
+2018-10-24 22:13:07	Block commit:       245 (Hash: dead50d1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 533
+2018-10-24 22:13:28	Block commit:       246 (Hash: 22b69c3c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 535
+2018-10-24 22:34:58	Block commit:       247 (Hash: 32523c4f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 537
+2018-10-24 22:35:02	Block commit:       248 (Hash: 5b97ad28, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 539
+2018-10-24 22:35:05	Block commit:       249 (Hash: bd9101c0, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 541
+2018-10-24 22:35:07	Block commit:       250 (Hash: 646fb2db, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 543
+2018-10-24 22:35:15	Block commit:       251 (Hash: b9696516, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 545
+2018-10-24 22:35:20	Block commit:       252 (Hash: 85beccc1, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 547
+2018-10-24 22:35:26	Block commit:       253 (Hash: b84730c8, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 549
+2018-10-24 22:35:39	Block rollback:       252, Admin count: 1, Miner count: 7, Ledger Rows: 547
+2018-10-24 22:35:39	Block rollback:       251, Admin count: 1, Miner count: 7, Ledger Rows: 545
+2018-10-24 22:35:39	Block rollback:       250, Admin count: 1, Miner count: 7, Ledger Rows: 543
+2018-10-24 22:35:39	Block commit:       251 (Hash: 5b2f607d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 545
+2018-10-24 22:35:40	Block commit:       252 (Hash: 44a43dec, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 547
+2018-10-24 22:35:40	Block commit:       253 (Hash: 8993f2a6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 549
+2018-10-24 22:35:40	Block commit:       254 (Hash: 9f980c87, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 551
+2018-10-24 22:35:56	Block commit:       255 (Hash: 235cc8ff, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 553
+2018-10-24 22:35:57	Block commit:       256 (Hash: d0c80dc0, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 555
+2018-10-24 22:36:01	Block rollback:       255, Admin count: 1, Miner count: 7, Ledger Rows: 553
+2018-10-24 22:36:02	Block commit:       256 (Hash: 75105baa, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 555
+2018-10-24 22:36:02	Block commit:       257 (Hash: 92da5366, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 557
+2018-10-26 00:16:42	Initialized: Admin count: 1, Miner count: 7, ledger rows: 557
+2018-10-26 00:16:55	Block rollback:       257, Admin count: 1, Miner count: 7, Ledger Rows: 557
+2018-10-26 00:17:31	Block commit:       258 (Hash: 65d7d232, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 559
+2018-10-26 00:17:32	Block commit:       259 (Hash: 5c9aa3cf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 561
+2018-10-26 00:17:46	Block commit:       260 (Hash: afd60c54, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 563
+2018-10-26 00:18:33	Block commit:       261 (Hash: ea0ea3d5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 565
+2018-10-26 00:18:51	Block rollback:       260, Admin count: 1, Miner count: 7, Ledger Rows: 563
+2018-10-26 00:18:52	Block commit:       261 (Hash: f9053249, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 565
+2018-10-26 00:18:53	Block commit:       262 (Hash: e2a1368a, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 567
+2018-10-26 00:19:07	Block commit:       263 (Hash: 44622fa1, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 569
+2018-10-26 00:19:07	Block commit:       264 (Hash: d66a38d1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 571
+2018-10-26 00:19:31	Block commit:       265 (Hash: 9de398ea, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 573
+2018-10-26 00:19:32	Block commit:       266 (Hash: ae85df5b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 575
+2018-10-26 00:19:46	Block commit:       267 (Hash: 76237662, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 577
+2018-10-26 00:19:55	Block commit:       268 (Hash: 7b0b0245, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 579
+2018-10-26 00:20:16	Block commit:       269 (Hash: 981ecf60, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 581
+2018-10-26 00:20:18	Block commit:       270 (Hash: 7d9eb498, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 583
+2018-10-26 00:20:43	Block commit:       271 (Hash: a23cdafb, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 585
+2018-10-26 00:21:02	Block commit:       272 (Hash: a2bd1178, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 587
+2018-10-26 00:21:14	Block commit:       273 (Hash: 564dc019, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 589
+2018-10-26 00:21:31	Block commit:       274 (Hash: cb0daa96, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 591
+2018-10-26 00:21:43	Block commit:       275 (Hash: 5a72811d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 593
+2018-10-26 00:21:58	Block commit:       276 (Hash: 1805e920, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 595
+2018-10-26 00:22:23	Block commit:       277 (Hash: fa105a3e, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 597
+2018-10-26 00:22:24	Block commit:       278 (Hash: 69062c95, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 599
+2018-10-26 00:22:40	Block rollback:       277, Admin count: 1, Miner count: 7, Ledger Rows: 597
+2018-10-26 00:22:41	Block commit:       278 (Hash: 58dc3838, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 599
+2018-10-26 00:22:41	Block commit:       279 (Hash: f3856789, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 601
+2018-10-26 00:22:54	Block commit:       280 (Hash: 2fb7a35a, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 603
+2018-10-26 00:23:07	Block commit:       281 (Hash: b8fc5298, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 605
+2018-10-29 12:57:24	Initialized: Admin count: 1, Miner count: 7, ledger rows: 605
+2018-10-29 12:57:52	Block rollback:       281, Admin count: 1, Miner count: 7, Ledger Rows: 605
+2018-10-29 13:01:11	Block commit:       282 (Hash: 9d8adc71, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 607
+2018-10-29 13:01:24	Block commit:       283 (Hash: 77cafdbc, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 609
+2018-10-29 13:01:47	Block commit:       284 (Hash: 2e935fdf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 611
+2018-10-29 13:02:06	Block commit:       285 (Hash: 8c794cc4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 613
+2018-10-29 13:02:39	Block commit:       286 (Hash: 2fb9b91b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 615
+2018-10-29 13:02:55	Block commit:       287 (Hash: 74455daa, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 617
+2018-10-29 13:03:19	Block commit:       288 (Hash: d4ff2891, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 619
+2018-10-29 13:03:42	Block commit:       289 (Hash: 5ad0e4d2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 621
+2018-10-29 13:04:03	Block commit:       290 (Hash: 0c506e59, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 623
+2018-10-29 13:16:59	Initialized: Admin count: 1, Miner count: 7, ledger rows: 623
+2018-10-29 13:17:19	Block rollback:       290, Admin count: 1, Miner count: 7, Ledger Rows: 623
+2018-10-29 13:17:34	Block commit:       291 (Hash: 7220a16d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 625
+2018-10-29 13:17:50	Block commit:       292 (Hash: 24aeca43, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 627
+2018-10-29 13:18:10	Block commit:       293 (Hash: da422f84, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 629
+2018-10-29 13:18:22	Block commit:       294 (Hash: aaa6ee62, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 631
+2018-10-29 13:18:39	Block commit:       295 (Hash: 0462bf4c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 633
+2018-10-29 13:18:54	Block commit:       296 (Hash: d639e628, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 635
+2018-10-30 10:53:24	Initialize: Database corrupted, blocks, Ledger: 296, DB: 290, trying to repair.
+2018-10-30 10:53:24	Initialized: Admin count: 1, Miner count: 7, ledger rows: 623
+2018-10-30 10:53:39	Block rollback:       290, Admin count: 1, Miner count: 7, Ledger Rows: 623
+2018-10-30 10:53:40	Block commit:       291 (Hash: 7220a16d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 625
+2018-10-30 10:53:41	Block commit:       292 (Hash: 24aeca43, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 627
+2018-10-30 10:53:42	Block commit:       293 (Hash: da422f84, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 629
+2018-10-30 10:53:42	Block commit:       294 (Hash: aaa6ee62, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 631
+2018-10-30 10:53:43	Block commit:       295 (Hash: 0462bf4c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 633
+2018-10-30 10:53:44	Block commit:       296 (Hash: d639e628, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 635
+2018-10-30 10:54:06	Block commit:       297 (Hash: b0613e46, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 637
+2018-10-30 10:54:21	Block commit:       298 (Hash: b0c34140, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 639
+2018-10-30 10:54:33	Block commit:       299 (Hash: ae78af3d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 641
+2018-10-30 10:54:53	Block commit:       300 (Hash: a708eb01, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 643
+2018-10-30 10:55:10	Block commit:       301 (Hash: 039f6fdf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 645
+2018-10-30 10:55:26	Block commit:       302 (Hash: 95316cf0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 647
+2018-10-30 10:55:39	Block commit:       303 (Hash: c6f485fc, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 649
+2018-10-30 10:56:11	Block commit:       304 (Hash: ab7c8e2e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 651
+2018-10-30 10:56:21	Block commit:       305 (Hash: 248a0bf1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 653
+2018-10-30 10:56:40	Block commit:       306 (Hash: aa4ded2b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 655
+2018-10-30 10:56:50	Block commit:       307 (Hash: 326dc0cf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 657
+2018-10-30 10:57:02	Block commit:       308 (Hash: aa1efb21, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 659
+2018-10-30 10:57:15	Block commit:       309 (Hash: 54541c00, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 661
+2018-10-30 10:57:27	Block commit:       310 (Hash: 91b8d241, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 663
+2018-10-30 10:57:45	Block commit:       311 (Hash: 6d045df8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 665
+2018-10-30 10:57:56	Block commit:       312 (Hash: 0ea923ae, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 667
+2018-10-30 10:58:12	Block commit:       313 (Hash: 15a4d157, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 669
+2018-10-30 10:58:31	Block commit:       314 (Hash: 8373f871, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 671
+2018-10-30 10:58:44	Block commit:       315 (Hash: 46386f93, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 673
+2018-10-30 10:58:59	Block commit:       316 (Hash: 6e5eb697, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 675
+2018-10-30 10:59:12	Block commit:       317 (Hash: 9036ebf5, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 677
+2018-10-30 10:59:27	Block commit:       318 (Hash: b4656dde, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 679
+2018-10-30 10:59:41	Block commit:       319 (Hash: a579d78f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 681
+2018-10-30 10:59:55	Block commit:       320 (Hash: e66e4b29, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 683
+2018-10-30 11:00:08	Block commit:       321 (Hash: bac828ef, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 685
+2018-10-30 11:00:28	Block commit:       322 (Hash: 203d7438, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 687
+2018-10-30 11:00:30	Block commit:       323 (Hash: 4004e136, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 689
+2018-10-30 11:00:56	Block commit:       324 (Hash: 0d9c2545, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 691
+2018-10-30 11:01:15	Block commit:       325 (Hash: 008359b3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 693
+2018-10-30 11:01:47	Block commit:       326 (Hash: 0e72dec5, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 695
+2018-10-30 11:02:00	Block rollback:       325, Admin count: 1, Miner count: 7, Ledger Rows: 693
+2018-10-30 11:02:01	Block commit:       326 (Hash: df34d749, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 695
+2018-10-30 11:02:01	Block commit:       327 (Hash: df167ce0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 697
+2018-10-30 11:02:09	Block commit:       328 (Hash: 39b950cd, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 699
+2018-10-30 11:02:16	Block commit:       329 (Hash: 456ce3d5, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 701
+2018-10-30 11:02:26	Block commit:       330 (Hash: 4907353b, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 703
+2018-10-30 11:02:41	Block commit:       331 (Hash: 8da64ecd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 705
+2018-10-30 11:03:04	Block commit:       332 (Hash: 410d1bef, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 707
+2018-10-30 11:03:18	Block commit:       333 (Hash: 621d1c10, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 709
+2018-10-30 11:03:31	Block commit:       334 (Hash: e0185689, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 711
+2018-10-30 11:03:50	Block commit:       335 (Hash: 1c133739, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 713
+2018-10-30 11:04:02	Block commit:       336 (Hash: 582c2129, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 715
+2018-10-30 11:04:26	Block commit:       337 (Hash: 4bdd225d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 717
+2018-10-30 11:04:40	Block commit:       338 (Hash: 13df649f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 719
+2018-10-30 11:04:51	Block commit:       339 (Hash: 157732b6, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 721
+2018-10-30 11:05:13	Block commit:       340 (Hash: 3e9e1bfc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 723
+2018-10-30 11:05:16	Block commit:       341 (Hash: 2237096e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 725
+2018-10-30 11:05:31	Block commit:       342 (Hash: 73fd6397, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 727
+2018-10-30 11:05:52	Block commit:       343 (Hash: 73a5e814, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 729
+2018-10-30 11:06:05	Block commit:       344 (Hash: 38d2451f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 731
+2018-10-30 11:06:25	Block commit:       345 (Hash: ded7cb7a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 733
+2018-10-30 11:07:56	Block commit:       346 (Hash: 63c33ac7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 735
+2018-10-30 11:08:05	Block commit:       347 (Hash: 36b56b52, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 737
+2018-10-30 11:08:09	Block commit:       348 (Hash: e1f6d998, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 739
+2018-10-30 11:08:18	Block commit:       349 (Hash: ed869b1f, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 741
+2018-10-30 11:08:23	Block commit:       350 (Hash: ba45c791, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 743
+2018-10-30 11:08:32	Block commit:       351 (Hash: 3000c8c0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 745
+2018-10-30 11:08:39	Block commit:       352 (Hash: 9da84000, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 747
+2018-10-30 11:08:50	Block commit:       353 (Hash: b4e2ffb8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 749
+2018-10-30 11:09:19	Block commit:       354 (Hash: 911147ac, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 751
+2018-10-30 11:09:27	Block commit:       355 (Hash: a9b27abe, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 753
+2018-10-30 11:09:50	Block commit:       356 (Hash: 19001b5f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 755
+2018-10-30 11:10:04	Block commit:       357 (Hash: c4833a01, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 757
+2018-10-30 11:10:29	Block commit:       358 (Hash: a998ccae, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 759
+2018-10-30 11:10:35	Block commit:       359 (Hash: 0204b000, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 761
+2018-10-30 11:10:46	Block commit:       360 (Hash: 68dec498, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 763
+2018-10-30 11:11:09	Block commit:       361 (Hash: a992702b, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 765
+2018-10-30 11:11:18	Block commit:       362 (Hash: d0bc4a7f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 767
+2018-10-30 11:11:32	Block commit:       363 (Hash: e77455e8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 769
+2018-10-30 11:11:46	Block commit:       364 (Hash: 2702e66e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 771
+2018-10-30 11:12:09	Block commit:       365 (Hash: 13e8618b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 773
+2018-10-30 11:12:25	Block commit:       366 (Hash: 58d87928, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 775
+2018-10-30 11:12:41	Block commit:       367 (Hash: b192d42f, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 777
+2018-10-30 11:12:42	Block commit:       368 (Hash: 017c6904, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 779
+2018-10-30 11:13:08	Block commit:       369 (Hash: 1c38de0e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 781
+2018-11-08 13:12:14	Initialized: Admin count: 1, Miner count: 7, ledger rows: 781
+2018-11-08 13:12:42	Block rollback:       369, Admin count: 1, Miner count: 7, Ledger Rows: 781
+2018-11-08 13:13:29	Block commit:       370 (Hash: 6b7680c3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 783
+2018-11-08 13:13:30	Block commit:       371 (Hash: 5a8faac8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 785
+2018-11-08 13:13:48	Block commit:       372 (Hash: f2615c9b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 787
+2018-11-08 13:14:02	Block commit:       373 (Hash: dde28592, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 789
+2018-11-08 13:14:24	Block commit:       374 (Hash: eeeafa7f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 791
+2018-11-08 13:14:44	Block commit:       375 (Hash: 7a03a8f6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 793
+2018-11-08 13:15:07	Block commit:       376 (Hash: 6ac55f13, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 795
+2018-11-08 13:15:18	Block commit:       377 (Hash: 9cbb8be0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 797
+2018-11-08 13:15:39	Block commit:       378 (Hash: 300e1ff6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 799
+2018-11-08 13:15:59	Block commit:       379 (Hash: d91c7ab9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 801
+2018-11-08 13:16:19	Block commit:       380 (Hash: 232ddc41, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 803
+2018-11-08 13:16:29	Block commit:       381 (Hash: cc9bafef, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 805
+2018-11-08 13:27:44	Block commit:       382 (Hash: 98ae5e69, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 807
+2018-11-08 13:27:52	Block commit:       383 (Hash: 73c1ac60, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 809
+2018-11-08 13:27:57	Block commit:       384 (Hash: 04ecdf04, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 811
+2018-11-08 13:27:57	Block commit:       385 (Hash: 346612e0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 813
+2018-11-08 13:27:58	Block commit:       386 (Hash: dfc41613, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 815
+2018-11-08 13:28:04	Block commit:       387 (Hash: 298bc63f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 817
+2018-11-08 13:28:07	Block commit:       388 (Hash: 5740de4d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 819
+2018-11-08 13:28:09	Block commit:       389 (Hash: f119cb9b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 821
+2018-11-08 13:28:25	Block commit:       390 (Hash: 2c9c78d1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 823
+2018-11-08 13:28:32	Block commit:       391 (Hash: 884a382f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 825
+2018-11-08 13:28:34	Block commit:       392 (Hash: c6903bb7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 827
+2018-12-15 15:21:07	Initialized: Admin count: 1, Miner count: 7, ledger rows: 827
+2018-12-15 15:21:28	Block rollback:       392, Admin count: 1, Miner count: 7, Ledger Rows: 827
+2018-12-15 15:22:46	Block commit:       393 (Hash: 0d2902ff, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 829
+2018-12-15 15:22:57	Block commit:       394 (Hash: fce5fbcf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 831
+2018-12-15 15:23:17	Block commit:       395 (Hash: 167165b8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 833
+2018-12-15 15:23:34	Block commit:       396 (Hash: 6cba1e96, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 835
+2018-12-15 15:23:50	Block commit:       397 (Hash: 57e51761, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 837
+2018-12-15 15:24:03	Block commit:       398 (Hash: 9042b4a8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 839
+2018-12-15 15:24:24	Block commit:       399 (Hash: e8e05d88, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 841
+2018-12-15 15:24:44	Block commit:       400 (Hash: 6a5f6e08, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 843
+2018-12-15 15:25:04	Block commit:       401 (Hash: 18428a86, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 845
+2018-12-15 15:25:14	Block commit:       402 (Hash: 55bfc563, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 847
+2018-12-15 15:25:35	Block commit:       403 (Hash: f35973c0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 849
+2018-12-15 15:26:49	Block commit:       404 (Hash: 560af513, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 851
+2018-12-15 15:26:54	Block commit:       405 (Hash: 3d8cc619, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 853
+2018-12-15 15:26:55	Block commit:       406 (Hash: ced006ca, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 855
+2018-12-15 15:26:56	Block commit:       407 (Hash: 2bd79752, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 857
+2018-12-15 15:27:02	Block commit:       408 (Hash: b2dc39d2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 859
+2018-12-15 15:27:10	Block commit:       409 (Hash: b8bf727c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 861
+2018-12-15 15:27:27	Block commit:       410 (Hash: 7f0a71e4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 863
+2018-12-15 15:27:56	Block commit:       411 (Hash: ede3c429, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 865
+2018-12-15 15:28:06	Block commit:       412 (Hash: 2a5e0129, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 867
+2018-12-15 15:28:18	Block commit:       413 (Hash: 64f7088e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 869
+2018-12-15 15:28:32	Block commit:       414 (Hash: 68c484db, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 871
+2018-12-15 15:28:48	Block commit:       415 (Hash: 9ce5a315, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 873
+2018-12-15 15:29:09	Block commit:       416 (Hash: a4004d68, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 875
+2018-12-15 15:29:24	Block commit:       417 (Hash: 9b51f04a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 877
+2018-12-15 15:29:38	Block commit:       418 (Hash: 65f13cb1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 879
+2018-12-15 15:32:15	Initialized: Admin count: 1, Miner count: 7, ledger rows: 879
+2018-12-15 15:32:34	Block rollback:       418, Admin count: 1, Miner count: 7, Ledger Rows: 879
+2018-12-15 15:36:01	Block commit:       419 (Hash: d772bf01, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 881
+2018-12-15 15:36:12	Block commit:       420 (Hash: f412c648, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 883
+2018-12-15 15:36:32	Block commit:       421 (Hash: 92d8756c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 885
+2018-12-15 15:36:49	Block commit:       422 (Hash: 5e7baa87, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 887
+2018-12-15 15:37:05	Block commit:       423 (Hash: 8097e1a8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 889
+2018-12-15 15:37:18	Block commit:       424 (Hash: 51525431, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 891
+2018-12-15 15:37:40	Block commit:       425 (Hash: 5988db7e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 893
+2018-12-15 15:38:00	Block commit:       426 (Hash: 4b72cad5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 895
+2018-12-15 15:38:19	Block commit:       427 (Hash: 51ee6e96, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 897
+2018-12-15 15:38:29	Block commit:       428 (Hash: 5f54a4f5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 899
+2018-12-15 15:38:51	Block commit:       429 (Hash: 5aeac8b5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 901
+2018-12-15 15:54:37	Block commit:       430 (Hash: de7f1baf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 903
+2018-12-15 15:54:46	Block commit:       431 (Hash: 981087fe, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 905
+2018-12-15 15:54:55	Block commit:       432 (Hash: 946fc576, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 907
+2018-12-15 15:55:06	Block commit:       433 (Hash: 6432fb18, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 909
+2018-12-15 15:55:09	Block commit:       434 (Hash: 5a3fd9be, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 911
+2018-12-15 15:55:20	Block commit:       435 (Hash: 0f4c32b1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 913
+2018-12-15 15:55:26	Block commit:       436 (Hash: bb45cbfe, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 915
+2018-12-15 15:55:40	Block commit:       437 (Hash: 503db15c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 917
+2018-12-15 15:55:41	Block commit:       438 (Hash: 724a468a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 919
+2018-12-15 15:55:58	Block commit:       439 (Hash: 20d80395, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 921
+2018-12-15 15:56:10	Block commit:       440 (Hash: 95737d5b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 923
+2018-12-15 15:57:39	Block commit:       441 (Hash: af903f88, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 925
+2018-12-15 15:57:44	Block commit:       442 (Hash: 935f42fb, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 927
+2018-12-15 15:57:58	Block commit:       443 (Hash: 46c1e4fd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 929
+2018-12-15 15:58:09	Block commit:       444 (Hash: 0278079e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 931
+2018-12-15 15:58:24	Block commit:       445 (Hash: eb2aff1f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 933
+2018-12-15 15:58:38	Block commit:       446 (Hash: 0fd99486, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 935
+2018-12-15 15:58:47	Block commit:       447 (Hash: 7fc498db, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 937
+2018-12-15 15:58:50	Block commit:       448 (Hash: 9f88e1a8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 939
+2018-12-15 15:59:05	Block commit:       449 (Hash: 4c30a172, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 941
+2018-12-15 15:59:30	Block commit:       450 (Hash: 7d0bc525, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 943
+2018-12-15 15:59:51	Block commit:       451 (Hash: c0bccf35, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 945
+2018-12-15 15:59:53	Block commit:       452 (Hash: 5a50320f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 947
+2018-12-15 16:00:15	Block commit:       453 (Hash: 5421ef09, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 949
+2018-12-15 16:00:26	Block commit:       454 (Hash: 25c2ce42, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 951
+2018-12-15 16:00:48	Block commit:       455 (Hash: 1b07c1a4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 953
+2018-12-15 16:00:53	Block commit:       456 (Hash: 25abda24, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 955
+2018-12-15 16:01:07	Block commit:       457 (Hash: c1c6a5e6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 957
+2018-12-15 16:01:33	Block commit:       458 (Hash: 21e08b4a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 959
+2018-12-15 16:01:39	Block commit:       459 (Hash: 79126ed5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 961
+2018-12-15 16:01:53	Block commit:       460 (Hash: 99953e9c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 963
+2018-12-15 16:02:13	Block commit:       461 (Hash: e1cce3b8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 965
+2018-12-15 16:04:42	Block commit:       462 (Hash: 8f9bf4b5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 967
+2018-12-15 16:04:53	Block commit:       463 (Hash: 33650738, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 969
+2018-12-15 16:05:01	Block commit:       464 (Hash: bfa74cd9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 971
+2018-12-15 16:05:04	Block commit:       465 (Hash: 8f73b73b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 973
+2018-12-15 16:05:16	Block commit:       466 (Hash: 7acc6e61, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 975
+2018-12-15 16:05:24	Block commit:       467 (Hash: 0296d919, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 977
+2018-12-15 16:05:32	Block commit:       468 (Hash: 3cecec60, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 979
+2018-12-15 16:05:46	Block commit:       469 (Hash: dcdeb68b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 981
+2018-12-15 16:05:58	Block commit:       470 (Hash: 154238ad, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 983
+2018-12-15 16:06:00	Block commit:       471 (Hash: 8d3e9c5e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 985
+2018-12-15 16:06:25	Block commit:       472 (Hash: 347343a2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 987
+2018-12-15 16:06:46	Block commit:       473 (Hash: c8080af1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 989
+2018-12-15 16:07:13	Block commit:       474 (Hash: 2157cee7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 991
+2018-12-15 16:07:27	Block commit:       475 (Hash: 68a19a76, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 993
+2018-12-15 16:07:38	Block commit:       476 (Hash: ec557899, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 995
+2018-12-15 16:07:48	Block commit:       477 (Hash: 90b14a01, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 997
+2018-12-15 16:07:58	Block commit:       478 (Hash: b610cdd3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 999
+2018-12-15 16:08:13	Block commit:       479 (Hash: 8f6ebb9c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1001
+2018-12-15 16:08:31	Block commit:       480 (Hash: 97302429, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1003
+2018-12-15 16:08:51	Block commit:       481 (Hash: 0f82a6bd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1005
+2018-12-15 16:09:03	Block commit:       482 (Hash: 25688e9f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1007
+2018-12-15 16:28:45	Block commit:       483 (Hash: b36eb576, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1009
+2018-12-15 16:28:46	Block commit:       484 (Hash: 47b88070, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1011
+2018-12-15 16:28:48	Block commit:       485 (Hash: 58649d37, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1013
+2018-12-15 16:28:58	Block commit:       486 (Hash: 978debfd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1015
+2018-12-15 16:29:06	Block commit:       487 (Hash: 274f5487, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1017
+2018-12-15 16:29:08	Block commit:       488 (Hash: db4dd53c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1019
+2018-12-15 16:29:19	Block commit:       489 (Hash: 80134aa6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1021
+2018-12-15 16:29:27	Block commit:       490 (Hash: dcc5140b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1023
+2018-12-15 16:29:29	Block commit:       491 (Hash: eeccfbc5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1025
+2018-12-15 16:29:44	Block commit:       492 (Hash: 750b512b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1027
+2018-12-15 16:29:46	Block commit:       493 (Hash: 7d9818b3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1029
+2018-12-15 16:30:01	Block commit:       494 (Hash: 9bfb44fb, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1031
+2018-12-15 16:30:27	Block commit:       495 (Hash: e2214dca, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1033
+2018-12-15 16:31:03	Block commit:       496 (Hash: ff60dee1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1035
+2018-12-15 16:31:14	Block commit:       497 (Hash: bd460a24, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1037
+2018-12-15 16:31:21	Block commit:       498 (Hash: 32ca7db3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1039
+2018-12-15 16:31:34	Block commit:       499 (Hash: bda09d78, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1041
+2018-12-15 16:31:48	Block commit:       500 (Hash: a172568b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1043
+2018-12-15 16:32:02	Block commit:       501 (Hash: 9c8b073a, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1045
+2018-12-15 16:32:17	Block rollback:       500, Admin count: 1, Miner count: 7, Ledger Rows: 1043
+2018-12-15 16:32:17	Block rollback:       499, Admin count: 1, Miner count: 7, Ledger Rows: 1041
+2018-12-15 16:32:17	Block rollback:       498, Admin count: 1, Miner count: 7, Ledger Rows: 1039
+2018-12-15 16:32:17	Block commit:       499 (Hash: fc6cab4d, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1041
+2018-12-15 16:32:18	Block commit:       500 (Hash: 62452e7f, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1043
+2018-12-15 16:32:18	Block commit:       501 (Hash: 372ebcad, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1045
+2018-12-15 16:32:18	Block commit:       502 (Hash: a28695e9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1047
+2018-12-15 16:32:35	Block commit:       503 (Hash: 1ab90180, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1049
+2018-12-15 16:32:48	Block commit:       504 (Hash: 542a907b, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1051
+2018-12-15 16:33:00	Block commit:       505 (Hash: 1b25c371, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1053
+2018-12-15 16:33:21	Block commit:       506 (Hash: 764ec85f, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1055
+2018-12-15 16:33:37	Block commit:       507 (Hash: 70ebea74, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1057
+2018-12-15 16:33:47	Block commit:       508 (Hash: fb97eac4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1059
+2018-12-15 16:34:04	Block commit:       509 (Hash: 2444f445, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1061
+2018-12-15 16:34:26	Block commit:       510 (Hash: a29b18fd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1063
+2018-12-15 16:34:30	Block commit:       511 (Hash: d6e49ada, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1065
+2018-12-15 16:34:47	Block commit:       512 (Hash: a3ab9f30, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1067
+2018-12-15 16:35:09	Block commit:       513 (Hash: b0eef67b, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1069
+2018-12-15 16:35:09	Block commit:       514 (Hash: 04aac72f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1071
+2018-12-15 16:35:34	Block commit:       515 (Hash: d7f0e1bd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1073
+2018-12-15 16:35:45	Block commit:       516 (Hash: d5d7b5a9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1075
+2018-12-15 16:36:04	Block commit:       517 (Hash: f94a0dc0, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1077
+2018-12-15 16:36:15	Block commit:       518 (Hash: 50980411, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1079
+2018-12-15 16:36:33	Block commit:       519 (Hash: a8454eb4, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1081
+2018-12-15 16:36:49	Block commit:       520 (Hash: 732d0038, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1083
+2018-12-15 16:44:47	Block commit:       521 (Hash: 98ec3612, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1085
+2018-12-15 16:44:50	Block commit:       522 (Hash: 7aeaabe7, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1087
+2018-12-15 16:44:58	Block commit:       523 (Hash: fcae09ff, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1089
+2018-12-15 16:45:09	Block commit:       524 (Hash: acb3cc30, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1091
+2018-12-15 16:45:15	Block commit:       525 (Hash: 6d2f5b0d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1093
+2018-12-15 16:45:22	Block commit:       526 (Hash: 0a7c4a85, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1095
+2018-12-15 16:45:30	Block commit:       527 (Hash: 6b821c37, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1097
+2018-12-15 16:45:45	Block commit:       528 (Hash: ff28243a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1099
+2018-12-15 16:45:49	Block commit:       529 (Hash: 8657ec52, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1101
+2018-12-15 16:46:06	Block commit:       530 (Hash: 03d18640, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1103
+2018-12-15 16:46:12	Block rollback:       529, Admin count: 1, Miner count: 7, Ledger Rows: 1101
+2018-12-15 16:46:12	Block commit:       530 (Hash: 146879de, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1103
+2018-12-15 16:46:13	Block commit:       531 (Hash: 3b9b2dfa, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1105
+2018-12-15 16:46:21	Block commit:       532 (Hash: 7a6e294a, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1107
+2018-12-15 16:46:49	Block commit:       533 (Hash: c9f5dfb3, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1109
+2018-12-15 16:48:44	Block commit:       534 (Hash: 52214ae5, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1111
+2018-12-15 16:48:55	Block commit:       535 (Hash: 42f5b5cc, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1113
+2018-12-15 16:48:59	Block commit:       536 (Hash: 973db888, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1115
+2018-12-15 16:49:09	Block commit:       537 (Hash: dc003217, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1117
+2018-12-15 16:49:18	Block commit:       538 (Hash: baddc6e0, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1119
+2018-12-15 16:49:22	Block commit:       539 (Hash: 4ea553de, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1121
+2018-12-15 16:49:32	Block commit:       540 (Hash: 8ec10183, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1123
+2018-12-15 16:49:33	Block commit:       541 (Hash: 6ee7d1d3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1125
+2018-12-15 16:49:51	Block commit:       542 (Hash: b74f7b7b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1127
+2018-12-15 16:50:16	Block commit:       543 (Hash: c58f2c0a, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1129
+2018-12-15 16:50:32	Block commit:       544 (Hash: 02e6c2b4, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1131
+2018-12-15 16:53:26	Block commit:       545 (Hash: 0b6d598b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1133
+2018-12-15 16:53:29	Block commit:       546 (Hash: 722dba33, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1135
+2018-12-15 16:53:35	Block commit:       547 (Hash: 040794be, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1137
+2018-12-15 16:53:40	Block commit:       548 (Hash: 90eaa066, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1139
+2018-12-15 16:53:54	Block commit:       549 (Hash: 4b3dd08d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1141
+2018-12-15 16:54:02	Block commit:       550 (Hash: a14e98b0, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1143
+2018-12-15 16:54:11	Block commit:       551 (Hash: 33337ed1, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1145
+2018-12-15 16:54:17	Block commit:       552 (Hash: b2987ffe, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1147
+2018-12-15 16:54:23	Block commit:       553 (Hash: 33cbfa01, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1149
+2018-12-15 16:54:31	Block commit:       554 (Hash: f3e829f7, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1151
+2018-12-15 16:54:57	Block commit:       555 (Hash: 1b44eba5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1153
+2018-12-15 16:55:59	Block commit:       556 (Hash: 3d4026b7, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1155
+2018-12-15 16:56:11	Block commit:       557 (Hash: 3a0928b4, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1157
+2018-12-15 16:56:19	Block commit:       558 (Hash: 46dbdea9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1159
+2018-12-15 16:56:24	Block commit:       559 (Hash: 48cbd7a1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1161
+2018-12-15 16:56:28	Block commit:       560 (Hash: 511a4ad9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1163
+2018-12-15 16:56:42	Block commit:       561 (Hash: 6efe623b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1165
+2018-12-15 16:57:04	Block commit:       562 (Hash: 84becdd8, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1167
+2018-12-15 16:57:17	Block commit:       563 (Hash: 5b889447, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1169
+2018-12-15 16:57:29	Block commit:       564 (Hash: bec375fe, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1171
+2018-12-15 16:57:44	Block commit:       565 (Hash: ddc7db3d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1173
+2018-12-15 16:58:03	Block commit:       566 (Hash: 6ebfe600, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1175
+2018-12-15 16:58:17	Block commit:       567 (Hash: 18f14f5a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1177
+2018-12-15 16:58:35	Block commit:       568 (Hash: 1f704361, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1179
+2018-12-15 16:58:46	Block commit:       569 (Hash: 53a945a5, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1181
+2018-12-15 16:59:10	Block commit:       570 (Hash: 240f75f5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1183
+2018-12-15 16:59:19	Block commit:       571 (Hash: 687e1ec3, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1185
+2018-12-15 16:59:32	Block commit:       572 (Hash: 5e7eb3ff, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1187
+2018-12-15 16:59:44	Block commit:       573 (Hash: 6091f522, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1189
+2018-12-15 17:00:05	Block commit:       574 (Hash: 6d7e0e9e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1191
+2018-12-15 17:00:24	Block commit:       575 (Hash: ae471ffc, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1193
+2018-12-15 17:00:38	Block commit:       576 (Hash: 9063af44, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1195
+2018-12-15 17:00:48	Block commit:       577 (Hash: 1746041b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1197
+2018-12-15 17:01:06	Block commit:       578 (Hash: f45e8ab2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1199
+2018-12-15 17:01:18	Block commit:       579 (Hash: d29d40ea, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1201
+2018-12-15 17:01:38	Block commit:       580 (Hash: d03bbfaf, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1203
+2018-12-15 17:01:53	Block commit:       581 (Hash: bc2d6d71, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1205
+2018-12-15 17:02:03	Block commit:       582 (Hash: c477cff0, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1207
+2018-12-15 17:02:17	Block commit:       583 (Hash: ddd6a34d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1209
+2018-12-15 17:02:34	Block commit:       584 (Hash: 950e862f, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1211
+2018-12-15 17:02:52	Block commit:       585 (Hash: 7ef1054e, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1213
+2018-12-15 17:03:11	Block commit:       586 (Hash: ffa25a64, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1215
+2018-12-15 17:03:26	Block commit:       587 (Hash: 4c88f5c6, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1217
+2018-12-15 17:17:29	Block commit:       588 (Hash: f6a8aafa, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1219
+2018-12-15 17:17:32	Block commit:       589 (Hash: e76ff31f, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1221
+2018-12-15 17:17:49	Block commit:       590 (Hash: 44e89ee6, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1223
+2018-12-15 17:17:59	Block commit:       591 (Hash: a26bd9be, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1225
+2018-12-15 17:18:09	Block commit:       592 (Hash: ad270e77, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1227
+2018-12-15 17:18:14	Block commit:       593 (Hash: c50e7559, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1229
+2018-12-15 17:18:23	Block commit:       594 (Hash: 7ff1f1f3, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1231
+2018-12-15 17:18:28	Block commit:       595 (Hash: b4277229, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1233
+2018-12-15 17:18:37	Block commit:       596 (Hash: ea537dc9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1235
+2018-12-15 17:18:44	Block commit:       597 (Hash: e3e5ab5c, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1237
+2018-12-15 17:18:48	Block commit:       598 (Hash: f5280bdd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1239
+2018-12-15 17:19:11	Block commit:       599 (Hash: 0f41bea7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1241
+2018-12-15 17:19:33	Block commit:       600 (Hash: af2886e8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1243
+2018-12-16 13:24:47	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1243
+2018-12-16 13:25:00	Block rollback:       600, Admin count: 1, Miner count: 7, Ledger Rows: 1243
+2018-12-16 13:25:14	Block commit:       601 (Hash: 3aab59a9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1245
+2018-12-16 13:25:33	Block commit:       602 (Hash: 5a63a172, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1247
+2018-12-16 13:25:47	Block commit:       603 (Hash: eeb07f1b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1249
+2018-12-16 13:26:09	Block commit:       604 (Hash: be5e1874, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1251
+2018-12-16 13:26:35	Block commit:       605 (Hash: 271070fd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1253
+2018-12-16 13:26:47	Block commit:       606 (Hash: f940d57c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1255
+2018-12-16 13:27:02	Block commit:       607 (Hash: d810acd6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1257
+2018-12-16 13:27:24	Block commit:       608 (Hash: d10c4113, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1259
+2018-12-16 13:27:44	Block commit:       609 (Hash: 116931da, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1261
+2018-12-16 13:28:03	Block commit:       610 (Hash: 335ebff8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1263
+2018-12-16 13:28:14	Block commit:       611 (Hash: 47b7b76a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1265
+2018-12-16 13:28:35	Block commit:       612 (Hash: 09f30109, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1267
+2018-12-16 13:28:46	Block commit:       613 (Hash: ae82996f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1269
+2018-12-16 13:28:54	Block commit:       614 (Hash: 5f7bad0d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1271
+2018-12-16 13:33:59	Block commit:       615 (Hash: 173065f8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1273
+2018-12-16 13:34:01	Block commit:       616 (Hash: cbadba18, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1275
+2018-12-16 13:34:07	Block commit:       617 (Hash: e02e4ce7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1277
+2018-12-16 13:34:09	Block commit:       618 (Hash: e183e5b9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1279
+2018-12-16 13:34:13	Block commit:       619 (Hash: 70a9cf20, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1281
+2018-12-16 13:34:29	Block commit:       620 (Hash: 25aefd69, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1283
+2018-12-16 13:34:35	Block commit:       621 (Hash: ea787ef6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1285
+2018-12-16 13:34:38	Block commit:       622 (Hash: 03204d20, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1287
+2018-12-16 13:34:39	Block commit:       623 (Hash: 0d02ab7c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1289
+2018-12-16 13:34:39	Block commit:       624 (Hash: 2c2a2ac0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1291
+2018-12-16 13:34:59	Block commit:       625 (Hash: 7f29a540, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1293
+2018-12-16 13:35:23	Block commit:       626 (Hash: 1c32fed8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1295
+2018-12-16 13:35:46	Block commit:       627 (Hash: 6a9975d1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1297
+2018-12-16 13:36:11	Block commit:       628 (Hash: 56f3e5fb, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1299
+2018-12-16 13:36:28	Block commit:       629 (Hash: 395b46a8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1301
+2018-12-16 13:36:36	Block commit:       630 (Hash: 86fd68b2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1303
+2018-12-16 13:36:57	Block commit:       631 (Hash: 69fbf5c1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1305
+2018-12-16 13:37:06	Block commit:       632 (Hash: e2a876dd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1307
+2018-12-16 13:37:14	Block commit:       633 (Hash: da0f1654, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1309
+2018-12-16 13:37:27	Block commit:       634 (Hash: f8a51a59, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1311
+2018-12-16 13:37:44	Block commit:       635 (Hash: 62536737, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1313
+2018-12-16 13:37:58	Block commit:       636 (Hash: 68ae9b62, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1315
+2018-12-16 13:38:20	Block commit:       637 (Hash: a944d419, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1317
+2018-12-16 13:38:33	Block commit:       638 (Hash: 11f18fcb, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1319
+2018-12-16 13:38:49	Block commit:       639 (Hash: 0cdc464c, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1321
+2018-12-16 13:39:11	Block commit:       640 (Hash: f98e996f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1323
+2018-12-16 13:39:21	Block commit:       641 (Hash: 5c7e746a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1325
+2018-12-16 14:17:00	Block commit:       642 (Hash: e635ec9a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1327
+2018-12-16 14:17:05	Block commit:       643 (Hash: a68b4b7b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1329
+2018-12-16 14:17:06	Block commit:       644 (Hash: 0a2986d7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1331
+2018-12-16 14:17:13	Block commit:       645 (Hash: 57b86405, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1333
+2018-12-16 14:17:24	Block commit:       646 (Hash: 9fce78c4, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1335
+2018-12-16 14:17:30	Block commit:       647 (Hash: add1d690, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1337
+2018-12-16 14:17:35	Block commit:       648 (Hash: 4b65434e, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1339
+2018-12-16 14:17:51	Block commit:       649 (Hash: edbb94f8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1341
+2018-12-16 14:17:52	Block commit:       650 (Hash: 7b8fe234, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1343
+2018-12-16 14:18:02	Block commit:       651 (Hash: 19444edf, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1345
+2018-12-16 14:18:07	Block commit:       652 (Hash: b3d86f8a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1347
+2018-12-16 14:25:32	Block commit:       653 (Hash: 9c9bd562, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1349
+2018-12-16 14:25:36	Block commit:       654 (Hash: 48e56360, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1351
+2018-12-16 14:25:52	Block commit:       655 (Hash: 9262d455, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1353
+2018-12-16 14:25:55	Block commit:       656 (Hash: 8961c719, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1355
+2018-12-16 14:26:04	Block commit:       657 (Hash: a7e52497, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1357
+2018-12-16 14:26:05	Block commit:       658 (Hash: 724a6193, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1359
+2018-12-16 14:26:09	Block commit:       659 (Hash: d9ade2ca, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1361
+2018-12-16 14:26:13	Block commit:       660 (Hash: 2a12b3cd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1363
+2018-12-16 14:26:17	Block commit:       661 (Hash: 7f63d259, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1365
+2018-12-16 14:26:27	Block commit:       662 (Hash: 25b03531, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1367
+2018-12-16 14:26:34	Block commit:       663 (Hash: a4b52ca6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1369
+2018-12-16 14:26:35	Block commit:       664 (Hash: 3d598088, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1371
+2018-12-16 14:27:15	Block commit:       665 (Hash: 8dab3c99, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1373
+2018-12-16 14:27:36	Block commit:       666 (Hash: 71ccca09, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1375
+2018-12-16 14:27:58	Block commit:       667 (Hash: 4e1db6d8, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1377
+2018-12-16 14:28:13	Block commit:       668 (Hash: 99bffdd2, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1379
+2018-12-16 14:28:23	Block commit:       669 (Hash: 9defdffc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1381
+2018-12-16 14:28:34	Block commit:       670 (Hash: 01bc967e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1383
+2018-12-16 14:28:57	Block commit:       671 (Hash: eaafbe6d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1385
+2018-12-16 14:29:02	Block commit:       672 (Hash: 87cc4c5f, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1387
+2018-12-16 14:29:16	Block commit:       673 (Hash: 0ff0e847, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1389
+2018-12-16 14:29:39	Block commit:       674 (Hash: a75e54b9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1391
+2018-12-16 14:29:51	Block commit:       675 (Hash: b0847504, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1393
+2018-12-16 14:30:17	Block commit:       676 (Hash: 35bffb71, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1395
+2018-12-16 14:30:24	Block commit:       677 (Hash: ef2d6313, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1397
+2018-12-16 14:30:56	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1397
+2018-12-16 14:31:07	Block rollback:       677, Admin count: 1, Miner count: 7, Ledger Rows: 1397
+2018-12-16 14:32:11	Block commit:       678 (Hash: 21a3b59b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1399
+2018-12-16 14:32:23	Block commit:       679 (Hash: 55f60c98, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1401
+2018-12-16 14:32:50	Block commit:       680 (Hash: ad66a4de, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1403
+2018-12-16 14:33:11	Block commit:       681 (Hash: 1a006d16, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1405
+2018-12-16 14:33:24	Block commit:       682 (Hash: d52a5e37, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1407
+2018-12-16 14:33:40	Block commit:       683 (Hash: baa18a07, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1409
+2018-12-16 14:34:01	Block commit:       684 (Hash: b2febe51, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1411
+2018-12-16 14:34:31	Block commit:       685 (Hash: d64c1ff5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1413
+2018-12-16 14:34:56	Block commit:       686 (Hash: 3f4dc9b3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1415
+2018-12-16 14:35:07	Block commit:       687 (Hash: 31dfe0ab, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1417
+2018-12-16 14:35:31	Block commit:       688 (Hash: 42025798, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1419
+2018-12-16 14:35:52	Block commit:       689 (Hash: 86a1f616, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1421
+2018-12-16 18:52:22	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1421
+2018-12-16 18:53:00	Block rollback:       689, Admin count: 1, Miner count: 7, Ledger Rows: 1421
+2018-12-16 18:53:14	Block commit:       690 (Hash: 3ca61fb7, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1423
+2018-12-16 18:53:33	Block commit:       691 (Hash: ddbcc829, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1425
+2018-12-16 18:53:39	Block commit:       692 (Hash: fbe177d2, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1427
+2018-12-16 18:53:50	Block commit:       693 (Hash: bc40b561, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1429
+2018-12-16 18:54:27	Block commit:       694 (Hash: b575cdcd, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1431
+2018-12-16 18:54:49	Block commit:       695 (Hash: f9b3474b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1433
+2018-12-16 18:55:01	Block commit:       696 (Hash: b0dc7a7a, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1435
+2018-12-16 18:55:25	Block commit:       697 (Hash: 94c790b9, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1437
+2018-12-16 18:55:30	Block commit:       698 (Hash: 46bd06fc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1439
+2018-12-16 18:56:11	Block commit:       699 (Hash: b4c3b325, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1441
+2018-12-16 18:56:41	Block commit:       700 (Hash: bd5d11ad, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1443
+2018-12-16 18:57:00	Block rollback:       699, Admin count: 1, Miner count: 7, Ledger Rows: 1441
+2018-12-16 18:57:00	Block rollback:       698, Admin count: 1, Miner count: 7, Ledger Rows: 1439
+2018-12-16 18:57:01	Block commit:       699 (Hash: 006adecc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1441
+2018-12-16 18:57:02	Block commit:       700 (Hash: ff863fa7, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1443
+2018-12-16 18:57:03	Block commit:       701 (Hash: 8d203803, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1445
+2018-12-16 18:57:07	Block commit:       702 (Hash: 186c860c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1447
+2018-12-16 18:57:18	Block rollback:       701, Admin count: 1, Miner count: 7, Ledger Rows: 1445
+2018-12-16 18:57:19	Block commit:       702 (Hash: 22ef3b56, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1447
+2018-12-16 18:57:19	Block commit:       703 (Hash: 9c7be03a, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1449
+2018-12-16 18:57:20	Block commit:       704 (Hash: 552e6e84, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1451
+2018-12-16 18:57:28	Block commit:       705 (Hash: 1a61586c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1453
+2018-12-16 18:57:49	Block commit:       706 (Hash: 0626d253, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1455
+2018-12-16 18:58:17	Block commit:       707 (Hash: 1854fa52, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1457
+2018-12-16 18:58:28	Block rollback:       706, Admin count: 1, Miner count: 7, Ledger Rows: 1455
+2018-12-16 18:58:28	Block commit:       707 (Hash: 94f13dd3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1457
+2018-12-16 18:58:29	Block commit:       708 (Hash: 72eabe40, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1459
+2018-12-16 18:58:48	Block commit:       709 (Hash: d6d27e06, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1461
+2018-12-16 18:58:54	Block commit:       710 (Hash: 0453e61d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1463
+2018-12-16 18:58:57	Block commit:       711 (Hash: fcc18632, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1465
+2018-12-16 18:59:15	Block commit:       712 (Hash: 11f89319, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1467
+2018-12-16 18:59:23	Block commit:       713 (Hash: ac046327, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1469
+2018-12-16 18:59:49	Block commit:       714 (Hash: 3f51c224, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1471
+2018-12-16 18:59:50	Block commit:       715 (Hash: 4336c412, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1473
+2018-12-16 19:00:13	Block commit:       716 (Hash: 22e7a919, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1475
+2018-12-16 19:00:37	Block commit:       717 (Hash: 0f2d87cc, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1477
+2018-12-16 19:00:54	Block commit:       718 (Hash: f32f0108, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1479
+2018-12-16 19:34:04	Block commit:       719 (Hash: 473eb438, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1481
+2018-12-16 19:34:05	Block commit:       720 (Hash: e6c61c0d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1483
+2018-12-16 19:34:15	Block commit:       721 (Hash: b41a2251, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1485
+2018-12-16 19:34:23	Block commit:       722 (Hash: 9f90efb2, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1487
+2018-12-16 19:34:27	Block commit:       723 (Hash: 605ccdc1, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1489
+2018-12-16 19:34:39	Block commit:       724 (Hash: 63ae6c10, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1491
+2018-12-16 19:34:53	Block commit:       725 (Hash: c3004929, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1493
+2018-12-16 19:35:01	Block commit:       726 (Hash: aa826551, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1495
+2018-12-16 19:35:14	Block commit:       727 (Hash: 2432f12f, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1497
+2018-12-16 19:35:18	Block commit:       728 (Hash: d05637c0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1499
+2018-12-16 19:35:25	Block commit:       729 (Hash: 777e005e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1501
+2018-12-16 19:56:04	Block commit:       730 (Hash: 05249450, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1503
+2018-12-16 19:56:16	Block commit:       731 (Hash: 796a206b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1505
+2018-12-16 19:56:24	Block commit:       732 (Hash: 3685df2a, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1507
+2018-12-16 19:56:41	Block commit:       733 (Hash: 422c5978, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1509
+2018-12-16 19:56:41	Block commit:       734 (Hash: 54bb46b2, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1511
+2018-12-16 19:56:52	Block commit:       735 (Hash: 1b2381fb, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1513
+2018-12-16 19:56:58	Block commit:       736 (Hash: 97fbf6ea, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1515
+2018-12-16 19:57:09	Block commit:       737 (Hash: 1583e783, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1517
+2018-12-16 19:57:16	Block commit:       738 (Hash: 6e92306d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1519
+2018-12-16 19:57:22	Block commit:       739 (Hash: cd58f5ac, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1521
+2018-12-16 19:57:33	Block commit:       740 (Hash: 0cff39e7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1523
+2018-12-16 19:57:45	Block commit:       741 (Hash: 3d2cdd94, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1525
+2018-12-16 19:58:18	Block commit:       742 (Hash: 71ec7d67, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1527
+2018-12-16 19:58:45	Block commit:       743 (Hash: 44cd57f9, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1529
+2018-12-16 19:58:46	Block commit:       744 (Hash: b2664988, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1531
+2018-12-16 19:59:21	Block commit:       745 (Hash: 2eb62c11, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1533
+2018-12-16 19:59:36	Block commit:       746 (Hash: fa003384, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1535
+2018-12-16 19:59:44	Block commit:       747 (Hash: 88b80c25, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1537
+2018-12-16 20:00:00	Block commit:       748 (Hash: 46b909ae, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1539
+2018-12-16 20:00:01	Block commit:       749 (Hash: f65862de, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1541
+2018-12-16 20:00:20	Block commit:       750 (Hash: 8b5e99f8, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1543
+2018-12-16 20:00:31	Block commit:       751 (Hash: 35b163eb, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1545
+2018-12-16 20:00:55	Block commit:       752 (Hash: c19662af, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1547
+2018-12-16 20:01:03	Block commit:       753 (Hash: 580072e2, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1549
+2018-12-16 20:01:19	Block commit:       754 (Hash: 560bacea, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1551
+2018-12-16 20:01:46	Block commit:       755 (Hash: 17bbdafd, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 1553
+2018-12-16 20:01:54	Block commit:       756 (Hash: 0786108c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1555
+2018-12-16 20:33:09	Block commit:       757 (Hash: ccace0fd, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1557
+2018-12-16 20:44:52	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1557
+2018-12-16 20:45:04	Block rollback:       757, Admin count: 1, Miner count: 7, Ledger Rows: 1557
+2018-12-16 20:45:17	Block commit:       758 (Hash: 7e8cede5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1559
+2018-12-16 20:45:36	Block commit:       759 (Hash: 5e863479, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1561
+2018-12-16 20:45:50	Block commit:       760 (Hash: ebbf4cb3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1563
+2018-12-16 20:46:12	Block commit:       761 (Hash: 609cdd41, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1565
+2018-12-16 20:46:49	Block commit:       762 (Hash: 3a785e8a, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1567
+2018-12-16 20:47:07	Block commit:       763 (Hash: e4ce4a7c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1569
+2018-12-16 20:47:22	Block commit:       764 (Hash: a56e1a7b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1571
+2018-12-16 20:47:47	Block commit:       765 (Hash: 4ad244ea, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1573
+2018-12-16 20:48:06	Block commit:       766 (Hash: 2fde33c2, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1575
+2018-12-16 20:48:15	Block commit:       767 (Hash: 6d9d9ef0, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1577
+2018-12-16 20:48:28	Block commit:       768 (Hash: 99216be9, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1579
+2018-12-16 20:48:42	Block commit:       769 (Hash: fd1acd87, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1581
+2018-12-16 20:48:43	Block commit:       770 (Hash: 0cfa55a9, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1583
+2018-12-20 10:44:49	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1583
+2018-12-20 10:45:03	Block rollback:       770, Admin count: 1, Miner count: 7, Ledger Rows: 1583
+2018-12-20 10:47:19	Block commit:       771 (Hash: 87077ba9, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1585
+2018-12-20 10:47:38	Block commit:       772 (Hash: f1cd0da5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1587
+2018-12-20 10:47:53	Block commit:       773 (Hash: 701ee40b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1589
+2018-12-20 10:48:04	Block rollback:       772, Admin count: 1, Miner count: 7, Ledger Rows: 1587
+2018-12-20 10:48:04	Block rollback:       771, Admin count: 1, Miner count: 7, Ledger Rows: 1585
+2018-12-20 10:48:04	Block rollback:       770, Admin count: 1, Miner count: 7, Ledger Rows: 1583
+2018-12-20 10:48:05	Block commit:       771 (Hash: 73b0ad7d, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1585
+2018-12-20 10:48:05	Block commit:       772 (Hash: 6e8e8d48, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1587
+2018-12-20 10:48:06	Block commit:       773 (Hash: 938f5e4a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1589
+2018-12-20 10:48:06	Block commit:       774 (Hash: 8492991b, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1591
+2018-12-20 10:48:06	Block commit:       775 (Hash: 0ac205ff, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1593
+2018-12-20 10:48:18	Block commit:       776 (Hash: bff32b4e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1595
+2018-12-20 10:48:32	Block commit:       777 (Hash: c3f3becb, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1597
+2018-12-20 10:48:45	Block commit:       778 (Hash: 6ae7c826, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1599
+2018-12-20 10:48:58	Block commit:       779 (Hash: a2d3d510, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1601
+2018-12-20 10:49:16	Block commit:       780 (Hash: 0be335e0, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1603
+2018-12-20 10:49:28	Block commit:       781 (Hash: dc86483a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1605
+2018-12-20 10:49:45	Block commit:       782 (Hash: 4aa92b2c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1607
+2018-12-20 10:49:57	Block rollback:       781, Admin count: 1, Miner count: 7, Ledger Rows: 1605
+2018-12-20 10:49:57	Block commit:       782 (Hash: 1480905a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1607
+2018-12-20 10:49:58	Block commit:       783 (Hash: 44995864, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1609
+2018-12-20 11:04:59	Block commit:       784 (Hash: 44e1515c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1611
+2018-12-20 11:05:10	Block commit:       785 (Hash: 4ecae3a0, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1613
+2018-12-20 11:05:12	Block commit:       786 (Hash: 3288836d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1615
+2018-12-20 11:05:21	Block commit:       787 (Hash: 93452fe4, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1617
+2018-12-20 11:05:38	Block commit:       788 (Hash: 32a6a5d3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1619
+2018-12-20 11:05:46	Block rollback:       787, Admin count: 1, Miner count: 7, Ledger Rows: 1617
+2018-12-20 11:05:46	Block commit:       788 (Hash: 19d4757e, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1619
+2018-12-20 11:05:46	Block commit:       789 (Hash: 5270fb7d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1621
+2018-12-20 11:05:58	Block commit:       790 (Hash: b7e5e6c7, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1623
+2018-12-20 11:06:06	Block commit:       791 (Hash: 91787de1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1625
+2018-12-20 11:06:12	Block commit:       792 (Hash: f3c1da48, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1627
+2018-12-20 11:06:15	Block commit:       793 (Hash: 54cd3d8b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1629
+2018-12-20 11:06:28	Block commit:       794 (Hash: 778e6220, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1631
+2018-12-20 11:06:32	Block commit:       795 (Hash: d4f38616, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1633
+2018-12-20 11:06:51	Block commit:       796 (Hash: e99315b2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1635
+2018-12-20 11:07:14	Block commit:       797 (Hash: 4a9429f7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1637
+2018-12-20 11:58:32	Block commit:       798 (Hash: fd6628d9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1639
+2018-12-20 11:58:41	Block commit:       799 (Hash: 0cb730b4, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1641
+2018-12-20 11:58:55	Block rollback:       798, Admin count: 1, Miner count: 7, Ledger Rows: 1639
+2018-12-20 11:58:55	Block commit:       799 (Hash: f08d2f50, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1641
+2018-12-20 11:58:56	Block commit:       800 (Hash: b0e775fc, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1643
+2018-12-20 11:58:56	Block commit:       801 (Hash: 6f125521, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1645
+2018-12-20 11:59:08	Block commit:       802 (Hash: 5666c0aa, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1647
+2018-12-20 11:59:24	Block commit:       803 (Hash: 19283d0c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1649
+2018-12-20 11:59:33	Block commit:       804 (Hash: e0328a31, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1651
+2018-12-20 11:59:43	Block commit:       805 (Hash: 06b84082, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1653
+2018-12-20 11:59:50	Block commit:       806 (Hash: cb8d987c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1655
+2018-12-20 11:59:53	Block commit:       807 (Hash: bda27654, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1657
+2018-12-20 11:59:57	Block commit:       808 (Hash: 79874db3, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1659
+2018-12-20 12:00:10	Block commit:       809 (Hash: df972fe3, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1661
+2018-12-20 12:00:34	Block commit:       810 (Hash: 48fbbee2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1663
+2018-12-21 09:05:10	Initialized: Admin count: 1, Miner count: 7, ledger rows: 1663
+2018-12-21 09:05:24	Block rollback:       810, Admin count: 1, Miner count: 7, Ledger Rows: 1663
+2018-12-21 09:08:12	Block commit:       811 (Hash: 6bd1592c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1665
+2018-12-21 09:08:26	Block commit:       812 (Hash: f406f312, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1667
+2018-12-21 09:08:27	Block commit:       813 (Hash: 4b95ffa6, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1669
+2018-12-21 09:08:47	Block commit:       814 (Hash: e5dbc6e0, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1671
+2018-12-21 09:09:05	Block commit:       815 (Hash: 34bff66b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1673
+2018-12-21 09:09:20	Block commit:       816 (Hash: 462a967d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1675
+2018-12-21 09:09:37	Block commit:       817 (Hash: a0acd109, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1677
+2018-12-21 09:10:00	Block commit:       818 (Hash: 7d48974a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1679
+2018-12-21 09:10:02	Block commit:       819 (Hash: 5e68d4f3, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1681
+2018-12-21 09:10:15	Block commit:       820 (Hash: e59d5684, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1683
+2018-12-21 09:10:37	Block commit:       821 (Hash: 4867761d, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1685
+2018-12-21 09:10:38	Block commit:       822 (Hash: 21372404, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1687
+2018-12-21 09:17:52	Block commit:       823 (Hash: 81bb1919, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1689
+2018-12-21 09:18:01	Block commit:       824 (Hash: 4fca11f5, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1691
+2018-12-21 09:18:04	Block commit:       825 (Hash: 20b6ec14, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1693
+2018-12-21 09:18:07	Block commit:       826 (Hash: 8a1fe438, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1695
+2018-12-21 09:18:12	Block commit:       827 (Hash: b56c6e2e, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1697
+2018-12-21 09:18:18	Block commit:       828 (Hash: 3cf4579d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1699
+2018-12-21 09:18:23	Block commit:       829 (Hash: ee020ca1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1701
+2018-12-21 09:19:07	Block rollback:       828, Admin count: 1, Miner count: 7, Ledger Rows: 1699
+2018-12-21 09:19:08	Block commit:       829 (Hash: ff02d582, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1701
+2018-12-21 09:19:08	Block commit:       830 (Hash: 0e859e33, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1703
+2018-12-21 09:19:25	Block rollback:       829, Admin count: 1, Miner count: 7, Ledger Rows: 1701
+2018-12-21 09:19:26	Block rollback:       828, Admin count: 1, Miner count: 7, Ledger Rows: 1699
+2018-12-21 09:19:26	Block commit:       829 (Hash: ee020ca1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1701
+2018-12-21 09:19:27	Block commit:       830 (Hash: e511d80c, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1703
+2018-12-21 09:19:27	Block commit:       831 (Hash: 87689383, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1705
+2018-12-21 09:19:29	Block commit:       832 (Hash: ca78e586, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1707
+2018-12-21 09:19:32	Block commit:       833 (Hash: 1e092016, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1709
+2018-12-21 09:19:36	Block commit:       834 (Hash: e921ea02, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1711
+2018-12-21 09:19:59	Block commit:       835 (Hash: dff8e848, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1713
+2018-12-21 09:20:25	Block commit:       836 (Hash: 57ea49cd, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1715
+2018-12-21 09:20:43	Block commit:       837 (Hash: b9b17dd2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1717
+2018-12-21 09:20:56	Block commit:       838 (Hash: ec069c20, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1719
+2018-12-21 09:21:06	Block commit:       839 (Hash: f8b7f80c, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1721
+2018-12-21 09:21:18	Block commit:       840 (Hash: 1114f9a3, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1723
+2018-12-21 09:21:40	Block commit:       841 (Hash: 307df4a2, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1725
+2018-12-21 09:21:41	Block commit:       842 (Hash: e51ceb64, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1727
+2018-12-21 09:22:00	Block commit:       843 (Hash: bca0a8cb, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1729
+2018-12-21 09:22:21	Block commit:       844 (Hash: 35f9a25f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1731
+2018-12-21 09:22:31	Block commit:       845 (Hash: 2fcdc9e6, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1733
+2018-12-21 09:22:53	Block commit:       846 (Hash: 2566aab7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1735
+2018-12-21 09:23:08	Block commit:       847 (Hash: 164f06ca, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1737
+2018-12-21 09:23:22	Block commit:       848 (Hash: a23bffb7, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1739
+2018-12-21 09:23:39	Block commit:       849 (Hash: cf1fa4c2, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1741
+2018-12-21 09:23:51	Block commit:       850 (Hash: c8ec1bb7, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1743
+2018-12-21 09:24:08	Block commit:       851 (Hash: 6df259de, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1745
+2018-12-21 09:24:26	Block commit:       852 (Hash: d2317c7b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1747
+2018-12-21 09:24:38	Block commit:       853 (Hash: fcb32c6c, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1749
+2018-12-21 09:24:53	Block commit:       854 (Hash: d9faa5b3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1751
+2018-12-21 09:25:10	Block commit:       855 (Hash: 365cd04a, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1753
+2018-12-21 09:36:03	Block commit:       856 (Hash: b59f58d9, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1755
+2018-12-21 09:36:04	Block commit:       857 (Hash: 499b1c20, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1757
+2018-12-21 09:36:08	Block commit:       858 (Hash: fa467a48, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1759
+2018-12-21 09:36:15	Block commit:       859 (Hash: 5ffbd6ca, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1761
+2018-12-21 09:36:40	Block commit:       860 (Hash: 557622b4, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1763
+2018-12-21 09:37:03	Block commit:       861 (Hash: e8a28cbf, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1765
+2018-12-21 09:37:07	Block commit:       862 (Hash: 10adc3b6, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1767
+2018-12-21 09:37:17	Block commit:       863 (Hash: 4698aac3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1769
+2018-12-21 09:37:27	Block commit:       864 (Hash: e5dacb72, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1771
+2018-12-21 09:37:34	Block commit:       865 (Hash: 48531a1d, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1773
+2018-12-21 09:37:42	Block commit:       866 (Hash: 83142c67, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1775
+2018-12-21 09:37:49	Block commit:       867 (Hash: c05927fe, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1777
+2018-12-21 09:38:09	Block commit:       868 (Hash: 8b5f1dff, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1779
+2018-12-21 09:38:55	Block commit:       869 (Hash: 9c876fea, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1781
+2018-12-21 09:39:01	Block commit:       870 (Hash: 4e297d87, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1783
+2018-12-21 09:39:09	Block commit:       871 (Hash: e5e4e725, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1785
+2018-12-21 09:39:22	Block commit:       872 (Hash: d849eb46, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1787
+2018-12-21 09:39:24	Block commit:       873 (Hash: 9d93c895, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1789
+2018-12-21 09:39:53	Block commit:       874 (Hash: 53ec47e8, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1791
+2018-12-21 09:40:06	Block commit:       875 (Hash: 8c28fc71, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1793
+2018-12-21 09:40:16	Block commit:       876 (Hash: 94185f82, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1795
+2018-12-21 09:40:39	Block commit:       877 (Hash: d32d051b, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1797
+2018-12-21 09:40:40	Block commit:       878 (Hash: 34aa9a78, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1799
+2018-12-21 09:41:07	Block commit:       879 (Hash: 576fe1e5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1801
+2018-12-21 09:41:28	Block commit:       880 (Hash: 9a7dc956, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1803
+2018-12-21 09:41:41	Block commit:       881 (Hash: 8898ad72, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1805
+2018-12-21 09:41:50	Block commit:       882 (Hash: d5fe5a02, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1807
+2018-12-21 09:42:05	Block commit:       883 (Hash: ca33edec, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1809
+2018-12-21 09:42:21	Block commit:       884 (Hash: 9a8b9bcb, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1811
+2018-12-21 09:42:38	Block commit:       885 (Hash: 55e3b388, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 1813
+2018-12-21 09:42:38	Block commit:       886 (Hash: b53a221d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1815
+2018-12-21 09:42:57	Block commit:       887 (Hash: 84957895, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1817
+2018-12-21 09:43:24	Block commit:       888 (Hash: bf64b8cb, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1819
+2018-12-21 09:43:33	Block commit:       889 (Hash: 235035b2, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1821
+2018-12-21 09:43:49	Block commit:       890 (Hash: 8d285904, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1823
+2018-12-21 09:44:04	Block commit:       891 (Hash: a21db134, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1825
+2018-12-21 09:44:05	Block commit:       892 (Hash: 617a58a9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1827
+2018-12-21 09:44:24	Block commit:       893 (Hash: e95b1bd1, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1829
+2018-12-21 09:44:52	Block commit:       894 (Hash: f5eb2f68, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1831
+2018-12-21 09:45:01	Block commit:       895 (Hash: dde656f3, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1833
+2018-12-21 09:45:02	Block commit:       896 (Hash: be754f44, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1835
+2018-12-21 09:45:23	Block commit:       897 (Hash: f11395a9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1837
+2018-12-21 09:45:48	Block commit:       898 (Hash: 27a3a5f1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1839
+2018-12-21 09:46:06	Block commit:       899 (Hash: 1b71e097, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1841
+2018-12-21 09:46:16	Block commit:       900 (Hash: 5372767e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1843
+2018-12-21 09:50:35	Block commit:       901 (Hash: 40c310ef, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1845
+2018-12-21 09:50:43	Block commit:       902 (Hash: e250cb3e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1847
+2018-12-21 09:51:04	Block rollback:       901, Admin count: 1, Miner count: 7, Ledger Rows: 1845
+2018-12-21 09:51:05	Block commit:       902 (Hash: 1dc43b5c, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1847
+2018-12-21 09:51:06	Block commit:       903 (Hash: 4fbed444, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1849
+2018-12-21 09:51:07	Block commit:       904 (Hash: 1ffb800d, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1851
+2018-12-21 09:51:07	Block rollback:       903, Admin count: 1, Miner count: 7, Ledger Rows: 1849
+2018-12-21 09:51:08	Block commit:       904 (Hash: 84b084a4, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1851
+2018-12-21 09:51:08	Block commit:       905 (Hash: 06a0fda1, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1853
+2018-12-21 09:51:12	Block commit:       906 (Hash: ce6ec387, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1855
+2018-12-21 09:51:16	Block commit:       907 (Hash: 419e11b1, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1857
+2018-12-21 09:51:22	Block commit:       908 (Hash: 85b41607, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1859
+2018-12-21 09:51:25	Block commit:       909 (Hash: 20f4d71d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1861
+2018-12-21 09:51:32	Block commit:       910 (Hash: f219b5f0, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1863
+2018-12-21 09:51:55	Block commit:       911 (Hash: fbaab106, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1865
+2018-12-21 09:52:19	Block commit:       912 (Hash: 6a5ba9ec, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1867
+2018-12-21 09:53:04	Block commit:       913 (Hash: 8dc35f22, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1869
+2018-12-21 09:53:05	Block commit:       914 (Hash: 1536b033, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1871
+2018-12-21 09:53:13	Block commit:       915 (Hash: 1caab8e2, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1873
+2018-12-21 09:53:34	Block commit:       916 (Hash: d318d0e9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1875
+2018-12-21 09:53:41	Block commit:       917 (Hash: edd772c6, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1877
+2018-12-21 09:53:41	Block commit:       918 (Hash: a8d20fb5, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1879
+2018-12-21 09:54:12	Block commit:       919 (Hash: 83b9fca8, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1881
+2018-12-21 09:54:18	Block commit:       920 (Hash: 9c9fc5cc, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1883
+2018-12-21 09:54:34	Block commit:       921 (Hash: fbe6be85, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1885
+2018-12-21 09:54:50	Block commit:       922 (Hash: 13548a90, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1887
+2018-12-21 09:55:07	Block commit:       923 (Hash: 6302abfc, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1889
+2018-12-21 09:55:25	Block commit:       924 (Hash: 44264d3f, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1891
+2018-12-21 09:55:45	Block commit:       925 (Hash: 066dea3c, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1893
+2018-12-21 09:55:55	Block commit:       926 (Hash: 5a410930, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1895
+2018-12-21 09:56:07	Block commit:       927 (Hash: 000e0a41, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1897
+2018-12-21 09:56:23	Block commit:       928 (Hash: 403556a2, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1899
+2018-12-21 09:56:37	Block commit:       929 (Hash: ae3298ca, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1901
+2018-12-21 09:56:54	Block commit:       930 (Hash: 17d99bd4, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1903
+2018-12-21 09:57:09	Block rollback:       929, Admin count: 1, Miner count: 7, Ledger Rows: 1901
+2018-12-21 09:57:10	Block commit:       930 (Hash: a431780d, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1903
+2018-12-21 09:57:11	Block commit:       931 (Hash: dba184e5, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1905
+2018-12-21 09:57:42	Block commit:       932 (Hash: c33ffcc3, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1907
+2018-12-21 09:57:43	Block commit:       933 (Hash: ad517df6, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1909
+2018-12-21 09:57:57	Block commit:       934 (Hash: d002fd84, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1911
+2018-12-21 09:58:09	Block commit:       935 (Hash: aa6aa7e9, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1913
+2018-12-21 09:58:27	Block commit:       936 (Hash: a1244a17, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1915
+2018-12-21 09:58:40	Block commit:       937 (Hash: 9fc69747, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1917
+2018-12-21 09:58:53	Block commit:       938 (Hash: c7c67206, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1919
+2018-12-21 09:59:14	Block rollback:       937, Admin count: 1, Miner count: 7, Ledger Rows: 1917
+2018-12-21 09:59:15	Block commit:       938 (Hash: d41c0725, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1919
+2018-12-21 09:59:15	Block commit:       939 (Hash: 0e108695, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1921
+2018-12-21 09:59:21	Block commit:       940 (Hash: 4a47ba08, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1923
+2018-12-21 09:59:38	Block commit:       941 (Hash: c594f5d9, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1925
+2018-12-21 09:59:53	Block commit:       942 (Hash: d5a0dab2, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1927
+2018-12-21 10:00:12	Block commit:       943 (Hash: debe4442, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1929
+2018-12-21 10:00:21	Block commit:       944 (Hash: f6c6d633, Miner: 64603879), Admin count: 1, Miner count: 7, Ledger Rows: 1931
+2018-12-21 10:02:58	Block commit:       945 (Hash: 5b91a490, Miner: 1c4473c4), Admin count: 1, Miner count: 7, Ledger Rows: 1933
+2018-12-21 10:03:03	Block commit:       946 (Hash: 585ccf8f, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1935
+2018-12-21 10:03:04	Block commit:       947 (Hash: 7835b1e8, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1937
+2018-12-21 10:03:09	Block commit:       948 (Hash: 9a6841da, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1939
+2018-12-21 10:03:14	Block commit:       949 (Hash: 6957f40d, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1941
+2018-12-21 10:03:32	Block commit:       950 (Hash: 49ac72ac, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1943
+2018-12-21 10:03:54	Block commit:       951 (Hash: d9d2cb23, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1945
+2018-12-21 10:04:03	Block rollback:       950, Admin count: 1, Miner count: 7, Ledger Rows: 1943
+2018-12-21 10:04:04	Block rollback:       949, Admin count: 1, Miner count: 7, Ledger Rows: 1941
+2018-12-21 10:04:04	Block commit:       950 (Hash: be3f3fdf, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1943
+2018-12-21 10:04:05	Block commit:       951 (Hash: 2b7ebbb4, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1945
+2018-12-21 10:04:06	Block commit:       952 (Hash: a62f73cc, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1947
+2018-12-21 10:04:13	Block commit:       953 (Hash: 6afe919b, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1949
+2018-12-21 10:04:18	Block commit:       954 (Hash: 4f36cd02, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1951
+2018-12-21 10:04:46	Block commit:       955 (Hash: 20a84936, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1953
+2018-12-21 10:04:46	Block commit:       956 (Hash: d24382c3, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1955
+2018-12-21 10:05:18	Block commit:       957 (Hash: 206f260f, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1957
+2018-12-21 10:05:35	Block commit:       958 (Hash: f164ff31, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1959
+2018-12-21 10:05:44	Block commit:       959 (Hash: e6c6ceb6, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1961
+2018-12-21 10:05:56	Block commit:       960 (Hash: d20d9876, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1963
+2018-12-21 10:06:11	Block commit:       961 (Hash: 933a765e, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1965
+2018-12-21 10:06:34	Block commit:       962 (Hash: 98967e53, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1967
+2018-12-21 10:06:46	Block commit:       963 (Hash: 117e6cce, Miner: 859719c0), Admin count: 1, Miner count: 7, Ledger Rows: 1969
+2018-12-21 10:07:05	Block commit:       964 (Hash: 8d8f14be, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1971
+2018-12-21 10:07:06	Block commit:       965 (Hash: f609039c, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1973
+2018-12-21 10:07:24	Block commit:       966 (Hash: 9bf52214, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1975
+2018-12-21 10:07:48	Block commit:       967 (Hash: 871caeee, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1977
+2018-12-21 10:07:55	Block commit:       968 (Hash: 7654da48, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1979
+2018-12-21 10:08:12	Block commit:       969 (Hash: c4b5a207, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1981
+2018-12-21 10:08:30	Block commit:       970 (Hash: c4062a8c, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1983
+2018-12-21 10:08:49	Block commit:       971 (Hash: 5a59009f, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1985
+2018-12-21 10:08:56	Block commit:       972 (Hash: d9221120, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1987
+2018-12-21 10:09:19	Block commit:       973 (Hash: 0198ab6b, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1989
+2018-12-21 10:09:29	Block commit:       974 (Hash: 464ad889, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1991
+2018-12-21 10:09:41	Block commit:       975 (Hash: b256c2fa, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1993
+2018-12-21 10:10:00	Block commit:       976 (Hash: 7d835e69, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1995
+2018-12-21 10:10:16	Block commit:       977 (Hash: ff45b235, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 1997
+2018-12-21 10:10:25	Block commit:       978 (Hash: 35ffea80, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 1999
+2018-12-21 10:10:52	Block commit:       979 (Hash: 7e9595d8, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2001
+2018-12-21 10:10:54	Block commit:       980 (Hash: 5e22098a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2003
+2018-12-21 10:18:05	Block commit:       981 (Hash: 7a093762, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2005
+2018-12-21 10:18:06	Block commit:       982 (Hash: 40ebcc65, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2007
+2018-12-21 10:18:19	Block commit:       983 (Hash: 027830fd, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2009
+2018-12-21 10:18:32	Block commit:       984 (Hash: 9a50beb3, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2011
+2018-12-21 10:18:33	Block commit:       985 (Hash: 34ed860f, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2013
+2018-12-21 10:18:50	Block commit:       986 (Hash: 02845cee, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2015
+2018-12-21 10:19:05	Block commit:       987 (Hash: 5f4942c8, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2017
+2018-12-21 10:19:09	Block commit:       988 (Hash: 84ff816d, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2019
+2018-12-21 10:19:19	Block commit:       989 (Hash: 5c021d4b, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2021
+2018-12-21 10:19:24	Block commit:       990 (Hash: 2003267b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2023
+2018-12-21 10:19:28	Block commit:       991 (Hash: ae7133e6, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2025
+2018-12-21 10:19:45	Block commit:       992 (Hash: de0c827b, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2027
+2018-12-21 10:20:06	Block commit:       993 (Hash: b7152680, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2029
+2018-12-21 10:20:53	Block commit:       994 (Hash: c27ee159, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2031
+2018-12-21 10:21:06	Block rollback:       993, Admin count: 1, Miner count: 7, Ledger Rows: 2029
+2018-12-21 10:21:07	Block commit:       994 (Hash: 7a830772, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2031
+2018-12-21 10:21:07	Block commit:       995 (Hash: cc419f89, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2033
+2018-12-21 10:21:15	Block commit:       996 (Hash: 53e47935, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2035
+2018-12-21 10:21:21	Block commit:       997 (Hash: ca6351f0, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2037
+2018-12-21 10:21:35	Block commit:       998 (Hash: 3d3f9cb0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2039
+2018-12-21 10:21:49	Block commit:       999 (Hash: 79e5f35e, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2041
+2018-12-21 10:22:07	Block commit:      1000 (Hash: 7214cdad, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2043
+2018-12-21 10:22:18	Block commit:      1001 (Hash: 649c95f2, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2045
+2018-12-21 10:22:30	Block commit:      1002 (Hash: 964cf34d, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2047
+2018-12-21 10:22:45	Block commit:      1003 (Hash: 84c47fe0, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2049
+2018-12-21 10:27:46	Block commit:      1004 (Hash: c093c5cd, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2051
+2018-12-21 10:27:50	Block commit:      1005 (Hash: c6af7fd2, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2053
+2018-12-21 10:27:51	Block commit:      1006 (Hash: 9fad426a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2055
+2018-12-21 10:28:03	Block commit:      1007 (Hash: cbf3fc63, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2057
+2018-12-21 10:28:13	Block commit:      1008 (Hash: 97655675, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2059
+2018-12-21 10:28:22	Block commit:      1009 (Hash: 62940649, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2061
+2018-12-21 10:28:25	Block commit:      1010 (Hash: 5b1b6d33, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2063
+2018-12-21 10:28:36	Block commit:      1011 (Hash: 3a37424c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2065
+2018-12-21 10:28:44	Block rollback:      1010, Admin count: 1, Miner count: 7, Ledger Rows: 2063
+2018-12-21 10:28:45	Block commit:      1011 (Hash: 695549d4, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2065
+2018-12-21 10:28:46	Block commit:      1012 (Hash: 671f1535, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2067
+2018-12-21 10:28:51	Block commit:      1013 (Hash: 4dddf856, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2069
+2018-12-21 10:29:15	Block commit:      1014 (Hash: c5a531d7, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2071
+2018-12-21 10:29:16	Block commit:      1015 (Hash: 40d02a9b, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2073
+2018-12-21 10:30:52	Block commit:      1016 (Hash: 3410daaa, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2075
+2018-12-21 10:30:58	Block commit:      1017 (Hash: a579d07d, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2077
+2018-12-21 10:31:16	Block commit:      1018 (Hash: a5bb575a, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2079
+2018-12-21 10:31:17	Block commit:      1019 (Hash: 71205d94, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2081
+2018-12-21 10:31:26	Block commit:      1020 (Hash: 033aef0f, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2083
+2018-12-21 10:31:35	Block commit:      1021 (Hash: 821f21f5, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2085
+2018-12-21 10:31:40	Block commit:      1022 (Hash: bdfd9e89, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2087
+2018-12-21 10:31:54	Block commit:      1023 (Hash: 294f2afa, Miner: 18778d03), Admin count: 1, Miner count: 7, Ledger Rows: 2089
+2018-12-21 10:32:10	Block commit:      1024 (Hash: d18e6640, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2091
+2018-12-21 10:32:28	Block commit:      1025 (Hash: 3f39d2c8, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2093
+2018-12-21 10:32:52	Block commit:      1026 (Hash: c3b2ff4b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2095
+2018-12-21 10:33:10	Block commit:      1027 (Hash: 85aecc58, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2097
+2018-12-21 10:33:28	Block commit:      1028 (Hash: f033a673, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2099
+2018-12-21 10:33:38	Block commit:      1029 (Hash: d7a2dc41, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2101
+2018-12-21 10:33:48	Block commit:      1030 (Hash: 4a766e1f, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2103
+2018-12-21 10:34:04	Block commit:      1031 (Hash: d0611013, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2105
+2018-12-21 10:34:05	Block commit:      1032 (Hash: 77971b28, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2107
+2018-12-21 10:34:30	Block commit:      1033 (Hash: 7fd214e1, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2109
+2018-12-21 10:34:47	Block commit:      1034 (Hash: 6913b454, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2111
+2018-12-21 10:35:00	Block rollback:      1033, Admin count: 1, Miner count: 7, Ledger Rows: 2109
+2018-12-21 10:35:01	Block commit:      1034 (Hash: 05ffddfd, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2111
+2018-12-21 10:35:02	Block commit:      1035 (Hash: 7a56d0d6, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2113
+2018-12-21 10:35:18	Block commit:      1036 (Hash: 292375cc, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2115
+2018-12-21 10:35:32	Block commit:      1037 (Hash: b9f02e9f, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2117
+2018-12-21 10:35:56	Block commit:      1038 (Hash: c34ee0f8, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2119
+2018-12-21 10:36:13	Block commit:      1039 (Hash: addb47d8, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2121
+2018-12-21 10:36:14	Block commit:      1040 (Hash: 898841de, Miner: af07b7d2), Admin count: 1, Miner count: 7, Ledger Rows: 2123
+2018-12-21 10:36:35	Block commit:      1041 (Hash: c0c7259e, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2125
+2018-12-21 11:05:37	Block commit:      1042 (Hash: 0153a5fd, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2127
+2018-12-21 11:05:40	Block commit:      1043 (Hash: a6567fee, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2129
+2018-12-21 11:05:45	Block commit:      1044 (Hash: 5624d869, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2131
+2018-12-21 11:05:46	Block commit:      1045 (Hash: 9c9c560c, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2133
+2018-12-21 11:05:55	Block commit:      1046 (Hash: 5c5b7fec, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2135
+2018-12-21 11:06:05	Block commit:      1047 (Hash: 784872d1, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2137
+2018-12-21 11:06:17	Block commit:      1048 (Hash: 90232606, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2139
+2018-12-21 11:06:23	Block commit:      1049 (Hash: 1188c35b, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2141
+2018-12-21 11:06:30	Block commit:      1050 (Hash: 6cf416ec, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2143
+2018-12-21 11:06:43	Block commit:      1051 (Hash: c41d424c, Miner: 4f223ea1), Admin count: 1, Miner count: 7, Ledger Rows: 2145
+2018-12-21 11:06:44	Block commit:      1052 (Hash: 795d4d65, Miner: 1358d3d1), Admin count: 1, Miner count: 7, Ledger Rows: 2147
