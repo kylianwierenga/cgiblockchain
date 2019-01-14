@@ -1,0 +1,6 @@
+[Mon Jan 14 01:23:09.307748 2019] [mpm_winnt:notice] [pid 10384:tid 880] AH00455: Apache/2.4.6 (Win32) PHP/5.4.17 configured -- resuming normal operations
+[Mon Jan 14 01:23:09.308748 2019] [mpm_winnt:notice] [pid 10384:tid 880] AH00456: Apache Lounge VC10 Server built: Jul 16 2013 11:15:41
+[Mon Jan 14 01:23:09.308748 2019] [core:notice] [pid 10384:tid 880] AH00094: Command line: 'D:\\multichain/apache2/bin/httpd_usbwv8.exe -d D:/multichain/apache2'
+[Mon Jan 14 01:23:09.320741 2019] [mpm_winnt:notice] [pid 10384:tid 880] AH00418: Parent: Created child process 9016
+[Mon Jan 14 01:23:10.157594 2019] [mpm_winnt:notice] [pid 9016:tid 844] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 14 03:10:19.019949 2019] [mpm_winnt:warn] [pid 9016:tid 1908] (OS 64)De opgegeven netwerknaam is niet langer beschikbaar.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.

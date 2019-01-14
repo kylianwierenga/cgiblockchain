@@ -1,0 +1,11 @@
+2019/01/14-01:23:23.000213 32fc Recovering log #130
+2019/01/14-01:23:23.000214 32fc Level-0 table #132: started
+2019/01/14-01:23:23.000298 32fc Level-0 table #132: 1616 bytes OK
+2019/01/14-01:23:23.000523 32fc Delete type=0 #130
+2019/01/14-01:23:23.000559 32fc Delete type=3 #129
+2019/01/14-01:23:23.000504 1cc8 Compacting 1@0 + 1@1 files
+2019/01/14-01:23:23.000575 1cc8 Generated table #134: 8 keys, 695 bytes
+2019/01/14-01:23:23.000575 1cc8 Compacted 1@0 + 1@1 files => 695 bytes
+2019/01/14-01:23:23.000583 1cc8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/01/14-01:23:23.000583 1cc8 Delete type=2 #128
+2019/01/14-01:23:23.000612 1cc8 Delete type=2 #132
